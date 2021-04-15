@@ -1,0 +1,43 @@
+@import "vars";
+
+.nav {
+  height: $nav-height;
+  background-color: white;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  box-shadow: black 0px -1px 6px;
+
+  &__wrapper {
+    width: min(100%, #{$main-column-width});
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__center {
+    flex: 1;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  &__link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: $nav-height;
+    min-width: 100px;
+    padding: 0 20px;
+    color: black;
+    background-color: white;
+    flex: 0;
+    transition: 0.2s linear;
+    transition-property: background-color;
+
+    &:hover {
+      background-color: black;
+      color: white;
+    }
+  }
+}

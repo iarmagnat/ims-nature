@@ -1,0 +1,39 @@
+@import "species";
+@import "vars";
+@import "nav";
+
+@font-face {
+  font-family: Caveat;
+  src: url(../fonts/Caveat-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: "Patrick Hand";
+  src: url(../fonts/PatrickHand-Regular.ttf);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: $main-background-color;
+  font-family: 'Patrick Hand', cursive;
+  font-size: 18px;
+  margin: 0;
+  padding: $nav-height 0 0;
+  position: relative;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+.main {
+  background-color: white;
+  width: min(100%, #{$main-column-width});
+  margin: auto;
+}

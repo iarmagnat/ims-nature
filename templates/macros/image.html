@@ -1,0 +1,6 @@
+{% macro render(src, alt, title, class) %}
+  <img src="{{ url_for('static', filename=src) }}" alt="{{ alt }}"
+      {% if title %}title="{{ title }}"{% endif %}
+      {% if class %}class="{{ class }}"{% endif %}
+  >
+{% endmacro %}

@@ -1,0 +1,4 @@
+.idea
+.python-version
+static/media/*
+__pycache__/*

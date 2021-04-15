@@ -1,0 +1,39 @@
+{% extends 'layout.html' %}
+
+{% import 'macros/image.html' as image %}
+
+{% block page_title -%}
+{{ data.vernacular }}
+{%- endblock %}
+
+{% block main %}
+  <div class="species">
+    <div class="species__image">
+      {{ image.render(**data.image) }}
+    </div>
+    <div class="species__description">
+      <h1 class="species__title">
+        {{ data.vernacular }}
+      </h1>
+      <div class="species__subtitle">
+        {{ data.name }}
+      </div>
+      <div class="species__iucn">
+        {{ image.render("media/img/IUCN_LC.PNG", "IUCN Least concern") }}
+      </div>
+      <div class="species__content">
+        <ul>
+          {% for (key, value) in data.page_content.items() %}
+            <li>
+              <b>{{ key }}</b> : {{ value }}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="species__sound">{{ data.sound.src }}</div>
+      <div class="species__map">
+        {{ image.render(**data.map) }}
+      </div>
+    </div>
+  </div>
+{% endblock %}

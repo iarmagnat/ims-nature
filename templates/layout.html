@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="{{ url_for('static', filename="css/main.css") }}">
+  <title>
+    {%- block page_title -%}
+      Ponky
+    {%- endblock -%}
+  </title>
+</head>
+<body>
+<nav class="nav">
+  <div class="nav__wrapper">
+    <div class="nav__left">
+      <a href="{{ url_for('home') }}" class="nav__link nav__link--logo">
+        JE suis le nom du <br/> site(IMS Photo?)
+      </a>
+    </div>
+    <div class="nav__center">
+      <a class="nav__link" href="{{ url_for('home') }}">home</a>
+      <a class="nav__link" href="{{ url_for('huppe') }}">oiseaux</a>
+      <a class="nav__link" href="{{ url_for('huppe') }}">mammifères</a>
+      <a class="nav__link" href="{{ url_for('huppe') }}">insectes</a>
+      <a class="nav__link" href="{{ url_for('huppe') }}">plantes</a>
+    </div>
+  </div>
+</nav>
+
+<div class="main">
+
+  {% block main %}
+  {% endblock %}
+
+</div>
+
+</body>
+</html>

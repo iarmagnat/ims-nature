@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "meta_desription": ""
+  },
+  "type": "species",
+  "vernacular": "Huppe fasciée",
+  "name": "Upupa epops",
+  "image": {
+    "src": "media/img/Huppe.JPG",
+    "alt": "Une huppe fasciée",
+    "title": "Une huppe fasciée"
+  },
+  "iucn": "lc",
+  "taxonomy": {},
+  "page_content": {
+    "ordre": "Bucerotiformes",
+    "famille": "Bucerotiformes",
+    "ponte": "Bucerotiformes",
+    "répartition": "Bucerotiformes",
+    "habitat": "Bucerotiformes",
+    "chant": "hoop hoop hoop",
+    "cri": "kwaaa",
+    "pon": "ky"
+  },
+  "sound": {
+    "src": "une/super/url"
+  },
+  "map": {
+    "src": "media/img/Aire_Huppe.PNG",
+    "alt": "Aire de répartition de la Huppe",
+    "title": "Aire de répartition de la Huppe"
+  }
+}
