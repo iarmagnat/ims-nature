@@ -1,28 +1,36 @@
+{% import 'macros/leaf.html' as leaf %}
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
   <link rel="stylesheet" href="{{ url_for('static', filename="css/main.css") }}">
+  <link rel="icon" href="{{ url_for('static', filename='icons/favicon-32x32.png') }}">
   <title>
     {%- block page_title -%}
-      Ponky
+      IMS Nature
     {%- endblock -%}
   </title>
+  <meta name="description" content="{% block meta_description -%}
+    IMS Nature : un site avec des photos de nature
+  {%- endblock %}">
 </head>
 <body>
+
 <nav class="nav">
   <div class="nav__wrapper">
     <div class="nav__left">
       <a href="{{ url_for('home') }}" class="nav__link nav__link--logo">
-        JE suis le nom du <br/> site(IMS Photo?)
+        IMS Nature {{ leaf.render('nav__logo') }}
       </a>
     </div>
     <div class="nav__center">
-      <a class="nav__link" href="{{ url_for('home') }}">home</a>
-      <a class="nav__link" href="{{ url_for('huppe') }}">oiseaux</a>
-      <a class="nav__link" href="{{ url_for('huppe') }}">mammifères</a>
-      <a class="nav__link" href="{{ url_for('huppe') }}">insectes</a>
-      <a class="nav__link" href="{{ url_for('huppe') }}">plantes</a>
+      <div class="nav__filler"></div>
+      <a class="nav__link" href="{{ url_for('home') }}">Accueil</a>
+      <a class="nav__link" href="{{ url_for('huppe') }}">Oiseaux</a>
+      <a class="nav__link" href="{{ url_for('huppe') }}">Mammifères</a>
+      <a class="nav__link" href="{{ url_for('huppe') }}">Insectes</a>
+      <a class="nav__link" href="{{ url_for('huppe') }}">Plantes</a>
     </div>
   </div>
 </nav>

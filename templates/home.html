@@ -1,16 +1,12 @@
 {% extends 'layout.html' %}
 {% import 'macros/image.html' as image %}
 
-{% block page_title -%}
-  {{ ma_super_variable }}
-{%- endblock %}
-
 {% block main %}
   <div class="species">
     <div class="species__image">
       {{ image.render("media/img/Huppe.JPG", "Une huppe fasciée", "Une huppe fasciée") }}
     </div>
-    <div class="species__description">
+    <div class="species__info">
       <div class="species__title">
         Huppe fasciée
       </div>
@@ -31,7 +27,7 @@
       </div>
       <div class="species__sound">son</div>
       <div class="species__map">
-        {{ image.render("media/img/Aire_Huppe.PNG", "Aire de répartition de la Huppe") }}
+        {{ image.render("media/img/Aire_Huppe.jpg", "Aire de répartition de la Huppe") }}
       </div>
     </div>
   </div>
@@ -41,7 +37,7 @@
       <img src="{{ url_for('static', filename='media/img/Huppe.JPG') }}" alt="Une huppe fasciée"
            title="Une huppe fasciée">
     </div>
-    <div class="species__description">
+    <div class="species__info">
       <div class="species__title">
         Huppe fasciée
       </div>
@@ -62,7 +58,7 @@
       </div>
       <div class="species__sound"> son</div>
       <div class="species__map">
-        <img src="{{ url_for('static', filename='media/img/Aire_Huppe.PNG') }}"
+        <img src="{{ url_for('static', filename='media/img/Aire_Huppe.jpg') }}"
              alt="Aire de répartition de la Huppe">
       </div>
     </div>

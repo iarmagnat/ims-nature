@@ -13,20 +13,19 @@
   "iucn": "lc",
   "taxonomy": {},
   "page_content": {
-    "ordre": "Bucerotiformes",
-    "famille": "Bucerotiformes",
-    "ponte": "Bucerotiformes",
-    "répartition": "Bucerotiformes",
-    "habitat": "Bucerotiformes",
-    "chant": "hoop hoop hoop",
-    "cri": "kwaaa",
-    "pon": "ky"
+    "Ordre": "Bucerotiformes",
+    "Famille": "Upupidae",
+    "Ponte": "Mai-Juin",
+    "Répartition": "Régions chaudes et tempérées de l'ancien monde",
+    "Habitat": "Jardins, bois, vergers, vignes",
+    "Chant": "Hoop hoop hoop!"
   },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
   "sound": {
-    "src": "une/super/url"
+    "src": "media/sounds/Upupa_epops.ogg"
   },
   "map": {
-    "src": "media/img/Aire_Huppe.PNG",
+    "src": "media/img/Aire_Huppe.jpg",
     "alt": "Aire de répartition de la Huppe",
     "title": "Aire de répartition de la Huppe"
   }

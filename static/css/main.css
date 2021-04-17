@@ -8,7 +8,7 @@
 .species__image {
   width: 70%;
 }
-.species__description {
+.species__info {
   padding-left: 5px;
   width: 30%;
   display: flex;
@@ -26,21 +26,37 @@
   text-align: center;
   font-style: italic;
 }
-.species__iucn {
-  max-width: 80%;
-}
 .species__content {
   width: 100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
-.species__content li::marker {
-  color: red;
+.species__content table, .species__content th, .species__content td {
+  border-collapse: collapse;
+}
+.species__content tr {
+  height: 40px;
+}
+.species__content tr:not(:last-of-type) {
+  border-bottom: 1px solid darkgrey;
+}
+.species__content th {
+  text-align: left;
+  width: 100px;
+}
+.species__content th:after {
+  content: " :";
+}
+.species__content td {
+  padding-right: 4px;
 }
 .species__sound {
-  width: 100%;
-  background-color: grey;
-  padding: 10px;
-  text-align: center;
-  margin: 10px 0 20px;
+  margin: 10px 0;
+}
+.species__map {
+  border: 1px solid black;
+  padding: 1px;
 }
 
 .nav {
@@ -61,7 +77,7 @@
 .nav__center {
   flex: 1;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 .nav__link {
   display: flex;
@@ -72,6 +88,7 @@
   padding: 0 20px;
   color: black;
   background-color: white;
+  text-decoration: none;
   flex: 0;
   transition: 0.2s linear;
   transition-property: background-color;
@@ -79,6 +96,63 @@
 .nav__link:hover {
   background-color: black;
   color: white;
+}
+.nav__link--logo {
+  font-family: Caveat, cursive;
+  font-weight: bold;
+  font-size: 25px;
+  transition-property: background-color, color;
+}
+.nav__logo {
+  width: 26px;
+  margin-left: 5px;
+  fill: #69d200;
+}
+.nav__filler {
+  width: 0;
+}
+
+.iucn {
+  position: relative;
+}
+.iucn__overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 3%;
+  right: 4.5%;
+  display: flex;
+}
+.iucn__tooltip {
+  height: 100%;
+  flex: 1;
+  position: relative;
+}
+.iucn__tooltip:hover:before {
+  content: "";
+  background-color: black;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  transform-origin: center;
+  transform: rotate(45deg);
+  top: calc(100% + 5px);
+  left: calc(50% - 10px);
+}
+.iucn__tooltip:hover:after {
+  box-sizing: border-box;
+  content: attr(data-title);
+  position: absolute;
+  display: block;
+  top: calc(100% + 10px);
+  left: calc(50% - 75px);
+  border: 2px solid black;
+  border-radius: 8px;
+  background-color: white;
+  width: 150px;
+  text-align: center;
+  padding: 8px 10px;
+  box-shadow: #5f5f5f 0 2px 4px 0;
 }
 
 @font-face {
