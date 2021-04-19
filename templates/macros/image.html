@@ -1,6 +1,7 @@
-{% macro render(src, alt, title, class) %}
+{% macro render(src, alt, title, class, clickable) %}
   <img src="{{ url_for('static', filename=src) }}" alt="{{ alt }}"
       {% if title %}title="{{ title }}"{% endif %}
       {% if class %}class="{{ class }}"{% endif %}
+      {% if clickable %}data-clickable-image{% endif %}
   >
 {% endmacro %}

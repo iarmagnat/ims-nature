@@ -10,7 +10,7 @@
 {% block main %}
   <div class="species">
     <div class="species__image">
-      {{ image.render(**data.image) }}
+      {{ image.render(clickable=true, **data.image) }}
     </div>
     <div class="species__info">
       <h1 class="species__title">
@@ -38,7 +38,7 @@
         </audio>
       {% endif %}
       <div class="species__map">
-        {{ image.render(**data.map) }}
+        {{ image.render(clickable=true, **data.map) }}
       </div>
       {% if data.description %}
         <div class="species__description">
