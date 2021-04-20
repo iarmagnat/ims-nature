@@ -1,16 +1,31 @@
 {% import 'macros/image.html' as image %}
 
-{% macro render(level ) %}
+{% set levels = {
+  'ex': "Éteint",
+  'ew': "Éteint à l'état sauvage",
+  'cr': "En danger critique",
+  'en': "En danger",
+  'vu': "Vulnérable",
+  'nt': "Quasi menacé",
+  'lc': "Préoccupation mineure"
+} %}
+
+{% macro render(level) %}
   <div class="iucn">
-    {{ image.render("icons/IUCN/IUCN_" + level + ".svg", "Image liste rouge UICN catégorie " + level) }}
+    <label for="iucn-trigger">
+      {{ image.render("icons/IUCN/IUCN_" + level + ".svg", "Image liste rouge UICN catégorie " + level) }}
+    </label>
+    <input type="checkbox" id="iucn-trigger" class="iucn__trigger">
+    <label class="iucn__mobile" for="iucn-trigger">
+      <div class="iucn__mobile-tooltip-tail"></div>
+      <div class="iucn__mobile-tooltip">
+        {{ levels[level] }}
+      </div>
+    </label>
     <div class="iucn__overlay">
-      <div class="iucn__tooltip" data-title="Éteint"></div>
-      <div class="iucn__tooltip" data-title="Éteint à l'état sauvage"></div>
-      <div class="iucn__tooltip" data-title="En danger critique"></div>
-      <div class="iucn__tooltip" data-title="En danger"></div>
-      <div class="iucn__tooltip" data-title="Vulnérable"></div>
-      <div class="iucn__tooltip" data-title="Quasi menacé"></div>
-      <div class="iucn__tooltip" data-title="Préoccupation mineure"></div>
+      {% for id, desc in levels.items() %}
+        <div class="iucn__tooltip" data-title="{{ desc }}"></div>
+      {% endfor %}
     </div>
   </div>
 {% endmacro %}

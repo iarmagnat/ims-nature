@@ -8,6 +8,9 @@
     left: 3%;
     right: 4.5%;
     display: flex;
+    @media (max-width: $tablet) {
+      display: none;
+    }
   }
 
   &__tooltip {
@@ -47,5 +50,48 @@
         box-shadow: #5f5f5f 0 2px 4px 0;
       }
     }
+  }
+
+  &__mobile {
+    display: none;
+  }
+
+  &__trigger {
+    display: none;
+
+    &:checked + .iucn__mobile {
+      display: block;
+    }
+  }
+
+  &__mobile-tooltip {
+    z-index: 1;
+    $width: 150px;
+    box-sizing: border-box;
+    content: attr(data-title);
+    position: absolute;
+    top: calc(100% + 10px);
+    left: calc(50% - #{$width/2});
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: white;
+    width: $width;
+    text-align: center;
+    padding: 8px 10px;
+    box-shadow: #5f5f5f 0 2px 4px 0;
+  }
+
+  &__mobile-tooltip-tail {
+    z-index: 0;
+    $size: 20px;
+    content: '';
+    background-color: black;
+    width: $size;
+    height: $size;
+    position: absolute;
+    transform-origin: center;
+    transform: rotate(45deg);
+    top: calc(100% + 5px);
+    left: calc(50% - #{$size/2});
   }
 }

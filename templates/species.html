@@ -19,6 +19,9 @@
       <div class="species__subtitle">
         {{ data.name }}
       </div>
+      <div class="species__image-mobile">
+        {{ image.render(clickable=true, **data.image) }}
+      </div>
       <div class="species__iucn">
         {{ iucn.render(data.iucn) }}
       </div>
