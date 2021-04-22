@@ -26,13 +26,26 @@
         IMS Nature {{ leaf.render('nav__logo') }}
       </a>
     </div>
+    <input type="checkbox" id="menu-checkbox" class="nav__checkbox-trigger">
     <div class="nav__center">
-      <div class="nav__filler"></div>
+      <div class="nav__filler">
+        <label for="menu-checkbox" class="nav__burger tablet-down">
+          <span class="nav__cross-item"></span>
+          <span class="nav__cross-item"></span>
+        </label>
+      </div>
       <a class="nav__link" href="{{ url_for('home') }}">Accueil</a>
       <a class="nav__link" href="{{ url_for('huppe') }}">Oiseaux</a>
       <a class="nav__link" href="{{ url_for('huppe') }}">Mammifères</a>
       <a class="nav__link" href="{{ url_for('huppe') }}">Insectes</a>
       <a class="nav__link" href="{{ url_for('huppe') }}">Plantes</a>
+    </div>
+    <div class="nav__right">
+      <label for="menu-checkbox" class="nav__burger">
+        <span class="nav__burger-item"></span>
+        <span class="nav__burger-item"></span>
+        <span class="nav__burger-item"></span>
+      </label>
     </div>
   </div>
 </nav>

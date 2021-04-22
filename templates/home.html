@@ -2,66 +2,6 @@
 {% import 'macros/image.html' as image %}
 
 {% block main %}
-  <div class="species">
-    <div class="species__image">
-      {{ image.render("media/img/Huppe.JPG", "Une huppe fasciée", "Une huppe fasciée") }}
-    </div>
-    <div class="species__info">
-      <div class="species__title">
-        Huppe fasciée
-      </div>
-      <div class="species__subtitle">
-        Upupa epops
-      </div>
-      <div class="species__iucn">
-        {{ image.render("media/img/IUCN_LC.PNG", "IUCN Least concern") }}
-      </div>
-      <div class="species__content">
-        <ul>
-          <li>Ordre: Bucerotiformes</li>
-          <li>Ordre: Bucerotiformes</li>
-          <li>Ordre: Bucerotiformes</li>
-          <li>Ordre: Bucerotiformes</li>
-          <li>Ordre: Bucerotiformes</li>
-        </ul>
-      </div>
-      <div class="species__sound">son</div>
-      <div class="species__map">
-        {{ image.render("media/img/Aire_Huppe.jpg", "Aire de répartition de la Huppe") }}
-      </div>
-    </div>
-  </div>
-
-   <div class="species species--fipped">
-    <div class="species__image">
-      <img src="{{ url_for('static', filename='media/img/Huppe.JPG') }}" alt="Une huppe fasciée"
-           title="Une huppe fasciée">
-    </div>
-    <div class="species__info">
-      <div class="species__title">
-        Huppe fasciée
-      </div>
-      <div class="species__subtitle">
-        Upupa epops
-      </div>
-      <div class="species__iucn">
-        <img src="{{ url_for('static', filename='media/img/IUCN_LC.PNG') }}" alt="IUCN Least concern">
-      </div>
-      <div class="species__content">
-        <ul>
-          <li>Ordre: Bucerotiformes</li>
-          <li>Ordre: Bucerotiformes</li>
-          <li>Ordre: Bucerotiformes</li>
-          <li>Ordre: Bucerotiformes</li>
-          <li>Ordre: Bucerotiformes</li>
-        </ul>
-      </div>
-      <div class="species__sound"> son</div>
-      <div class="species__map">
-        <img src="{{ url_for('static', filename='media/img/Aire_Huppe.jpg') }}"
-             alt="Aire de répartition de la Huppe">
-      </div>
-    </div>
-  </div>
+  <h1>C'est la page d'accueil</h1>
 
 {% endblock %}

@@ -43,3 +43,10 @@ img {
   width: min(100%, #{$main-column-width});
   margin: auto;
 }
+
+.tablet-down {
+  display: none;
+  @media (max-width: $tablet) {
+    display: flex;
+  }
+}

@@ -8,12 +8,14 @@
   right: 0;
   left: 0;
   box-shadow: black 0px -1px 6px;
+  z-index: 10;
 
   &__wrapper {
     width: min(100%, #{$main-column-width});
     margin: auto;
     display: flex;
     justify-content: space-between;
+    align-items: center;
   }
 
   &__center {
@@ -22,8 +24,26 @@
     justify-content: space-between;
 
     @media (max-width: $tablet) {
-      display: none;
+      position: fixed;
+      width: $mobile-menu-width;
+      height: 100vh;
+      z-index: 10;
+      flex-direction: column;
+      justify-content: flex-start;
+      right: 0;
+      top: 0;
+      transform: translate($mobile-menu-width + 20, 0);
+      background-color: white;
+      box-shadow: black -2px 0 7px 1px;
+      transition: transform .3s ease-in-out;
     }
+  }
+
+  &__right {
+    justify-self: flex-end;
+    display: flex;
+    justify-content: center;
+    height: 100%;
   }
 
   &__link {
@@ -40,12 +60,13 @@
     transition: .2s linear;
     transition-property: background-color;
 
+    @media (max-width: $tablet) {
+      flex-basis: 40px;
+    }
+
     &:hover {
       background-color: black;
       color: white;
-      svg {
-        //fill: white;
-      }
     }
 
     &--logo {
@@ -53,6 +74,9 @@
       font-weight: bold;
       font-size: 25px;
       transition-property: background-color, color;
+      @media (max-width: $tablet) {
+        flex-basis: $nav-height;
+      }
     }
   }
 
@@ -64,5 +88,64 @@
 
   &__filler {
     width: 0;
+
+    @media (max-width: $tablet) {
+      width: unset;
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      flex-basis: $nav-height;
+    }
+  }
+
+  &__checkbox-trigger {
+    display: none;
+    &:checked + .nav__center {
+      transform: translate(0, 0);
+    }
+  }
+
+  &__burger {
+    display: none;
+    position: relative;
+    flex-direction: column;
+    height: $nav-height/2;
+    width: $nav-height/2;
+    box-shadow: black 0 0 3px 0.7px;
+    border-radius: 50%;
+    margin-right: 15px;
+    justify-content: space-around;
+    align-items: center;
+    padding: 11px 11px;
+    z-index: 1;
+    cursor: pointer;
+
+    @media (max-width: $tablet) {
+      display: flex;
+    }
+  }
+
+  &__burger-item {
+    width: 18px;
+    height: 2px;
+    background-color: black;
+  }
+
+  &__cross-item {
+    width: 25px;
+    height: 2px;
+    background-color: black;
+    position: absolute;
+    top: calc(50% - 1px);
+    left: calc(50% - 12.5px);
+    transform-origin: center;
+
+    &:first-of-type {
+      transform: rotate(45deg);
+    }
+
+    &:last-of-type {
+      transform: rotate(-45deg);
+    }
   }
 }
