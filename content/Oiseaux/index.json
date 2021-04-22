@@ -1,4 +1,52 @@
 {
   "type": "species_list",
-  "category_name": "Oiseaux"
+  "category_name": "Oiseaux",
+  "description": "Description oiseaux, lorem ipsum dolor sit amet, blabla bla uglybug",
+  "children": [
+    {
+      "vernacular": "Huppe Fasciée",
+      "image": {
+        "src": "media/img/Huppe.JPG",
+        "alt": "Une huppe fasciée",
+        "title": "Une huppe fasciée"
+      },
+      "url": "/huppe"
+    },
+    {
+      "vernacular": "Crache Sang",
+      "image": {
+        "src": "media/img/crache-sang.JPG",
+        "alt": "Un crache sang",
+        "title": "Un crache sang"
+      },
+      "url": "/huppe"
+    },
+    {
+      "vernacular": "Etourneau",
+      "image": {
+        "src": "media/img/Etourneau.JPG",
+        "alt": "Un étourneau",
+        "title": "Un étourneau"
+      },
+      "url": "/huppe"
+    },
+    {
+      "vernacular": "Gorille des montagnes",
+      "image": {
+        "src": "media/img/gorille.JPG",
+        "alt": "Un gorille des montagnes",
+        "title": "Un gorille des montagnes"
+      },
+      "url": "/huppe"
+    },
+    {
+      "vernacular": "Huppe Fasciée",
+      "image": {
+        "src": "media/img/Huppe.JPG",
+        "alt": "Une huppe fasciée",
+        "title": "Une huppe fasciée"
+      },
+      "url": "/huppe"
+    }
+  ]
 }

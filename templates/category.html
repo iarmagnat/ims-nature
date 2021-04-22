@@ -1,0 +1,31 @@
+{% extends 'layout.html' %}
+
+{% import 'macros/image.html' as image %}
+
+{% block page_title -%}
+  {{ data.category_name }} | IMS Nature
+{%- endblock %}
+
+{% block main %}
+  <div class="category">
+    <h1 class="category__title">
+      {{ data.category_name }}
+    </h1>
+    <h2 class="category__subtitle">
+      {{ data.description }}
+    </h2>
+    <div class="category__cards">
+      {% for species in data.sorted_children %}
+        <a class="species-card" href="{{ species.url }}">
+          {{ image.render(class="species-card__image",**species.image) }}
+          <div class="species-card__name">
+            {{ species.vernacular }}
+          </div>
+        </a>
+      {% endfor %}
+      <div class="species-card species-card--space-fix"></div>
+      <div class="species-card species-card--space-fix"></div>
+
+    </div>
+  </div>
+{% endblock %}
