@@ -7,6 +7,12 @@
   {{ data.vernacular }} | IMS Nature
 {%- endblock %}
 
+{% if data.metadata.meta_description | length %}
+  {% block meta_description %}
+    {{- data.metadata.meta_description -}}
+  {% endblock %}
+{% endif %}
+
 {% block main %}
   <div class="species">
     <div class="species__image">
