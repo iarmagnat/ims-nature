@@ -1,6 +1,6 @@
 @import "species";
 @import "vars";
-@import "nav";
+@import "layout";
 @import "iucn";
 @import "popup";
 @import "category";
@@ -24,8 +24,9 @@ body {
   font-family: 'Patrick Hand', cursive;
   font-size: 18px;
   margin: 0;
-  padding: $nav-height 0 0;
+  padding: $nav-height 0 $nav-height;
   position: relative;
+  min-height: 100vh;
 }
 
 img {

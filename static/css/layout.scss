@@ -100,6 +100,7 @@
 
   &__checkbox-trigger {
     display: none;
+
     &:checked + .nav__center {
       transform: translate(0, 0);
     }
@@ -146,6 +147,43 @@
 
     &:last-of-type {
       transform: rotate(-45deg);
+    }
+  }
+}
+
+.footer {
+  width: 100%;
+  height: $nav-height;
+  background-color: white;
+  position: absolute;
+  bottom: 0;
+  box-shadow: inset black 0 5px 4px -4.3px;
+
+  &__wrapper {
+    max-width: $main-column-width;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__right {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  &__link {
+    margin: 0 10px;
+
+    &--instagram {
+      font-size: 30px;
+
+      &, &:visited, &:hover, &:active {
+        color: $instagram-color;
+      }
     }
   }
 }

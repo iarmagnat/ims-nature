@@ -8,6 +8,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="stylesheet" href="{{ url_for('static', filename="css/main.css") }}">
   <link rel="icon" href="{{ url_for('static', filename='icons/favicon-32x32.png') }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+        integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+        crossorigin="anonymous"/>
   <title>
     {%- block page_title -%}
       IMS Nature
@@ -56,6 +59,18 @@
   {% endblock %}
 
 </div>
+
+<footer class="footer">
+  <div class="footer__wrapper">
+    <div class="footer__left"></div>
+    <div class="footer__right">
+
+      <a href="https://www.instagram.com/marie_ponky/" class="footer__link footer__link--instagram">
+        <i class="fab fa-instagram"></i>
+      </a>
+    </div>
+  </div>
+</footer>
 
 <div class="image-popup" id="image-popup">
   <div class="image-popup__container" id="image-popup-container"></div>
