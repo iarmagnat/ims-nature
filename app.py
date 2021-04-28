@@ -1,9 +1,12 @@
 from flask import Flask, render_template
+from explorer import explore
 
 import json
 
 app = Flask(__name__)
 
+
+# https://flask.palletsprojects.com/en/1.1.x/api/#flask.Flask.add_url_rule
 
 @app.route('/')
 def home():
@@ -29,3 +32,12 @@ def oiseaux():
 @app.route('/pwet')
 def home2():
     return 'pwet'
+
+
+content = explore()
+print(f"content: {content}")
+
+
+@app.route("/dump")
+def dump():
+    return render_template("dump.html", content=json.dumps(content))
