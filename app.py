@@ -1,5 +1,5 @@
 from flask import Flask, render_template
-from explorer import explore
+from explorer import Explorer
 
 import json
 
@@ -34,8 +34,7 @@ def home2():
     return 'pwet'
 
 
-content = explore()
-print(f"content: {content}")
+content = Explorer()
 
 
 @app.route("/dump")
