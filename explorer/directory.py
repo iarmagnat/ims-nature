@@ -6,7 +6,7 @@ class Directory:
         self.url_root = url_root
         self.contents = contents
         self.parent = False
-        if self.contents.get(self.url_root):
+        if self.contents.get(f"{self.url_root}"):
             self.hasPage = True
             self.page = contents[self.url_root]
         else:

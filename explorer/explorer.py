@@ -5,15 +5,17 @@ from .page import Page
 
 from .directory import Directory
 
+from .utils import slugify
+
 
 class Explorer:
-    def __init__(self, root="content", url_root="/"):
+    def __init__(self, root="content", url_root=""):
         self.root = root
-        self.url_root = url_root
+        self.url_root = slugify(url_root)
         self.pages = {}
         self.directories = {}
-        self.contents = self.explore(root, url_root)
-        self.directories['/'] = Directory(self.contents, '/')
+        self.contents = self.explore(self.root, self.url_root)
+        self.directories['/'] = Directory(self.contents, "/")
 
     def explore(self, root, url_root):
         if os.path.exists(root):
@@ -23,11 +25,11 @@ class Explorer:
         content = {}
         for file in files:
             if file.endswith(".json"):
-                file_content = Explorer.read_file(root, file, url_root)
-                content[file_content.endpoint] = file_content
-                self.pages[file_content.endpoint] = file_content
+                page = Explorer.read_file(root, file, url_root)
+                content[page.endpoint] = page
+                self.pages[page.endpoint] = page
             elif "." not in file:
-                new_url_root = f"{url_root}{file.lower()}/"
+                new_url_root = f"{url_root}/{slugify(file)}"
                 dir_contents = self.explore(f"{root}/{file}", new_url_root)
                 new_dir = Directory(dir_contents, new_url_root)
                 content[new_url_root] = new_dir

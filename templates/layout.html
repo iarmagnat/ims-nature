@@ -25,7 +25,7 @@
 <nav class="nav">
   <div class="nav__wrapper">
     <div class="nav__left">
-      <a href="{{ url_for('home') }}" class="nav__link nav__link--logo">
+      <a href="{{ url_for('') }}" class="nav__link nav__link--logo">
         IMS Nature {{ leaf.render('nav__logo') }}
       </a>
     </div>
@@ -37,11 +37,11 @@
           <span class="nav__cross-item"></span>
         </label>
       </div>
-      <a class="nav__link" href="{{ url_for('home') }}">Accueil</a>
+      <a class="nav__link" href="{{ url_for('') }}">Accueil</a>
       <a class="nav__link" href="{{ url_for('oiseaux') }}">Oiseaux</a>
-      <a class="nav__link" href="{{ url_for('huppe') }}">Mammifères</a>
-      <a class="nav__link" href="{{ url_for('huppe') }}">Insectes</a>
-      <a class="nav__link" href="{{ url_for('huppe') }}">Plantes</a>
+      <a class="nav__link" href="{{ url_for('oiseaux_huppe') }}">Mammifères</a>
+      <a class="nav__link" href="{{ url_for('oiseaux_etourneau') }}">Etourneau</a>
+      <a class="nav__link" href="{{ url_for('oiseaux_huppe') }}">Plantes</a>
     </div>
     <div class="nav__right">
       <label for="menu-checkbox" class="nav__burger">

@@ -1,42 +1,44 @@
 from flask import Flask, render_template
 from explorer import Explorer
 
-import json
-
 app = Flask(__name__)
 
 
-# https://flask.palletsprojects.com/en/1.1.x/api/#flask.Flask.add_url_rule
+def home(page_object):
+    def func():
+        return render_template('home.html')
 
-@app.route('/')
-def home():
-    return render_template('home.html')
+    return func
 
 
-@app.route('/huppe')
-def huppe():
-    with open('content/Oiseaux/huppe.json') as json_file:
-        data = json.load(json_file)
+# @app.route('/oiseaux')
+# def oiseaux():
+#     with open('content/Oiseaux/index.json') as json_file:
+#         data = json.load(json_file)
+#         sorted_children = sorted(data["children"], key=lambda species: species["vernacular"])
+#         data["sorted_children"] = sorted_children
+#         return render_template('category.html', data=data)
+
+
+def species(page_object):
+    def func():
+        data = {**page_object.content}
         return render_template('species.html', data=data)
 
-
-@app.route('/oiseaux')
-def oiseaux():
-    with open('content/Oiseaux/index.json') as json_file:
-        data = json.load(json_file)
-        sorted_children = sorted(data["children"], key=lambda species: species["vernacular"])
-        data["sorted_children"] = sorted_children
-        return render_template('category.html', data=data)
-
-
-@app.route('/pwet')
-def home2():
-    return 'pwet'
+    return func
 
 
 content = Explorer()
 
+page_types = {
+    "homepage": home,
+    "species": species,
+    "species_list": species,
+}
 
-@app.route("/dump")
-def dump():
-    return render_template("dump.html", content=json.dumps(content))
+for page in content.pages.values():
+    view_func = page_types[page.type]
+    endpoint = page.endpoint
+    endpoint_name = page.endpoint_name
+
+    app.add_url_rule(endpoint, endpoint=endpoint_name, view_func=view_func(page))
