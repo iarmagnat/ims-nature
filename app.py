@@ -1,5 +1,5 @@
 from flask import Flask, render_template
-from explorer import Explorer, Page
+from explorer import Explorer, Page, init_explorer
 
 app = Flask(__name__)
 
@@ -25,10 +25,7 @@ def species_list(page_object):
 
         def mapper(item):
             content = {**item.content}
-            if content.get("vernacular"):
-                content["usable_name"] = content["vernacular"]
-            else:
-                content["usable_name"] = content["name"]
+            content["usable_name"] = item.usable_name
             content["endpoint"] = item.endpoint
             return content
 
@@ -48,17 +45,12 @@ def species(page_object):
     return func
 
 
-main_content = Explorer(page_types={"species": SpeciesPage})
+page_types = {"species": SpeciesPage}
 
-page_types = {
+page_funcs = {
     "homepage": home,
     "species": species,
     "species_list": species_list,
 }
 
-for page in main_content.pages.values():
-    view_func = page_types[page.type]
-    endpoint = page.endpoint
-    endpoint_name = page.endpoint_name
-
-    app.add_url_rule(endpoint, endpoint=endpoint_name, view_func=view_func(page))
+init_explorer(app, page_funcs, page_types=page_types)

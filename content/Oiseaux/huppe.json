@@ -11,10 +11,11 @@
     "title": "Une huppe fasciée"
   },
   "iucn": "lc",
-  "taxonomy": {},
-  "page_content": {
+  "taxonomy": {
     "Ordre": "Bucerotiformes",
-    "Famille": "Upupidae",
+    "Famille": "Upupidae"
+  },
+  "page_content": {
     "Ponte": "Mai-Juin",
     "Répartition": "Régions chaudes et tempérées de l'ancien monde",
     "Habitat": "Jardins, bois, vergers, vignes",
