@@ -1,15 +1,19 @@
 import json
 import os
-
+from collections import defaultdict
 from .page import Page
-
 from .directory import Directory
-
 from .utils import slugify
 
 
+def page_factory():
+    return Page
+
+
 class Explorer:
-    def __init__(self, root="content", url_root=""):
+    def __init__(self, root="content", url_root="", page_types={}):
+        # todo: check if all page_types ar of type Page
+        self.page_types = defaultdict(page_factory, **page_types)
         self.root = root
         self.url_root = slugify(url_root)
         self.pages = {}
@@ -25,7 +29,7 @@ class Explorer:
         content = {}
         for file in files:
             if file.endswith(".json"):
-                page = Explorer.read_file(root, file, url_root)
+                page = self.read_file(root, file, url_root)
                 content[page.endpoint] = page
                 self.pages[page.endpoint] = page
             elif "." not in file:
@@ -36,8 +40,7 @@ class Explorer:
                 self.directories[new_url_root] = new_dir
         return content
 
-    @staticmethod
-    def read_file(root, file_name, url_root):
+    def read_file(self, root, file_name, url_root):
         with open(f"{root}/{file_name}") as file:
             content = json.load(file)
-        return Page(content, url_root, file_name)
+        return self.page_types[content["type"]](content, url_root, file_name)
