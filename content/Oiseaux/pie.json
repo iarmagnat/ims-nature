@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Pie bavarde",
+  "name": "Pica pica",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Pie.JPG",
+    "alt": "Une pie bavarde",
+    "title": "Une pie bavarde"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Passeriformes",
+    "Famille": "Corvidae"
+  },
+  "page_content": {
+    "Ponte": "Mars-Mai",
+    "Répartition": "Eurasie",
+    "Habitat": "Périurbain, zones agricoles, bosquets, prairies, parcs, jardins, villes",
+    "Chant": "Tché tché tché/Tcha-ka"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Pie.jpg",
+    "alt": "Aire de répartition de la pie bavarde",
+    "title": "Aire de répartition de la pie bavarde"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Flamant rose",
+  "name": "Phoenicopterus roseus",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Flamant.JPG",
+    "alt": "Un flamant rose",
+    "title": "Un flamant rose"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Phoenicopteriformes",
+    "Famille": "Phoenicopteridae"
+  },
+  "page_content": {
+    "Ponte": "Mars-Août",
+    "Répartition": "Eurasie/Afrique",
+    "Habitat": "Eau saumâtre/douce peu profonde",
+    "Chant": "Gui gui"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Flamant.jpg",
+    "alt": "Aire de répartition du flamant rose",
+    "title": "Aire de répartition du flamant rose"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

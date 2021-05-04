@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Tourterelle turque",
+  "name": "Streptopelia decaocto",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Tourterelle.JPG",
+    "alt": "Une tourterelle turque",
+    "title": "Une tourterelle turque"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Columbiformes",
+    "Famille": "Columbidae"
+  },
+  "page_content": {
+    "Ponte": "Février-Novembre",
+    "Répartition": "Europe",
+    "Habitat": "Parcs, jardins, urbain, exploitations agricoles",
+    "Chant": "Hou hooouu hou"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Tourterelle.jpg",
+    "alt": "Aire de répartition de la tourterelle turque",
+    "title": "Aire de répartition de la tourterelle turque"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

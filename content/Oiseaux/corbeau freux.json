@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Corbeau freux",
+  "name": "Corvus frugilegus",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Corbeau.JPG",
+    "alt": "Un corbeau freux",
+    "title": "Un corbeau freux"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Passeriformes",
+    "Famille": "Corvidae"
+  },
+  "page_content": {
+    "Ponte": "Mars-Avril",
+    "Répartition": "Eurasie",
+    "Habitat": "Champs, prairies, espaces verts, parcs",
+    "Chant": "Kaaaah"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Corbeau.jpg",
+    "alt": "Aire de répartition du corbeau freux",
+    "title": "Aire de répartition du corbeau freux"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

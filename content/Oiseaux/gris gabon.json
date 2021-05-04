@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Gris du Gabon",
+  "name": "Psittacus erithacus",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Grisgabon.JPG",
+    "alt": "Un gris du Gabon",
+    "title": "Un gris du Gabon"
+  },
+  "iucn": "en",
+  "taxonomy": {
+    "Ordre": "Psittaciformes",
+    "Famille": "Psittacidae"
+  },
+  "page_content": {
+    "Ponte": "Novembre-Septembre",
+    "Répartition": "Centre-Ouest Afrique",
+    "Habitat": "Forêts, savanes, clairières",
+    "Chant": "Scraark/Wee-oo"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Grisgabon.jpg",
+    "alt": "Aire de répartition du gris du Gabon",
+    "title": "Aire de répartition du gris du Gabon"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Bergeronnette grise",
+  "name": "Motacilla alba",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Bergeronnette.jpg",
+    "alt": "Une bergeronnette grise",
+    "title": "Une bergeronnette grise"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Passeriformes",
+    "Famille": "Motacillidae"
+  },
+  "page_content": {
+    "Ponte": "Avril/Août",
+    "Répartition": "Eurasie/Nord Afrique",
+    "Habitat": "Ouvert près des habitations",
+    "Chant": "Tsi uit/Ti pit"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Bergeronnette.jpg",
+    "alt": "Aire de répartition de la bergeronnette grise",
+    "title": "Aire de répartition de la bergeronnette grise"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

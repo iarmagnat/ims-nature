@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Pinson des arbres",
+  "name": "Fringilla coelebs",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Pinson.JPG",
+    "alt": "Un pinson des arbres",
+    "title": "Un pinson des arbres"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Passeriformes",
+    "Famille": "Fringillidae"
+  },
+  "page_content": {
+    "Ponte": "Avril-Juin",
+    "Répartition": "Eurasie/Nord Afrique",
+    "Habitat": "Bois conifères, forêts claires, vergers, bosquets, parcs, jardins, urbain",
+    "Chant": "Trrii/Fink fink/Tiup tiup"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Pinson.jpg",
+    "alt": "Aire de répartition du pinson des arbres",
+    "title": "Aire de répartition du pinson des arbres"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

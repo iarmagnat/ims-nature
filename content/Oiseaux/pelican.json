@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Pélican blanc",
+  "name": "Pelecanus onocrotalus",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Pélican.JPG",
+    "alt": "Un pélican blanc",
+    "title": "Un pélican blanc"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Pelecaniformes",
+    "Famille": "Pelecanidae"
+  },
+  "page_content": {
+    "Ponte": "Avril-Juin (Europe)",
+    "Répartition": "Afrique/Asie centrale/Nord Inde/Sud-Est Europe",
+    "Habitat": "Marais, lacs peu profonds",
+    "Chant": ""
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Pélican.jpg",
+    "alt": "Aire de répartition du pélican blanc",
+    "title": "Aire de répartition du pélican blanc"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

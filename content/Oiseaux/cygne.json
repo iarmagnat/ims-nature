@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Cygne tuberculé",
+  "name": "Cygnus olor",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Cygne.JPG",
+    "alt": "Un cygne tuberculé",
+    "title": "Un cygne tuberculé"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Anseriformes",
+    "Famille": "Anatidae"
+  },
+  "page_content": {
+    "Ponte": "Avril-Mai",
+    "Répartition": "Eurasie/Nord Amérique",
+    "Habitat": "Lacs, étangs, marais",
+    "Chant": "Gaoh/Vhorr"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Cygne.jpg",
+    "alt": "Aire de répartition du cygne tuberculé",
+    "title": "Aire de répartition du cygne tuberculé"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

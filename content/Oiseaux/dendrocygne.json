@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Dendrocygne veuf",
+  "name": "Dendrocygna viduata",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Dendrocygne.JPG",
+    "alt": "Un dendrocygne veuf",
+    "title": "Un dendrocygne veuf"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Anseriformes",
+    "Famille": "Anatidae"
+  },
+  "page_content": {
+    "Ponte": "Pic saison des pluies",
+    "Répartition": "Afrique/Sud Amérique",
+    "Habitat": "Points d’eau",
+    "Chant": "Swee swee sweeoo"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Dendrocygne.jpg",
+    "alt": "Aire de répartition du dendrocygne veuf",
+    "title": "Aire de répartition du dendrocygne veuf"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

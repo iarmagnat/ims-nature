@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Cigogne blanche",
+  "name": "Ciconia ciconia",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Cigogne.JPG",
+    "alt": "Une cigogne blanche",
+    "title": "Une cigogne blanche"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Ciconiiformes",
+    "Famille": "Ciconiidae"
+  },
+  "page_content": {
+    "Ponte": "Mars-Avril",
+    "Répartition": "Europe/Afrique",
+    "Habitat": "Prairies, cultures, zones humides",
+    "Chant": "Clac clac clac"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Cigogne.jpg",
+    "alt": "Aire de répartition de la cigogne blanche",
+    "title": "Aire de répartition de la cigogne blanche"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Ara chloroptère",
+  "name": "Ara chloropterus",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Arachloro.JPG",
+    "alt": "Un ara chloroptère",
+    "title": "Un ara chloroptère"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Psittaciformes",
+    "Famille": "Psittacidae"
+  },
+  "page_content": {
+    "Ponte": "Novembre-Janvier",
+    "Répartition": "Sud Amérique",
+    "Habitat": "Forêts tropicales, près fleuves",
+    "Chant": "Raaw/Kraaa"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Arachloro.jpg",
+    "alt": "Aire de répartition du ara chloroptère",
+    "title": "Aire de répartition du ara chloroptère"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

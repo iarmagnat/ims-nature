@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Héron cendré",
+  "name": "Ardea cinerea",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Héroncendré.JPG",
+    "alt": "Un héron cendré",
+    "title": "Un héron cendré"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Pelecaniformes",
+    "Famille": "Ardeidae"
+  },
+  "page_content": {
+    "Ponte": "Février-Juillet",
+    "Répartition": "Eurasie/Afrique",
+    "Habitat": "Varié mais humide",
+    "Chant": "Fraaank"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Héron.jpg",
+    "alt": "Aire de répartition du héron cendré",
+    "title": "Aire de répartition du héron cendré"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

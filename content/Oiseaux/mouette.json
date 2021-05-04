@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Mouette rieuse",
+  "name": "Chroicocephalus ridibundus",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Mouette.JPG",
+    "alt": "Une mouette rieuse",
+    "title": "Une mouette rieuse"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Charadriiformes",
+    "Famille": "Laridae"
+  },
+  "page_content": {
+    "Ponte": "Avril-Juillet",
+    "Répartition": "Eurasie",
+    "Habitat": "Lacs, étangs, urbain",
+    "Chant": "Kraaaa"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Mouette.jpg",
+    "alt": "Aire de répartition de la mouette rieuse",
+    "title": "Aire de répartition de la mouette rieuse"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

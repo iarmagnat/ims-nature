@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Grand cormoran",
+  "name": "Phalacrocorax carbo",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Cormoran.JPG",
+    "alt": "Un grand cormoran",
+    "title": "Un grand cormoran"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Suliformes",
+    "Famille": "Phalacrocoracidae"
+  },
+  "page_content": {
+    "Ponte": "Avril-Juin",
+    "Répartition": "Eurasie/Afrique/Océanie/Nord Amérique",
+    "Habitat": "Près plans eau douce/saumâtre/salée, courant faible ou nul",
+    "Chant": ""
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Cormoran.jpg",
+    "alt": "Aire de répartition du grand cormoran",
+    "title": "Aire de répartition du grand cormoran"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

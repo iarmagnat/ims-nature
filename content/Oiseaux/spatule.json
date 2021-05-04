@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Spatule blanche",
+  "name": "Platalea leucoridia",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Spatule.JPG",
+    "alt": "Une spatule blanche",
+    "title": "Une spatule blanche"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Pelecaniformes",
+    "Famille": "Threskiornithidae"
+  },
+  "page_content": {
+    "Ponte": "Avril-Mai",
+    "Répartition": "Eurasie/Nord Afrique",
+    "Habitat": "Aquatique peu profond",
+    "Chant": "Grognements"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Spatule.jpg",
+    "alt": "Aire de répartition de la spatule blanche",
+    "title": "Aire de répartition de la spatule blanche"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

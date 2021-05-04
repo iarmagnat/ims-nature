@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Ibis rouge",
+  "name": "Eudocimus ruber",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Ibisrouge.JPG",
+    "alt": "Un ibis rouge",
+    "title": "Un ibis rouge"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Pelecaniformes",
+    "Famille": "Threskiornithidae"
+  },
+  "page_content": {
+    "Ponte": "Mars-Juillet",
+    "Répartition": "Sud Amérique",
+    "Habitat": "Marécages, mangroves, lagunes",
+    "Chant": "Onk onk"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Ibisrouge.jpg",
+    "alt": "Aire de répartition de l'ibis rouge",
+    "title": "Aire de répartition de l'ibis rouge"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

@@ -6,7 +6,7 @@
   "vernacular": "Huppe fasciée",
   "name": "Upupa epops",
   "image": {
-    "src": "media/img/Huppe.JPG",
+    "src": "media/Photos site/Oiseaux/Huppe.JPG",
     "alt": "Une huppe fasciée",
     "title": "Une huppe fasciée"
   },
@@ -26,9 +26,9 @@
     "src": "media/sounds/Upupa_epops.ogg"
   },
   "map": {
-    "src": "media/img/Aire_Huppe.jpg",
-    "alt": "Aire de répartition de la Huppe",
-    "title": "Aire de répartition de la Huppe"
+    "src": "media/Aires/Aire_oiseaux/Aire_Huppe.jpg",
+    "alt": "Aire de répartition de la huppe fasciée",
+    "title": "Aire de répartition de la huppe fasciée"
   },
   "sources": [
     "un lien",

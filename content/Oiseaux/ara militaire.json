@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Ara militaire",
+  "name": "Ara militaris",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Aramilitaire.JPG",
+    "alt": "Un ara militaire",
+    "title": "Un ara militaire"
+  },
+  "iucn": "vu",
+  "taxonomy": {
+    "Ordre": "Psittaciformes",
+    "Famille": "Psittacidae"
+  },
+  "page_content": {
+    "Ponte": "Mai-Juin",
+    "Répartition": "Mexique/Andes boréales",
+    "Habitat": "Montagnes, régions tempérées, semi-arides, forêts tropicales, près eau",
+    "Chant": "Raaaa"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Aramilitaire.jpg",
+    "alt": "Aire de répartition du ara militaire",
+    "title": "Aire de répartition du ara militaire"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

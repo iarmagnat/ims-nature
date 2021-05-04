@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Merle noir",
+  "name": "Turdus merula",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Merle.JPG",
+    "alt": "Un merle noir",
+    "title": "Un merle noir"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Passeriformes",
+    "Famille": "Turdidae"
+  },
+  "page_content": {
+    "Ponte": "Mars-Mai",
+    "Répartition": "Europe/Nord Afrique",
+    "Habitat": "Zones boisées, jardins, haies, parcs, zone urbaine, cultures",
+    "Chant": "Pok/Tsiih/Tchaktchak akak"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Merle.jpg",
+    "alt": "Aire de répartition du merle noir",
+    "title": "Aire de répartition du merle noir"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

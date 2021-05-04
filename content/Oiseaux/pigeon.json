@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Pigeon biset",
+  "name": "Columba livia",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Pigeon.JPG",
+    "alt": "Un pigeon biset",
+    "title": "Un pigeon biset"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Columbiformes",
+    "Famille": "Columbidae"
+  },
+  "page_content": {
+    "Ponte": "Mars-Novembre",
+    "Répartition": "Tous les continents",
+    "Habitat": "Urbain, montages, côtes rocheuses",
+    "Chant": "Rouu rouu"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Pigeon.jpg",
+    "alt": "Aire de répartition du pigeon biset",
+    "title": "Aire de répartition du pigeon biset"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}
