@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Panthère des neiges",
+  "name": "Panthera unica",
+  "image": {
+    "src": "media/Photos site/Mammifères/Panthèreneiges.JPG",
+    "alt": "Une panthère des neiges",
+    "title": "Une panthère des neiges"
+  },
+  "iucn": "vu",
+  "taxonomy": {
+    "Ordre": "Carnivora",
+    "Famille": "Felidae"
+  },
+  "page_content": {
+    "Répartition": "Centre Asie",
+    "Habitat": "Montagnes, forêts, zones rocheuses, steppes",
+    "Reproduction": "Janvier-Mars",
+    "Taille portée": "1-4"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Panthèreneiges.jpg",
+    "alt": "Aire de répartition de la panthère des neiges",
+    "title": "Aire de répartition de la panthère des neiges"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

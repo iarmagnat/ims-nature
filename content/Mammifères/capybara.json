@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Capybara",
+  "name": "Hydrochoerus hydrochaeris",
+  "image": {
+    "src": "media/Photos site/Mammifères/Capybara.JPG",
+    "alt": "Un capybara",
+    "title": "Un capybara"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Rodentia",
+    "Famille": "Caviidae"
+  },
+  "page_content": {
+    "Répartition": "Sud Amérique",
+    "Habitat": "Forêts, savanes, marais",
+    "Reproduction": "Toute l’année",
+    "Taille portée": "2-8"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Capybara.jpg",
+    "alt": "Aire de répartition du capybara",
+    "title": "Aire de répartition du capybara"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Chimpanzé",
+  "name": "Pan troglodytes",
+  "image": {
+    "src": "media/Photos site/Mammifères/Chimpanzé.JPG",
+    "alt": "Un chimpanzé",
+    "title": "Un chimpanzé"
+  },
+  "iucn": "en",
+  "taxonomy": {
+    "Ordre": "Primates",
+    "Famille": "Hominidae"
+  },
+  "page_content": {
+    "Répartition": "Centre Afrique",
+    "Habitat": "Forêts, savanes, prairies",
+    "Reproduction": "Toute l’année",
+    "Taille portée": "1"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Chimpanzé.jpg",
+    "alt": "Aire de répartition du chimpanzé",
+    "title": "Aire de répartition du chimpanzé"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

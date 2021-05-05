@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Lycaon",
+  "name": "Lycaon pictus",
+  "image": {
+    "src": "media/Photos site/Mammifères/Lycaon.JPG",
+    "alt": "Un lycaon",
+    "title": "Un lycaon"
+  },
+  "iucn": "en",
+  "taxonomy": {
+    "Ordre": "Carnivora",
+    "Famille": "Canidae"
+  },
+  "page_content": {
+    "Répartition": "Afrique",
+    "Habitat": "Savanes, forêts, prairies, déserts",
+    "Reproduction": "Toute l’année",
+    "Taille portée": "6-12"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Lycaon.jpg",
+    "alt": "Aire de répartition du lycaon",
+    "title": "Aire de répartition du lycaon"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

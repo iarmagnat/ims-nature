@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Loup gris commun",
+  "name": "Canis lupus lupus",
+  "image": {
+    "src": "media/Photos site/Mammifères/Loupgris.JPG",
+    "alt": "Un loup gris commun",
+    "title": "Un loup gris commun"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Carnivora",
+    "Famille": "Canidae"
+  },
+  "page_content": {
+    "Répartition": "Eurasie/Nord Amérique",
+    "Habitat": "Forêts, prairies, déserts, toundras",
+    "Reproduction": "Janvier-Mars",
+    "Taille portée": "2-6"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Loupgris.jpg",
+    "alt": "Aire de répartition du loup gris commun",
+    "title": "Aire de répartition du loup gris commun"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Chien",
+  "name": "Canis lupus familiaris",
+  "image": {
+    "src": "media/Photos site/Mammifères/Chien.JPG",
+    "alt": "Un chien",
+    "title": "Un chien"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Carnivora",
+    "Famille": "Canidae"
+  },
+  "page_content": {
+    "Répartition": "Partout dans le monde",
+    "Habitat": "Tous",
+    "Reproduction": "Toute l’année",
+    "Taille portée": "2-12"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Chien.jpg",
+    "alt": "Aire de répartition du chien",
+    "title": "Aire de répartition du chien"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

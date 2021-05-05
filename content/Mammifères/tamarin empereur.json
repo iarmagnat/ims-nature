@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Tamarin empereur",
+  "name": "Saguinus imperator",
+  "image": {
+    "src": "media/Photos site/Mammifères/Tamarinempereur.JPG",
+    "alt": "Un tamarin empereur",
+    "title": "Un tamarin empereur"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Primates",
+    "Famille": "Callitrichidae"
+  },
+  "page_content": {
+    "Répartition": "Pérou/Bolivie/Brésil",
+    "Habitat": "Forêts tropicales humides",
+    "Reproduction": "Avant saison des pluies",
+    "Taille portée": "2"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Tamarinempereur.jpg",
+    "alt": "Aire de répartition du tamarin empereur",
+    "title": "Aire de répartition du tamarin empereur"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

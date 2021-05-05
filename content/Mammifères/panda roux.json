@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Panda roux",
+  "name": "Ailurus fulgens",
+  "image": {
+    "src": "media/Photos site/Mammifères/Pandaroux.JPG",
+    "alt": "Un panda roux",
+    "title": "Un panda roux"
+  },
+  "iucn": "en",
+  "taxonomy": {
+    "Ordre": "Carnivora",
+    "Famille": "Ailuridae"
+  },
+  "page_content": {
+    "Répartition": "Himalaya/Chine/Népal",
+    "Habitat": "Forêts",
+    "Reproduction": "Avril/Juillet (peu connue)",
+    "Taille portée": "1-4"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Pandaroux.jpg",
+    "alt": "Aire de répartition du panda roux",
+    "title": "Aire de répartition du panda roux"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

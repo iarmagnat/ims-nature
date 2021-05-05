@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Guépard",
+  "name": "Acinonyx jubatus",
+  "image": {
+    "src": "media/Photos site/Mammifères/Guépard.JPG",
+    "alt": "Un guépard",
+    "title": "Un guépard"
+  },
+  "iucn": "vu",
+  "taxonomy": {
+    "Ordre": "Carnivora",
+    "Famille": "Felidae"
+  },
+  "page_content": {
+    "Répartition": "Afrique/Iran",
+    "Habitat": "Savanes, déserts, prairies",
+    "Reproduction": "Toute l’année",
+    "Taille portée": "3-5"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Guépard.jpg",
+    "alt": "Aire de répartition du guépard",
+    "title": "Aire de répartition du guépard"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}
