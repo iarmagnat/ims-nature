@@ -1,5 +1,6 @@
 from .explorer import Explorer
 from .page import Page
+from .utils import slugify
 
 
 def init_explorer(app, page_funcs, *, root="content", url_root="", page_types={}):

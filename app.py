@@ -1,5 +1,5 @@
 from flask import Flask, render_template
-from explorer import Explorer, Page, init_explorer
+from explorer import Explorer, Page, init_explorer, slugify
 
 app = Flask(__name__)
 
@@ -31,7 +31,7 @@ def species_list(page_object):
 
         neighbour_pages = filter(lambda item: item.type == "species", page_object.parent.child_pages)
         sorted_children = map(mapper, neighbour_pages)
-        sorted_children = sorted(sorted_children, key=lambda item: item["usable_name"])
+        sorted_children = sorted(sorted_children, key=lambda item: slugify(item["usable_name"]))
         return render_template('category.html', data={"sorted_children": sorted_children, **page_object.content})
 
     return func
