@@ -37,11 +37,11 @@
           <span class="nav__cross-item"></span>
         </label>
       </div>
-      <a class="nav__link" href="{{ url_for('') }}">Accueil</a>
-      <a class="nav__link" href="{{ url_for('oiseaux') }}">Oiseaux</a>
-      <a class="nav__link" href="{{ url_for('mammiferes') }}">Mammifères</a>
-      <a class="nav__link" href="{{ url_for('oiseaux_etourneau') }}">Etourneau</a>
-      <a class="nav__link" href="{{ url_for('oiseaux_huppe') }}">Plantes</a>
+
+      {% for page in main_content.root_pages | sort(attribute='metadata.menu_title') %}
+        <a class="nav__link" href="{{ page.endpoint }}">{{ page.metadata.menu_title }}</a>
+      {% endfor %}
+
     </div>
     <div class="nav__right">
       <label for="menu-checkbox" class="nav__burger">

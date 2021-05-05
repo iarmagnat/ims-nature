@@ -19,7 +19,7 @@ class Explorer:
         self.pages = {}
         self.directories = {}
         self.contents = self.explore(self.root, self.url_root)
-        self.directories['/'] = Directory(self.contents, "/")
+        self.directories[f"/{self.url_root}"] = Directory(self.contents, f"/{self.url_root}")
 
     def explore(self, root, url_root):
         if os.path.exists(root):
@@ -44,3 +44,7 @@ class Explorer:
         with open(f"{root}/{file_name}") as file:
             content = json.load(file)
         return self.page_types[content["type"]](content, url_root, file_name)
+
+    @property
+    def root_pages(self):
+        return self.directories[f"/{self.url_root}"].child_pages

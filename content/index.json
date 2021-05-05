@@ -1,3 +1,6 @@
 {
-  "type": "homepage"
+  "type": "homepage",
+  "metadata": {
+    "menu_title": "Accueil"
+  }
 }

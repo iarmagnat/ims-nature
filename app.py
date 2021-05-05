@@ -13,6 +13,12 @@ class SpeciesPage(Page):
             return self.content["name"]
 
 
+class CategoryPage(Page):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.metadata["menu_title"] = self.content["category_name"]
+
+
 def home(page_object):
     def func():
         return render_template('home.html')
@@ -22,7 +28,6 @@ def home(page_object):
 
 def species_list(page_object):
     def func():
-
         def mapper(item):
             content = {**item.content}
             content["usable_name"] = item.usable_name
@@ -45,7 +50,10 @@ def species(page_object):
     return func
 
 
-page_types = {"species": SpeciesPage}
+page_types = {
+    "species": SpeciesPage,
+    "species_list": CategoryPage,
+}
 
 page_funcs = {
     "homepage": home,
