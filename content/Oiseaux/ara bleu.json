@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Psittaciformes",
-    "Famille": "Psittacidae"
+    "Famille": "Psittacidae",
+    "Genre": "Ara",
+    "Espèce": "Ara ararauna"
   },
   "page_content": {
     "Ponte": "Décembre-Juin",

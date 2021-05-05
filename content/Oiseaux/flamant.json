@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Phoenicopteriformes",
-    "Famille": "Phoenicopteridae"
+    "Famille": "Phoenicopteridae",
+    "Genre": "Phoenicopterus",
+    "Espèce": "Phoenicopterus roseus"
   },
   "page_content": {
     "Ponte": "Mars-Août",

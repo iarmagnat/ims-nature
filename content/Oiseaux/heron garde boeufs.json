@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Pelecaniformes",
-    "Famille": "Ardeidae"
+    "Famille": "Ardeidae",
+    "Genre": "Bubulcus",
+    "Espèce": "Bubulcus ibis"
   },
   "page_content": {
     "Ponte": "Variable selon région",

@@ -12,8 +12,14 @@
   },
   "iucn": "nt",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Rodentia",
-    "Famille": "Caviidae"
+    "Famille": "Caviidae",
+    "Genre": "Dolichotis",
+    "Espèce": "Dolichotis patagonum"
   },
   "page_content": {
     "Répartition": "Argentine",

@@ -12,8 +12,14 @@
   },
   "iucn": "vu",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Psittaciformes",
-    "Famille": "Psittacidae"
+    "Famille": "Psittacidae",
+    "Genre": "Ara",
+    "Espèce": "Ara militaris"
   },
   "page_content": {
     "Ponte": "Mai-Juin",

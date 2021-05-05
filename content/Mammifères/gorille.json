@@ -12,8 +12,14 @@
   },
   "iucn": "cr",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Primates",
-    "Famille": "Hominidae"
+    "Famille": "Hominidae",
+    "Genre": "Gorilla",
+    "Espèce": "Gorilla gorilla gorilla"
   },
   "page_content": {
     "Répartition": "Ouest Afrique",

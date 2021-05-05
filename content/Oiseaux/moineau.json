@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Passeriformes",
-    "Famille": "Passeridae"
+    "Famille": "Passeridae",
+    "Genre": "Passer",
+    "Espèce": "Passer domesticus"
   },
   "page_content": {
     "Ponte": "Avril/Mai-Juillet",

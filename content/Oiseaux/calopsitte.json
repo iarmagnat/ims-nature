@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Psittaciformes",
-    "Famille": "Cacatuidae"
+    "Famille": "Cacatuidae",
+    "Genre": "Nymphicus",
+    "Espèce": "Nymphicus hollandicus"
   },
   "page_content": {
     "Ponte": "Avril-Juillet/Août-Décembre",

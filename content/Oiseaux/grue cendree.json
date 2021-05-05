@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Gruiformes",
-    "Famille": "Gruidae"
+    "Famille": "Gruidae",
+    "Genre": "Grus",
+    "Espèce": "Grus grus"
   },
   "page_content": {
     "Ponte": "Mai-Juillet",

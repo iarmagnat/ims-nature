@@ -12,8 +12,14 @@
   },
   "iucn": "en",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Carnivora",
-    "Famille": "Ailuridae"
+    "Famille": "Ailuridae",
+    "Genre": "Ailurus",
+    "Espèce": "Ailurus fulgens"
   },
   "page_content": {
     "Répartition": "Himalaya/Chine/Népal",

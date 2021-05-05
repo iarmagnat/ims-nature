@@ -4,7 +4,7 @@
   },
   "type": "species",
   "vernacular": "Perruche à collier",
-  "name": "Psittacula Krameri",
+  "name": "Psittacula krameri",
   "image": {
     "src": "media/Photos site/Oiseaux/Perruchecollier.JPG",
     "alt": "Une perruche à collier",
@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Psittaciformes",
-    "Famille": "Psittacidae"
+    "Famille": "Psittacidae",
+    "Genre": "Psittacula",
+    "Espèce": "Psittacula krameri"
   },
   "page_content": {
     "Ponte": "Décembre-Mais",

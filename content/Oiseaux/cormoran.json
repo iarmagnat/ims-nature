@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Suliformes",
-    "Famille": "Phalacrocoracidae"
+    "Famille": "Phalacrocoracidae",
+    "Genre": "Phalacrocorax",
+    "Espèce": "Phalacrocorax carbo"
   },
   "page_content": {
     "Ponte": "Avril-Juin",

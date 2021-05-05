@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Carnivora",
-    "Famille": "Canidae"
+    "Famille": "Canidae",
+    "Genre": "Canis",
+    "Espèce": "Canis lupus familiaris"
   },
   "page_content": {
     "Répartition": "Partout dans le monde",

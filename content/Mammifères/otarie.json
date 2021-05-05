@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Carnivora",
-    "Famille": "Otariidae"
+    "Famille": "Otariidae",
+    "Genre": "Zalophus",
+    "Espèce": "Zalophus californianus"
   },
   "page_content": {
     "Répartition": "Est Océan Pacifique",

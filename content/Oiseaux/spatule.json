@@ -4,7 +4,7 @@
   },
   "type": "species",
   "vernacular": "Spatule blanche",
-  "name": "Platalea leucoridia",
+  "name": "Platalea leucorodia",
   "image": {
     "src": "media/Photos site/Oiseaux/Spatule.JPG",
     "alt": "Une spatule blanche",
@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Pelecaniformes",
-    "Famille": "Threskiornithidae"
+    "Famille": "Threskiornithidae",
+    "Genre": "Platalea",
+    "Espèce": "Platalea leucorodia"
   },
   "page_content": {
     "Ponte": "Avril-Mai",

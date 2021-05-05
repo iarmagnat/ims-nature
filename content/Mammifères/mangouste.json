@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Carnivora",
-    "Famille": "Herpestidae"
+    "Famille": "Herpestidae",
+    "Genre": "Mungos",
+    "Espèce": "Mungos mungo"
   },
   "page_content": {
     "Répartition": "Afrique",

@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Passeriformes",
-    "Famille": "Corvidae"
+    "Famille": "Corvidae",
+    "Genre": "Corvus",
+    "Espèce": "Corvus frugilegus"
   },
   "page_content": {
     "Ponte": "Mars-Avril",

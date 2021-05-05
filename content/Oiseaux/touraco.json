@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Musophagiformes",
-    "Famille": "Musophagidae"
+    "Famille": "Musophagidae",
+    "Genre": "Tauraco",
+    "Espèce": "Tauraco leucotis"
   },
   "page_content": {
     "Ponte": "Juin-Novembre",

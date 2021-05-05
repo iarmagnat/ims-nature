@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Galliformes",
-    "Famille": "Phasianidae"
+    "Famille": "Phasianidae",
+    "Genre": "Pavo",
+    "Espèce": "Pavo cristatus"
   },
   "page_content": {
     "Ponte": "Avril-Juin",

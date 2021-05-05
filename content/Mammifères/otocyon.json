@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Carnivora",
-    "Famille": "Canidae"
+    "Famille": "Canidae",
+    "Genre": "Otocyon",
+    "Espèce": "Otocyon megalotis"
   },
   "page_content": {
     "Répartition": "Sud Afrique",

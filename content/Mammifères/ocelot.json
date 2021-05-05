@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Carnivora",
-    "Famille": "Felidae"
+    "Famille": "Felidae",
+    "Genre": "Leopardus",
+    "Espèce": "Leopardus pardalis"
   },
   "page_content": {
     "Répartition": "Sud Amérique",

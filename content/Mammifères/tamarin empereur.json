@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Primates",
-    "Famille": "Callitrichidae"
+    "Famille": "Callitrichidae",
+    "Genre": "Saguinus",
+    "Espèce": "Saguinus imperator"
   },
   "page_content": {
     "Répartition": "Pérou/Bolivie/Brésil",

@@ -4,7 +4,7 @@
   },
   "type": "species",
   "vernacular": "Panthère des neiges",
-  "name": "Panthera unica",
+  "name": "Panthera uncia",
   "image": {
     "src": "media/Photos site/Mammifères/Panthèreneiges.JPG",
     "alt": "Une panthère des neiges",
@@ -12,8 +12,14 @@
   },
   "iucn": "vu",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Carnivora",
-    "Famille": "Felidae"
+    "Famille": "Felidae",
+    "Genre": "Panthera",
+    "Espèce": "Panthera uncia"
   },
   "page_content": {
     "Répartition": "Centre Asie",

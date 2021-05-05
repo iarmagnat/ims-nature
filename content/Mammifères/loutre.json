@@ -12,8 +12,14 @@
   },
   "iucn": "vu",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Carnivora",
-    "Famille": "Mustelidae"
+    "Famille": "Mustelidae",
+    "Genre": "Aonyx",
+    "Espèce": "Aonyx cinereus"
   },
   "page_content": {
     "Répartition": "Asie",

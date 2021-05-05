@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Passeriformes",
-    "Famille": "Turdidae"
+    "Famille": "Turdidae",
+    "Genre": "Turdus",
+    "Espèce": "Turdus merula"
   },
   "page_content": {
     "Ponte": "Mars-Mai",

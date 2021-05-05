@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Ciconiiformes",
-    "Famille": "Ciconiidae"
+    "Famille": "Ciconiidae",
+    "Genre": "Ciconia",
+    "Espèce": "Ciconia ciconia"
   },
   "page_content": {
     "Ponte": "Mars-Avril",

@@ -12,8 +12,14 @@
   },
   "iucn": "vu",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Carnivora",
-    "Famille": "Felidae"
+    "Famille": "Felidae",
+    "Genre": "Panthera",
+    "Espèce": "Panthera leo"
   },
   "page_content": {
     "Répartition": "Afrique/Inde",

@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Bucerotiformes",
-    "Famille": "Upupidae"
+    "Famille": "Upupidae",
+    "Genre": "Upupa",
+    "Espèce": "Upupa epops"
   },
   "page_content": {
     "Ponte": "Mai-Juin",

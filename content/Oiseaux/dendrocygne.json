@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Anseriformes",
-    "Famille": "Anatidae"
+    "Famille": "Anatidae",
+    "Genre": "Dendrocygna",
+    "Espèce": "Dendrocygna viduata"
   },
   "page_content": {
     "Ponte": "Pic saison des pluies",

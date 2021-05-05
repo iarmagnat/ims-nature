@@ -12,8 +12,14 @@
   },
   "iucn": "en",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Sphenisciformes",
-    "Famille": "Spheniscidae"
+    "Famille": "Spheniscidae",
+    "Genre": "Spheniscus",
+    "Espèce": "Spheniscus demersus"
   },
   "page_content": {
     "Ponte": "Mars-Mai/Novembre-Décembre",

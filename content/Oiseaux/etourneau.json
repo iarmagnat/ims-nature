@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Passeriformes",
-    "Famille": "Sturnidae"
+    "Famille": "Sturnidae",
+    "Genre": "Sturnus",
+    "Espèce": "Sturnus vulgaris"
   },
   "page_content": {
     "Ponte": "Mars-Juillet",

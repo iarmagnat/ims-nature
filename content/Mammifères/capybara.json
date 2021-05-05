@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Rodentia",
-    "Famille": "Caviidae"
+    "Famille": "Caviidae",
+    "Genre": "Hydrochoerus",
+    "Espèce": "Hydrochoerus hydrochaeris"
   },
   "page_content": {
     "Répartition": "Sud Amérique",

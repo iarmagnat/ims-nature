@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Charadriiformes",
-    "Famille": "Laridae"
+    "Famille": "Laridae",
+    "Genre": "Chroicocephalus",
+    "Espèce": "Chroicocephalus ridibundus"
   },
   "page_content": {
     "Ponte": "Avril-Juillet",

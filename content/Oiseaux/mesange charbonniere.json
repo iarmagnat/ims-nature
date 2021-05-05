@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Passeriformes",
-    "Famille": "Paridae"
+    "Famille": "Paridae",
+    "Genre": "Parus",
+    "Espèce": "Parus major"
   },
   "page_content": {
     "Ponte": "Avril-Juin",

@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Gruiformes",
-    "Famille": "Rallidae"
+    "Famille": "Rallidae",
+    "Genre": "Gallinula",
+    "Espèce": "Gallinula chloropus"
   },
   "page_content": {
     "Ponte": "Mai-Septembre",

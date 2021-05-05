@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Anseriformes",
-    "Famille": "Anatidae"
+    "Famille": "Anatidae",
+    "Genre": "Cygnus",
+    "Espèce": "Cygnus olor"
   },
   "page_content": {
     "Ponte": "Avril-Mai",

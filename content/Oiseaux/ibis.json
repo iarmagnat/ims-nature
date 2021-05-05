@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Pelecaniformes",
-    "Famille": "Threskiornithidae"
+    "Famille": "Threskiornithidae",
+    "Genre": "Eudocimus",
+    "Espèce": "Eudocimus ruber"
   },
   "page_content": {
     "Ponte": "Mars-Juillet",

@@ -12,8 +12,14 @@
   },
   "iucn": "vu",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Carnivora",
-    "Famille": "Ursidae"
+    "Famille": "Ursidae",
+    "Genre": "Helarctos",
+    "Espèce": "Helarctos malayanus"
   },
   "page_content": {
     "Répartition": "Sud-Est Asie",

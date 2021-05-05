@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Casuariiformes",
-    "Famille": "Dromaiidae"
+    "Famille": "Dromaiidae",
+    "Genre": "Dromaius",
+    "Espèce": "Dromaius novaehollandiae"
   },
   "page_content": {
     "Ponte": "Février-Juillet (surtout Avril/Juin)",

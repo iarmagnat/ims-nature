@@ -12,8 +12,14 @@
   },
   "iucn": "en",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Carnivora",
-    "Famille": "Felidae"
+    "Famille": "Felidae",
+    "Genre": "Panthera",
+    "Espèce": "Panthera tigris altaica"
   },
   "page_content": {
     "Répartition": "Frontière Russie/Chine",

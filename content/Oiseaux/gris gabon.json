@@ -12,8 +12,14 @@
   },
   "iucn": "en",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Psittaciformes",
-    "Famille": "Psittacidae"
+    "Famille": "Psittacidae",
+    "Genre": "Psittacus",
+    "Espèce": "Psittacus erithacus"
   },
   "page_content": {
     "Ponte": "Novembre-Septembre",

@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
     "Ordre": "Psittaciformes",
-    "Famille": "Psittaculidae"
+    "Famille": "Psittacidae",
+    "Genre": "Melopsittacus",
+    "Espèce": "Melopsittacus undulatus"
   },
   "page_content": {
     "Ponte": "Juin-Septembre/Août-Janvier",

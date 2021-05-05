@@ -12,8 +12,14 @@
   },
   "iucn": "en",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Primates",
-    "Famille": "Callitrichidae"
+    "Famille": "Callitrichidae",
+    "Genre": "Leontopithecus",
+    "Espèce": "Leontopithecus rosalia"
   },
   "page_content": {
     "Répartition": "Brésil",
