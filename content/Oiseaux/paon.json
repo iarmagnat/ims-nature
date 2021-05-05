@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Paon bleu",
+  "name": "Pavo cristatus",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Paon.JPG",
+    "alt": "Un paon bleu",
+    "title": "Un paon bleu"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Galliformes",
+    "Famille": "Phasianidae"
+  },
+  "page_content": {
+    "Ponte": "Avril-Juin",
+    "Répartition": "Inde/Sri Lanka",
+    "Habitat": "Forêts ouvertes, près eau",
+    "Chant": "Leeeeoon"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Paon.jpg",
+    "alt": "Aire de répartition du paon bleu",
+    "title": "Aire de répartition du paon bleu"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

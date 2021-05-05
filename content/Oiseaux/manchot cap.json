@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Manchot du Cap",
+  "name": "Spheniscus demersus",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Manchot.JPG",
+    "alt": "Un manchot du Cap",
+    "title": "Un manchot du Cap"
+  },
+  "iucn": "en",
+  "taxonomy": {
+    "Ordre": "Sphenisciformes",
+    "Famille": "Spheniscidae"
+  },
+  "page_content": {
+    "Ponte": "Mars-Mai/Novembre-Décembre",
+    "Répartition": "Sud Afrique",
+    "Habitat": "Côte, îles, milieu marin",
+    "Chant": "Hin huuun/Huun"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Manchot.jpg",
+    "alt": "Aire de répartition du manchot du Cap",
+    "title": "Aire de répartition du manchot du Cap"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

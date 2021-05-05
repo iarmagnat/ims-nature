@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Emeu d’Australie",
+  "name": "Dromaius novaehollandiae",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Emeu.JPG",
+    "alt": "Un émeu d'Australie",
+    "title": "Un émeu d'Australie"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Casuariiformes",
+    "Famille": "Dromaiidae"
+  },
+  "page_content": {
+    "Ponte": "Février-Juillet (surtout Avril/Juin)",
+    "Répartition": "Australie",
+    "Habitat": "Forêts claires, plaines",
+    "Chant": "Sons ronflants"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Emeu.jpg",
+    "alt": "Aire de répartition de l'émeu d'Australie",
+    "title": "Aire de répartition de l'émeu d'Australie"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

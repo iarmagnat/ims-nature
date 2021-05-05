@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Perruche à collier",
+  "name": "Psittacula Krameri",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Perruchecollier.JPG",
+    "alt": "Une perruche à collier",
+    "title": "Une perruche à collier"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Psittaciformes",
+    "Famille": "Psittacidae"
+  },
+  "page_content": {
+    "Ponte": "Décembre-Mais",
+    "Répartition": "Afrique/Asie",
+    "Habitat": "Varié, forêts, régions semi-désertiques, agglomérations",
+    "Chant": "Kiiaa/Kyik kyik kyik"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Perruchecollier.jpg",
+    "alt": "Aire de répartition de la perruche à collier",
+    "title": "Aire de répartition de la perruche à collier"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

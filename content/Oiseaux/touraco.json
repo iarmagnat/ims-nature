@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Touraco à joues blanches",
+  "name": "Tauraco leucotis",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Touraco.JPG",
+    "alt": "Un touraco à joues blanches",
+    "title": "Un touraco à joues blanches"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Musophagiformes",
+    "Famille": "Musophagidae"
+  },
+  "page_content": {
+    "Ponte": "Juin-Novembre",
+    "Répartition": "Ethiopie",
+    "Habitat": "Forêts montagneuses",
+    "Chant": "Wou wou"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "sound": {
+    "src": "media/sounds/Upupa_epops.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Touraco.jpg",
+    "alt": "Aire de répartition du touraco à joues blanches",
+    "title": "Aire de répartition du touraco à joues blanches"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}
