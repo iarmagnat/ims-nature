@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Girafe",
+  "name": "Giraffa camelopardalis",
+  "image": {
+    "src": "media/Photos site/Mammifères/Girafe.JPG",
+    "alt": "Une girafe",
+    "title": "Une girafe"
+  },
+  "iucn": "vu",
+  "taxonomy": {
+    "Ordre": "Artiodactyla",
+    "Famille": "Giraffidae"
+  },
+  "page_content": {
+    "Répartition": "Afrique",
+    "Habitat": "Savanes, forêts",
+    "Reproduction": "Toute l’année",
+    "Taille portée": "1"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Girafe.jpg",
+    "alt": "Aire de répartition de la girafe",
+    "title": "Aire de répartition de la girafe"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

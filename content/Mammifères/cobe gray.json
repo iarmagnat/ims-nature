@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Cobe de Mrs Gray",
+  "name": "Kobus megaceros",
+  "image": {
+    "src": "media/Photos site/Mammifères/Cobegray.JPG",
+    "alt": "Un cobe de Mrs Gray",
+    "title": "Un cobe de Mrs Gray"
+  },
+  "iucn": "en",
+  "taxonomy": {
+    "Ordre": "Artiodactyla",
+    "Famille": "Bovidae"
+  },
+  "page_content": {
+    "Répartition": "Sud Soudan/Ethiopie",
+    "Habitat": "Prairies, marais",
+    "Reproduction": "Toute l’année",
+    "Taille portée": "1"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Cobegray.jpg",
+    "alt": "Aire de répartition du cobe de Mrs Gray",
+    "title": "Aire de répartition du cobe de Mrs Gray"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

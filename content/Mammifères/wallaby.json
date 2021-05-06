@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Wallaby de Bennett",
+  "name": "Macropus rufogriseus",
+  "image": {
+    "src": "media/Photos site/Mammifères/Wallaby.JPG",
+    "alt": "Un wallaby de Bennett",
+    "title": "Un wallaby de Bennett"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Diprotodontia",
+    "Famille": "Macropodidae"
+  },
+  "page_content": {
+    "Répartition": "Australie/Tasmanie",
+    "Habitat": "Savanes, prairies, steppes",
+    "Reproduction": "Toute l’année",
+    "Taille portée": "1"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Wallaby.jpg",
+    "alt": "Aire de répartition du wallaby de Bennett",
+    "title": "Aire de répartition du wallaby de Bennett"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Zèbre de montagne de Hartmann",
+  "name": "Equus zebra hartmannae",
+  "image": {
+    "src": "media/Photos site/Mammifères/Zèbremontagne.JPG",
+    "alt": "Un zèbre de montagne de Hartmann",
+    "title": "Un zèbre de montagne de Hartmann"
+  },
+  "iucn": "vu",
+  "taxonomy": {
+    "Ordre": "Perissodactyla",
+    "Famille": "Equidae"
+  },
+  "page_content": {
+    "Répartition": "Namibie/Sud Afrique",
+    "Habitat": "Savanes, prairies",
+    "Reproduction": "Toute l’année",
+    "Taille portée": "1"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Zèbremontagne.jpg",
+    "alt": "Aire de répartition du zèbre de montagne de Hartmann",
+    "title": "Aire de répartition du zèbre de montagne de Hartmann"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

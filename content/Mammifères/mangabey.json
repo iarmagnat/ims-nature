@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Mangabey à joues grises",
+  "name": "Lophocebus albigena",
+  "image": {
+    "src": "media/Photos site/Mammifères/Mangabey.JPG",
+    "alt": "Un mangabey à joues grises",
+    "title": "Un mangabey à joues grises"
+  },
+  "iucn": "vu",
+  "taxonomy": {
+    "Ordre": "Primates",
+    "Famille": "Cercopithecidae"
+  },
+  "page_content": {
+    "Répartition": "Centre Afrique",
+    "Habitat": "Forêts",
+    "Reproduction": "Toute l’année",
+    "Taille portée": "1"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Mangabey.jpg",
+    "alt": "Aire de répartition du mangabey à joues grises",
+    "title": "Aire de répartition du mangabey à joues grises"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

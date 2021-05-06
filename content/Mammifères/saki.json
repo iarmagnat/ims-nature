@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Saki à face blanche",
+  "name": "Pithecia pithecia",
+  "image": {
+    "src": "media/Photos site/Mammifères/Saki.JPG",
+    "alt": "Un saki à face blanche",
+    "title": "Un saki à face blanche"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Ordre": "Primates",
+    "Famille": "Pitheciidae"
+  },
+  "page_content": {
+    "Répartition": "Venezuela/Guyanes/Brésil",
+    "Habitat": "Forêts tropicales",
+    "Reproduction": "Toute l’année",
+    "Taille portée": "1-3"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Saki.jpg",
+    "alt": "Aire de répartition du saki à face blanche",
+    "title": "Aire de répartition du saki à face blanche"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

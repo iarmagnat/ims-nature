@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Bongo",
+  "name": "Tragelaphus eurycerus",
+  "image": {
+    "src": "media/Photos site/Mammifères/Bongo.JPG",
+    "alt": "Un bongo",
+    "title": "Un bongo"
+  },
+  "iucn": "nt",
+  "taxonomy": {
+    "Ordre": "Artiodactyla",
+    "Famille": "Bovidae"
+  },
+  "page_content": {
+    "Répartition": "Centre Afrique",
+    "Habitat": "Forêts, savanes",
+    "Reproduction": "Toute l’année",
+    "Taille portée": "1"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Bongo.jpg",
+    "alt": "Aire de répartition du bongo",
+    "title": "Aire de répartition du bongo"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

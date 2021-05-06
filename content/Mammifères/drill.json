@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Drill",
+  "name": "Mandrillus leucophaeus",
+  "image": {
+    "src": "media/Photos site/Mammifères/Drill.JPG",
+    "alt": "Un drill",
+    "title": "Un drill"
+  },
+  "iucn": "en",
+  "taxonomy": {
+    "Ordre": "Primates",
+    "Famille": "Cercopithecidae"
+  },
+  "page_content": {
+    "Répartition": "Cameroun/Nigéria",
+    "Habitat": "Forêts tropicales",
+    "Reproduction": "Toute l’année (peu connu)",
+    "Taille portée": "1"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Drill.jpg",
+    "alt": "Aire de répartition du drill",
+    "title": "Aire de répartition du drill"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}

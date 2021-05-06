@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "meta_description": "Une metadescription"
+  },
+  "type": "species",
+  "vernacular": "Maki catta",
+  "name": "Lemur catta",
+  "image": {
+    "src": "media/Photos site/Mammifères/Makicatta.JPG",
+    "alt": "Un maki catta",
+    "title": "Un maki catta"
+  },
+  "iucn": "en",
+  "taxonomy": {
+    "Ordre": "Primates",
+    "Famille": "Lemuridae"
+  },
+  "page_content": {
+    "Répartition": "Madagascar",
+    "Habitat": "Forêts, zones rocheuses",
+    "Reproduction": "Avril-Juin",
+    "Taille portée": "1-2"
+  },
+  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Makicatta.jpg",
+    "alt": "Aire de répartition du maki catta",
+    "title": "Aire de répartition du maki catta"
+  },
+  "sources": [
+    "un lien",
+    "un autre lien"
+  ]
+}
