@@ -1,7 +1,12 @@
 from flask import Flask, render_template
-from explorer import Explorer, Page, init_explorer, slugify
+from explorer import Page, init_explorer, slugify
 
 app = Flask(__name__)
+
+
+@app.template_filter("use_sm")
+def use_sm(text):
+    return "_sm.".join(text.split("."))
 
 
 class SpeciesPage(Page):

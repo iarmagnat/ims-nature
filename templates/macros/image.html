@@ -1,9 +1,15 @@
-{% macro render(src, alt, title, class, clickable) %}
+{% macro render(src, alt, title, class, clickable, small=false) %}
+  {% set small_src = src | use_sm %}
   {% if clickable %}
     <a href="#{{ src | slugify }}"
        {% if class %}class="{{ class }}-link"{% endif %}>
   {% endif %}
-<img src="{{ url_for('static', filename=src) }}" alt="{{ alt }}"
+<img alt="{{ alt }}"
+    {% if small %}
+     src="{{ url_for('static', filename=small_src) }}"
+    {% else %}
+     src="{{ url_for('static', filename=src) }}"
+    {% endif %}
      {% if title %}title="{{ title }}"{% endif %}
      {% if class %}class="{{ class }}"{% endif %}>
 {% if clickable %}
