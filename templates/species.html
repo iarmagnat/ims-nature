@@ -73,13 +73,11 @@
         {% for photo in data.gallery %}
           <div class="species-gallery__item">
             {{ image.render(clickable=True, src=photo.src, alt=photo.alt, title=photo.title, small=True) }}
-            <div class="species-gallery__description">
-              {% if photo.description %}
+            {% if photo.description %}
+              <div class="species-gallery__description">
                 {{ photo.description }}
-              {% else %}
-                {{ photo.title }}
-              {% endif %}
-            </div>
+              </div>
+            {% endif %}
           </div>
         {% endfor %}
         <div class="species-gallery__item species-gallery__item--space-fix"></div>
