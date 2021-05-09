@@ -4,7 +4,7 @@
   },
   "type": "species",
   "vernacular": "Cheval de Przewalski",
-  "name": "Equus ferus przewalskii",
+  "name": "Equus caballus przewalskii",
   "image": {
     "src": "media/Photos site/Mammifères/Chevalprzewalski.JPG",
     "alt": "Un cheval de Przewalski",
@@ -12,8 +12,14 @@
   },
   "iucn": "en",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Perissodactyla",
-    "Famille": "Equidae"
+    "Famille": "Equidae",
+    "Genre": "Equus",
+    "Espèce": "Equus caballus przewalskii"
   },
   "page_content": {
     "Répartition": "Mongolie/Chine",

@@ -12,8 +12,14 @@
   },
   "iucn": "en",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Artiodactyla",
-    "Famille": "Bovidae"
+    "Famille": "Bovidae",
+    "Genre": "Kobus",
+    "Espèce": "Kobus megaceros"
   },
   "page_content": {
     "Répartition": "Sud Soudan/Ethiopie",

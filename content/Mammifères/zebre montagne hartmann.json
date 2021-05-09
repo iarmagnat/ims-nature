@@ -12,8 +12,14 @@
   },
   "iucn": "vu",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Perissodactyla",
-    "Famille": "Equidae"
+    "Famille": "Equidae",
+    "Genre": "Equus",
+    "Espèce": "Equus zebra hartmannae"
   },
   "page_content": {
     "Répartition": "Namibie/Sud Afrique",

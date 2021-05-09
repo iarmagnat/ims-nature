@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Diprotodontia",
-    "Famille": "Macropodidae"
+    "Famille": "Macropodidae",
+    "Genre": "Macropus",
+    "Espèce": "Macropus rufogriseus"
   },
   "page_content": {
     "Répartition": "Australie/Tasmanie",

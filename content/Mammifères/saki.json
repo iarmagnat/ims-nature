@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Primates",
-    "Famille": "Pitheciidae"
+    "Famille": "Pitheciidae",
+    "Genre": "Pithecia",
+    "Espèce": "Pithecia pithecia"
   },
   "page_content": {
     "Répartition": "Venezuela/Guyanes/Brésil",

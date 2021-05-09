@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Artiodactyla",
-    "Famille": "Cervidae"
+    "Famille": "Cervidae",
+    "Genre": "Dama",
+    "Espèce": "Dama dama"
   },
   "page_content": {
     "Répartition": "Eurasie",

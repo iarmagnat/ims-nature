@@ -12,8 +12,14 @@
   },
   "iucn": "cr",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Artiodactyla",
-    "Famille": "Camelidae"
+    "Famille": "Camelidae",
+    "Genre": "Camelus",
+    "Espèce": "Camelus bactrianus"
   },
   "page_content": {
     "Répartition": "Mongolie, Chine",

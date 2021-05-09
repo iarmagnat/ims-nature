@@ -12,8 +12,14 @@
   },
   "iucn": "lc",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Primates",
-    "Famille": "Cercopithecidae"
+    "Famille": "Cercopithecidae",
+    "Genre": "Colobus",
+    "Espèce": "Colobus guereza"
   },
   "page_content": {
     "Répartition": "Centre Afrique",

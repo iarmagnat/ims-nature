@@ -12,8 +12,14 @@
   },
   "iucn": "en",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Primates",
-    "Famille": "Lemuridae"
+    "Famille": "Lemuridae",
+    "Genre": "Lemur",
+    "Espèce": "Lemur catta"
   },
   "page_content": {
     "Répartition": "Madagascar",

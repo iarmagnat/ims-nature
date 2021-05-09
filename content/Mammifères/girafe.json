@@ -12,8 +12,14 @@
   },
   "iucn": "vu",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Artiodactyla",
-    "Famille": "Giraffidae"
+    "Famille": "Giraffidae",
+    "Genre": "Giraffa",
+    "Espèce": "Giraffa camelopardalis"
   },
   "page_content": {
     "Répartition": "Afrique",

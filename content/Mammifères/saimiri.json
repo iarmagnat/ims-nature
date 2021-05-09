@@ -12,8 +12,14 @@
   },
   "iucn": "en",
   "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
     "Ordre": "Primates",
-    "Famille": "Cebidae"
+    "Famille": "Cebidae",
+    "Genre": "Saimiri",
+    "Espèce": "Saimiri vanzolinii"
   },
   "page_content": {
     "Répartition": "Brésil",
