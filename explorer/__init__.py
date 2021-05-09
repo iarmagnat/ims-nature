@@ -13,6 +13,10 @@ def init_explorer(app, page_funcs, *, root="content", url_root="", page_types={}
 
         app.add_url_rule(endpoint, endpoint=endpoint_name, view_func=view_func(page))
 
+    @app.template_filter("slugify")
+    def slugify_filter(text):
+        return slugify(text)
+
     @app.context_processor
     def add_content():
         return {

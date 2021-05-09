@@ -1,7 +1,24 @@
 {% macro render(src, alt, title, class, clickable) %}
-  <img src="{{ url_for('static', filename=src) }}" alt="{{ alt }}"
-      {% if title %}title="{{ title }}"{% endif %}
-      {% if class %}class="{{ class }}"{% endif %}
-      {% if clickable %}data-clickable-image{% endif %}
-  >
+  {% if clickable %}
+    <a href="#{{ src | slugify }}"
+       {% if class %}class="{{ class }}-link"{% endif %}>
+  {% endif %}
+<img src="{{ url_for('static', filename=src) }}" alt="{{ alt }}"
+     {% if title %}title="{{ title }}"{% endif %}
+     {% if class %}class="{{ class }}"{% endif %}>
+{% if clickable %}
+  </a>
+  <a class="image-popup" id="{{ src | slugify }}" href="#">
+    <div class="image-popup__container" id="image-popup-container">
+      <img src="{{ url_for('static', filename=src) }}" alt="{{ alt }}"
+           class="image-popup__image"
+           {% if title %}title="{{ title }}"{% endif %}
+           {% if clickable %}data-clickable-image{% endif %}
+      >
+    </div>
+    <button class="image-popup__close" id="image-popup-close">
+      Fermer
+    </button>
+  </a>
+{% endif %}
 {% endmacro %}
