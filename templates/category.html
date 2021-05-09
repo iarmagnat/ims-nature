@@ -21,7 +21,7 @@
     <div class="category__cards">
       {% for species in data.sorted_children %}
         <a class="species-card" href="{{ species.endpoint }}">
-          {{ image.render(class="species-card__image",**species.image) }}
+          {{ image.render(class="species-card__image", small=True,**species.image) }}
           <div class="species-card__name">
             {{ species.usable_name }}
           </div>
