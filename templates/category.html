@@ -6,6 +6,10 @@
   {{ data.category_name }} | IMS Nature
 {%- endblock %}
 
+{% block meta_description %}
+  {{- data.metadata.meta_description -}}
+{% endblock %}
+
 {% block main %}
   <div class="category">
     <h1 class="category__title">

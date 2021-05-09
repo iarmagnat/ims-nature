@@ -7,11 +7,9 @@
   {{ data.vernacular }} | IMS Nature
 {%- endblock %}
 
-{% if data.metadata.meta_description | length %}
-  {% block meta_description %}
-    {{- data.metadata.meta_description -}}
-  {% endblock %}
-{% endif %}
+{% block meta_description %}
+  {{- data.metadata.meta_description -}}
+{% endblock %}
 
 {% block main %}
   <div class="species">
@@ -19,12 +17,18 @@
       {{ image.render(clickable=true, **data.image) }}
     </div>
     <div class="species__info">
-      <h1 class="species__title">
-        {{ data.vernacular }}
-      </h1>
-      <div class="species__subtitle">
-        {{ data.name }}
-      </div>
+      {% if data.vernacular %}
+        <h1 class="species__title">
+          {{ data.vernacular }}
+        </h1>
+        <div class="species__subtitle">
+          {{ data.name }}
+        </div>
+      {% else %}
+        <h1 class="species__title">
+          {{ data.name }}
+        </h1>
+      {% endif %}
       <div class="species__image-mobile">
         {{ image.render(clickable=true, **data.image) }}
       </div>
@@ -33,12 +37,12 @@
       </div>
       <div class="species__content">
         <table>
-{#          {% for (key, value) in data.taxonomy.items() %}#}
-{#            <tr>#}
-{#              <th>{{ key }}</th>#}
-{#              <td>{{ value }}</td>#}
-{#            </tr>#}
-{#          {% endfor %}#}
+          {#          {% for (key, value) in data.taxonomy.items() %}#}
+          {#            <tr>#}
+          {#              <th>{{ key }}</th>#}
+          {#              <td>{{ value }}</td>#}
+          {#            </tr>#}
+          {#          {% endfor %}#}
           {% for (key, value) in data.page_content.items() %}
             <tr>
               <th>{{ key }}</th>
@@ -64,7 +68,7 @@
   </div>
   {% if data.gallery %}
     <div class="species-gallery">
-    <h2 class="species-gallery__title">Galerie Photo :</h2>
+      <h2 class="species-gallery__title">Galerie Photo :</h2>
       <div class="species-gallery__items">
         {% for photo in data.gallery %}
           <div class="species-gallery__item">

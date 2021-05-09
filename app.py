@@ -5,6 +5,15 @@ app = Flask(__name__)
 
 
 class SpeciesPage(Page):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+
+        # Set default Meta-description if needed
+        if not self.metadata.get("meta_description"):
+            meta_desc = f"Quelques informations et photos de {self.usable_name}."
+            self.metadata["meta_description"] = meta_desc
+            self.content["metadata"]["meta_description"] = meta_desc
+
     @property
     def usable_name(self):
         if self.content.get("vernacular"):
@@ -17,6 +26,12 @@ class CategoryPage(Page):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.metadata["menu_title"] = self.content["category_name"]
+
+        # Set default Meta-description if needed
+        if not self.metadata.get("meta_description"):
+            meta_desc = f"Liste des {self.content['category_name']} sur le site."
+            self.metadata["meta_description"] = meta_desc
+            self.content["metadata"]["meta_description"] = meta_desc
 
 
 def home(page_object):
