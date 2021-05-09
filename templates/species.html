@@ -33,12 +33,12 @@
       </div>
       <div class="species__content">
         <table>
-          {% for (key, value) in data.taxonomy.items() %}
-            <tr>
-              <th>{{ key }}</th>
-              <td>{{ value }}</td>
-            </tr>
-          {% endfor %}
+{#          {% for (key, value) in data.taxonomy.items() %}#}
+{#            <tr>#}
+{#              <th>{{ key }}</th>#}
+{#              <td>{{ value }}</td>#}
+{#            </tr>#}
+{#          {% endfor %}#}
           {% for (key, value) in data.page_content.items() %}
             <tr>
               <th>{{ key }}</th>
@@ -62,4 +62,32 @@
       {% endif %}
     </div>
   </div>
+  {% if data.gallery %}
+    <div class="species-gallery">
+    <h2 class="species-gallery__title">Galerie Photo :</h2>
+      <div class="species-gallery__items">
+        {% for photo in data.gallery %}
+          <div class="species-gallery__item">
+            {{ image.render(clickable=True, src=photo.src, alt=photo.alt, title=photo.title) }}
+            <div class="species-gallery__description">
+              {% if photo.description %}
+                {{ photo.description }}
+              {% else %}
+                {{ photo.title }}
+              {% endif %}
+            </div>
+          </div>
+        {% endfor %}
+        <div class="species-gallery__item species-gallery__item--space-fix"></div>
+      </div>
+    </div>
+  {% endif %}
+  {% if data.sources | length %}
+    <div>
+      Sources :
+      {% for source in data.sources %}
+        <a href="{{ source }}" class="species__source-link" target="_blank">{{ source }}</a>
+      {% endfor %}
+    </div>
+  {% endif %}
 {% endblock %}

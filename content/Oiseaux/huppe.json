@@ -37,7 +37,25 @@
     "title": "Aire de répartition de la huppe fasciée"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://google.com",
+    "https://wikipedia.org"
+  ],
+  "gallery": [
+    {
+      "src": "media/Photos site/Oiseaux/Huppe.JPG",
+      "alt": "Une huppe fasciée",
+      "title": "Une huppe fasciée",
+      "description": "une description de l'image"
+    },
+    {
+      "src": "media/Photos site/Oiseaux/Huppe.JPG",
+      "alt": "Une huppe fasciée",
+      "title": "Une huppe fasciée"
+    },
+    {
+      "src": "media/Aires/Aire_oiseaux/Aire_Huppe.jpg",
+      "alt": "Aire de répartition de la huppe fasciée",
+      "title": "Aire de répartition de la huppe fasciée"
+    }
   ]
 }

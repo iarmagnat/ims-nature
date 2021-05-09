@@ -30,6 +30,7 @@
 
     @media (max-width: $tablet) {
       width: 100%;
+      padding: 0;
     }
   }
 
@@ -56,6 +57,10 @@
       border-collapse: collapse;
     }
 
+    table {
+      width: 100%;
+    }
+
     tr {
       height: 40px;
 
@@ -66,7 +71,7 @@
 
     th {
       text-align: left;
-      width: 100px;
+      width: 33%;
 
       &:after {
         content: ' :';
@@ -85,5 +90,41 @@
   &__map {
     border: 1px solid black;
     padding: 1px;
+  }
+}
+
+.species-gallery {
+  &__title {
+    font-family: "Caveat", cursive;
+    padding-left: 50px;
+
+    @media (max-width: $tablet) {
+      text-align: center;
+      padding: 0;
+    }
+  }
+
+  &__items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  &__item {
+    max-width: 650px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 20px;
+
+    &--space-fix {
+      height: 0;
+      width: 100%;
+      margin: 0;
+    }
+  }
+
+  &__description {
+    text-align: center;
   }
 }

@@ -28,6 +28,7 @@
 @media (max-width: 1200px) {
   .species__info {
     width: 100%;
+    padding: 0;
   }
 }
 .species__title {
@@ -50,6 +51,9 @@
 .species__content table, .species__content th, .species__content td {
   border-collapse: collapse;
 }
+.species__content table {
+  width: 100%;
+}
 .species__content tr {
   height: 40px;
 }
@@ -58,7 +62,7 @@
 }
 .species__content th {
   text-align: left;
-  width: 100px;
+  width: 33%;
 }
 .species__content th:after {
   content: " :";
@@ -72,6 +76,37 @@
 .species__map {
   border: 1px solid black;
   padding: 1px;
+}
+
+.species-gallery__title {
+  font-family: "Caveat", cursive;
+  padding-left: 50px;
+}
+@media (max-width: 1200px) {
+  .species-gallery__title {
+    text-align: center;
+    padding: 0;
+  }
+}
+.species-gallery__items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.species-gallery__item {
+  max-width: 650px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.species-gallery__item--space-fix {
+  height: 0;
+  width: 100%;
+  margin: 0;
+}
+.species-gallery__description {
+  text-align: center;
 }
 
 .nav {
