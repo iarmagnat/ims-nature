@@ -3,3 +3,4 @@
 .python-version
 static/media/*
 **/__pycache__/*
+output/*
