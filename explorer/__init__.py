@@ -6,6 +6,8 @@ from .utils import slugify
 def init_explorer(app, page_funcs, *, root="content", url_root="", page_types={}):
     main_content = Explorer(root=root, url_root=url_root, page_types=page_types)
 
+    app.explorer = main_content
+
     for page in main_content.pages.values():
         view_func = page_funcs[page.type]
         endpoint = page.endpoint

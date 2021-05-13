@@ -1,7 +1,27 @@
-from flask import Flask, render_template
+from collections import defaultdict
+
+from flask import Flask, render_template, current_app
 from explorer import Page, init_explorer, slugify
 
 app = Flask(__name__)
+
+app.config["SERVER_NAME"] = "127.0.0.1:5000"
+
+
+def tree():
+    return defaultdict(tree)
+
+
+taxonomy_order = (
+    "Règne",
+    "Embranchement",
+    "Sous-embranchement",
+    "Classe",
+    "Ordre",
+    "Famille",
+    "Genre",
+    "Espèce"
+)
 
 
 @app.template_filter("use_sm")
@@ -26,6 +46,13 @@ class SpeciesPage(Page):
         else:
             return self.content["name"]
 
+    @property
+    def vernacular(self):
+        if self.content.get("vernacular"):
+            return self.content["vernacular"]
+        else:
+            return ""
+
 
 class CategoryPage(Page):
     def __init__(self, *args, **kwargs):
@@ -42,6 +69,25 @@ class CategoryPage(Page):
 def home(page_object):
     def func():
         return render_template('home.html')
+
+    return func
+
+
+def dendrogram(page_object):
+    def func():
+        data = tree()
+        for page in current_app.explorer.pages.values():
+            if page.type == "species":
+                taxonomy = page.content["taxonomy"]
+                # current data is a cursor that is used to discover the whole tree up to the point of the page
+                current_data = data
+                for index, taxon in enumerate(taxonomy_order):
+                    if index == len(taxonomy_order) - 1:
+                        current_data[taxonomy[taxon]] = page
+                    else:
+                        current_data = current_data[taxonomy[taxon]]
+
+        return render_template('dendrogram.html', taxonomy_order=taxonomy_order, data=data)
 
     return func
 
@@ -79,6 +125,7 @@ page_funcs = {
     "homepage": home,
     "species": species,
     "species_list": species_list,
+    "dendrogram": dendrogram,
 }
 
 init_explorer(app, page_funcs, page_types=page_types)

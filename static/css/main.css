@@ -464,6 +464,83 @@
   padding: 5px 0 10px;
 }
 
+.dendrogram {
+  padding: 1px 0;
+}
+.dendrogram__title {
+  text-align: center;
+}
+.dendrogram__root {
+  overflow-y: auto;
+}
+.dendrogram__taxon {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  list-style-type: none;
+  height: 100%;
+  position: relative;
+  padding: 5px 0;
+}
+.dendrogram__item {
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+.dendrogram__item:before {
+  content: "";
+  position: absolute;
+  border-bottom: 2px solid black;
+  left: 0;
+  width: 10px;
+  top: 50%;
+}
+.dendrogram__item:first-child:before {
+  border-left: 2px solid white;
+  top: -5px;
+  bottom: 50%;
+  z-index: 1;
+}
+.dendrogram__item:last-child:before {
+  border-bottom: none;
+  border-left: 2px solid white;
+  border-top: 2px solid black;
+  bottom: -5px;
+  z-index: 1;
+}
+.dendrogram__item:last-child:first-child:before {
+  border: none;
+  border-left: 2px solid white;
+}
+.dendrogram__item:after {
+  content: "";
+  position: absolute;
+  border-bottom: 2px solid black;
+  left: 150px;
+  width: 10px;
+  top: 50%;
+}
+.dendrogram__item--link {
+  padding-left: 20px;
+}
+.dendrogram__item--link:after {
+  content: none;
+}
+.dendrogram__item-name {
+  width: 160px;
+  text-align: center;
+}
+.dendrogram__vertical-line {
+  position: absolute;
+  left: 160px;
+  top: 0;
+  bottom: 0;
+  border-left: 2px solid black;
+}
+.dendrogram__link {
+  width: 250px;
+}
+
 @font-face {
   font-family: Caveat;
   font-display: swap;

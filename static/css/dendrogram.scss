@@ -1,0 +1,90 @@
+.dendrogram {
+  padding: 1px 0;
+
+  &__title {
+    text-align: center;
+  }
+
+  &__root {
+    overflow-y: auto;
+  }
+
+  &__taxon {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    list-style-type: none;
+    height: 100%;
+    position: relative;
+    padding: 5px 0;
+  }
+
+  &__item {
+    display: flex;
+    position: relative;
+    align-items: center;
+
+    &:before {
+      content: "";
+      position: absolute;
+      border-bottom: 2px solid black;
+      left: 0;
+      width: 10px;
+      top: 50%;
+    }
+
+    &:first-child:before {
+      border-left: 2px solid white;
+      top: -5px;
+      bottom: 50%;
+      z-index: 1;
+    }
+
+    &:last-child:before {
+      border-bottom: none;
+      border-left: 2px solid white;
+      border-top: 2px solid black;
+      bottom: -5px;
+      z-index: 1;
+    }
+
+    &:last-child:first-child:before {
+      border: none;
+      border-left: 2px solid white;
+    }
+
+    &:after {
+      content: "";
+      position: absolute;
+      border-bottom: 2px solid black;
+      left: 150px;
+      width: 10px;
+      top: 50%;
+    }
+
+    &--link {
+      padding-left: 20px;
+
+      &:after {
+        content: none;
+      }
+    }
+  }
+
+  &__item-name {
+    width: 160px;
+    text-align: center;
+  }
+
+  &__vertical-line {
+    position: absolute;
+    left: 160px;
+    top: 0;
+    bottom: 0;
+    border-left: 2px solid black;
+  }
+
+  &__link {
+    width: 250px;
+  }
+}

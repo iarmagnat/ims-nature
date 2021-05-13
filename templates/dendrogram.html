@@ -1,0 +1,46 @@
+{% extends 'layout.html' %}
+{% import 'macros/image.html' as image %}
+
+{% block page_title %}
+  Dendrogramme | IMS Nature
+{% endblock %}
+
+{% block meta_description %}
+  Un dendrogramme de toutes les espèces présentes sur le site.
+{% endblock %}
+
+{% macro render_taxon(current_taxon) %}
+  {% for name, content in current_taxon.items() | sort() %}
+    <li class="dendrogram__item {% if not content is mapping %}dendrogram__item--link{% endif %}">
+
+      {% if content is mapping %}
+        <div class="dendrogram__item-name">
+          {{ name }}
+        </div>
+        <ul class="dendrogram__taxon">
+          {{ render_taxon(content) }}
+        </ul>
+      <div class="dendrogram__vertical-line" aria-hidden="true"></div>
+      {% else %}
+        <a href="{{ content.endpoint }}" class="dendrogram__link">
+          {{ name }}
+          {% if content.vernacular %}
+            ({{ content.vernacular }})
+          {% endif %}
+        </a>
+      {% endif %}
+    </li>
+  {% endfor %}
+{% endmacro %}
+
+{% block main %}
+  <div class="dendrogram">
+    <h1 class="dendrogram__title">Dendrogramme</h1>
+    <div class="dendrogram__root">
+      <ul class="dendrogram__taxon">
+        {{ render_taxon(data) }}
+      </ul>
+    </div>
+  </div>
+{% endblock %}
+
