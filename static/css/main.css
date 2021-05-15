@@ -472,6 +472,7 @@
 }
 .dendrogram__root {
   overflow-y: auto;
+  position: relative;
 }
 .dendrogram__taxon {
   display: flex;
@@ -536,6 +537,9 @@
   top: 0;
   bottom: 0;
   border-left: 2px solid black;
+}
+.dendrogram__vertical-line--first {
+  left: 0;
 }
 .dendrogram__link {
   width: 250px;

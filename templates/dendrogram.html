@@ -20,10 +20,12 @@
         <ul class="dendrogram__taxon">
           {{ render_taxon(content) }}
         </ul>
-      <div class="dendrogram__vertical-line" aria-hidden="true"></div>
+        <div class="dendrogram__vertical-line" aria-hidden="true"></div>
       {% else %}
         <a href="{{ content.endpoint }}" class="dendrogram__link">
-          {{ name }}
+          <em>
+            {{ name }}
+          </em>
           {% if content.vernacular %}
             ({{ content.vernacular }})
           {% endif %}
@@ -40,6 +42,7 @@
       <ul class="dendrogram__taxon">
         {{ render_taxon(data) }}
       </ul>
+      <div class="dendrogram__vertical-line dendrogram__vertical-line--first" aria-hidden="true"></div>
     </div>
   </div>
 {% endblock %}
