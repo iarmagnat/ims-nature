@@ -1,4 +1,4 @@
-from collections import defaultdict
+from collections import defaultdict, OrderedDict
 
 from flask import Flask, render_template, current_app
 from explorer import Page, init_explorer, slugify
@@ -52,6 +52,10 @@ class SpeciesPage(Page):
             return self.content["vernacular"]
         else:
             return ""
+
+    @property
+    def taxonomy(self):
+        return OrderedDict(**self.content["taxonomy"])
 
 
 class CategoryPage(Page):
@@ -111,7 +115,7 @@ def species_list(page_object):
 def species(page_object):
     def func():
         data = {**page_object.content}
-        return render_template('species.html', data=data)
+        return render_template('species.html', data=data, taxonomy=page_object.taxonomy)
 
     return func
 

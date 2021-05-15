@@ -11,53 +11,81 @@
   {{- data.metadata.meta_description -}}
 {% endblock %}
 
+{% macro display_taxonomy(taxonomy) %}
+  {% set taxon, name = taxonomy.popitem(last=False) %}
+  {% set is_species = taxon == "Espèce" %}
+  <div class="taxonomy__wrapper">
+    <div class="taxonomy__value">
+      <div class="taxonomy__taxon">
+        {{ taxon }}
+      </div>
+      <div class="taxonomy__name {%- if is_species %} taxonomy__name--species{% endif %}">
+        {{ name }}
+      </div>
+    </div>
+    {% if taxonomy | length %}
+      {{ display_taxonomy(taxonomy) }}
+    {% endif %}
+  </div>
+{% endmacro %}
+
 {% block main %}
   <div class="species">
-    <div class="species__image">
-      {{ image.render(clickable=true, **data.image) }}
-    </div>
-    <div class="species__info">
-      {% if data.vernacular %}
-        <h1 class="species__title">
-          {{ data.vernacular }}
-        </h1>
-        <div class="species__subtitle">
-          {{ data.name }}
-        </div>
-      {% else %}
-        <h1 class="species__title">
-          {{ data.name }}
-        </h1>
-      {% endif %}
-      <div class="species__image-mobile">
+    <div class="species__section">
+
+      <div class="species__image">
         {{ image.render(clickable=true, **data.image) }}
       </div>
-      <div class="species__iucn">
-        {{ iucn.render(data.iucn) }}
+      <div class="species__info">
+        {% if data.vernacular %}
+          <h1 class="species__title">
+            {{ data.vernacular }}
+          </h1>
+          <div class="species__subtitle">
+            {{ data.name }}
+          </div>
+        {% else %}
+          <h1 class="species__title">
+            {{ data.name }}
+          </h1>
+        {% endif %}
+        <div class="species__image-mobile">
+          {{ image.render(clickable=true, **data.image) }}
+        </div>
+        <div class="species__iucn">
+          {{ iucn.render(data.iucn) }}
+        </div>
+        <div class="species__content">
+          <table>
+            {#          {% for (key, value) in data.taxonomy.items() %}#}
+            {#            <tr>#}
+            {#              <th>{{ key }}</th>#}
+            {#              <td>{{ value }}</td>#}
+            {#            </tr>#}
+            {#          {% endfor %}#}
+            {% for (key, value) in data.page_content.items() %}
+              <tr>
+                <th>{{ key }}</th>
+                <td>{{ value }}</td>
+              </tr>
+            {% endfor %}
+          </table>
+        </div>
+        {% if data.sound %}
+          <audio controls class="species__sound">
+            <source src="{{ url_for('static', filename=data.sound.src) }}" type="audio/mp3">
+          </audio>
+        {% endif %}
+        <div class="species__map">
+          {{ image.render(clickable=true, **data.map) }}
+        </div>
       </div>
-      <div class="species__content">
-        <table>
-          {#          {% for (key, value) in data.taxonomy.items() %}#}
-          {#            <tr>#}
-          {#              <th>{{ key }}</th>#}
-          {#              <td>{{ value }}</td>#}
-          {#            </tr>#}
-          {#          {% endfor %}#}
-          {% for (key, value) in data.page_content.items() %}
-            <tr>
-              <th>{{ key }}</th>
-              <td>{{ value }}</td>
-            </tr>
-          {% endfor %}
-        </table>
-      </div>
-      {% if data.sound %}
-        <audio controls class="species__sound">
-          <source src="{{ url_for('static', filename=data.sound.src) }}" type="audio/mp3">
-        </audio>
-      {% endif %}
-      <div class="species__map">
-        {{ image.render(clickable=true, **data.map) }}
+    </div>
+
+    <div class="species__section species__section--wrap">
+
+      <div class="taxonomy">
+        {{ display_taxonomy(taxonomy) }}
       </div>
       {% if data.description %}
         <div class="species__description">

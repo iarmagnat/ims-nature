@@ -1,11 +1,18 @@
 @import "vars";
 
 .species {
-  display: flex;
   margin-bottom: 20px;
 
-  &--fipped {
-    flex-direction: row-reverse;
+  &__section {
+    display: flex;
+
+    &:not(:first-child) {
+      padding-top: 10px;
+    }
+
+    &--wrap {
+      flex-wrap: wrap;
+    }
   }
 
   &__image {
@@ -51,7 +58,7 @@
     width: 100%;
     list-style: none;
     margin: 0;
-    padding: 0;
+    padding: 20px 0;
 
     table, th, td {
       border-collapse: collapse;
@@ -91,6 +98,14 @@
     border: 1px solid black;
     padding: 1px;
   }
+
+  &__description {
+    margin-left: 10px;
+
+    @media (max-width: $tablet) {
+      margin: 10px 0 0;
+    }
+  }
 }
 
 .species-gallery {
@@ -126,5 +141,35 @@
 
   &__description {
     text-align: center;
+  }
+}
+
+.taxonomy {
+  display: inline-block;
+  max-width: 100%;
+
+  > .taxonomy__wrapper {
+    padding: 0;
+  }
+
+  &__wrapper {
+    padding: 0 20px;
+  }
+
+  &__value {
+    text-align: center;
+    background-color: $accent-color;
+    margin-top: 2px;
+  }
+
+  &__taxon {
+    font-weight: bold;
+  }
+
+  &__name {
+    &--species {
+      font-style: italic;
+      padding: 0 3px;
+    }
   }
 }
