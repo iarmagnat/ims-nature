@@ -1,0 +1,43 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Corneille noire",
+  "name": "Corvus corone",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Corneille.JPG",
+    "alt": "Une corneille noire",
+    "title": "Une corneille noire"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Passeriformes",
+    "Famille": "Corvidae",
+    "Genre": "Corvus",
+    "Espèce": "Corvus corone"
+  },
+  "page_content": {
+    "Ponte": "Avril-Juillet",
+    "Répartition": "Eurasie",
+    "Habitat": "Tous (sauf haute montagne)",
+    "Chant": "Krroa krroa krroa"
+  },
+  "description": "Peut être confondue avec le corbeau freux.<br/> Cependant la corneille a le bec entièrement noir, contrairement au corbeau freux.",
+  "sound": {
+    "src": "media/Chants oiseaux/Corneille.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Corneille.jpg",
+    "alt": "Aire de répartition de la corneille noire",
+    "title": "Aire de répartition de la corneille noire"
+  },
+  "sources": [
+    "https://auvergne-rhone-alpes.lpo.fr/Corneille-noire",
+    "https://www.oiseaux.net/oiseaux/corneille.noire.html",
+    "https://www.iucnredlist.org/species/22706016/118784397",
+    "https://fr.wikipedia.org/wiki/Corneille_noire"
+  ]
+}

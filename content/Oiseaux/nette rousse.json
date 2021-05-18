@@ -1,0 +1,42 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Nette rousse",
+  "name": "Netta rufina",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Netterousse.JPG",
+    "alt": "Une nette rousse",
+    "title": "Une nette rousse"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Anseriformes",
+    "Famille": "Anatidae",
+    "Genre": "Netta",
+    "Espèce": "Netta rufina"
+  },
+  "page_content": {
+    "Ponte": "Mai-Juin",
+    "Répartition": "Eurasie/Nord Afrique",
+    "Habitat": "Lacs, plans d’eau, étangs, avec végétation",
+    "Chant": "Kwi kwi/Vouvouvou"
+  },
+  "description": "La photographie ci-dessus montre un mâle adulte avec son plumage nuptial.<br/> Le mâle a une tête rousse avec un bec rouge, son cou ainsi que sa poitrine et son ventre sont noirs, il a les flancs blancs et le dos brun foncé.<br/> La femelle, elle, a le dessus de la tête brun et le corps grisâtre.",
+  "sound": {
+    "src": "media/Chants oiseaux/Netterousse.mp3"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Netterousse.jpg",
+    "alt": "Aire de répartition de la nette rousse",
+    "title": "Aire de répartition de la nette rousse"
+  },
+  "sources": [
+    "https://www.iucnredlist.org/species/22680348/86012189",
+    "https://fr.wikipedia.org/wiki/Nette_rousse",
+    "https://www.oiseaux.net/oiseaux/nette.rousse.html"
+  ]
+}

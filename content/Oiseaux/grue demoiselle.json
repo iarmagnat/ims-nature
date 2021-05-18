@@ -1,0 +1,43 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Grue demoiselle",
+  "name": "Anthropoides virgo",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Gruedemoiselle.JPG",
+    "alt": "Une grue demoiselle",
+    "title": "Une grue demoiselle"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Gruiformes",
+    "Famille": "Gruidae",
+    "Genre": "Anthropoides",
+    "Espèce": "Anthropoides virgo"
+  },
+  "page_content": {
+    "Ponte": "Avril-Juin",
+    "Répartition": "Eurasie/Nord Afrique",
+    "Habitat": "Steppes, champs, prairies",
+    "Chant": "Grou/Krooh"
+  },
+  "description": "Elle est aussi appelée demoiselle de Namibie.<br/> Il s'agit de la plus petite des grues.",
+  "sound": {
+    "src": "media/Chants oiseaux/Gruedemoiselle.mp3"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Gruedemoiselle.jpg",
+    "alt": "Aire de répartition de la grue demoiselle",
+    "title": "Aire de répartition de la grue demoiselle"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Grue_demoiselle",
+    "https://www.iucnredlist.org/species/22692081/131927771",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_oiseaux/demoiselle_de_numidi/",
+    "https://www.oiseaux.net/oiseaux/grue.demoiselle.html"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Sittelle torchepot",
+  "name": "Sitta europaea",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Sittelle.JPG",
+    "alt": "Une sittelle torchepot",
+    "title": "Une sittelle torchepot"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Passeriformes",
+    "Famille": "Sittidae",
+    "Genre": "Sitta",
+    "Espèce": "Sitta europaea"
+  },
+  "page_content": {
+    "Ponte": "Avril-Juillet",
+    "Répartition": "Eurasie",
+    "Habitat": "Forêts âgées, parcs, vergers, jardins",
+    "Chant": "Ziit/Tuit tuit tuit"
+  },
+  "description": "La sittelle torchepot est connue pour son comportement arboricole.<br/> Ce sont ses pattes robustes qui lui permettent une préhension efficace des écorces, même les plus lisses.<br/> Elle est capable de se déplacer dans tous les sens le long des troncs et des branches, y compris la tête en bas.",
+  "sound": {
+    "src": "media/Chants oiseaux/Sittelle.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Sittelle.jpg",
+    "alt": "Aire de répartition de la sittelle torchepot",
+    "title": "Aire de répartition de la sittelle torchepot"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Sittelle_torchepot",
+    "https://www.iucnredlist.org/species/103879804/132199203",
+    "https://www.oiseaux.net/oiseaux/sittelle.torchepot.html",
+    "https://auvergne-rhone-alpes.lpo.fr/Sittelle-torchepot",
+    "https://www.chant-oiseaux.fr/sittelle-torchepot/"
+  ]
+}

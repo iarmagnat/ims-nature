@@ -1,0 +1,44 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Orite à longue queue",
+  "name": "Aegithalos caudatus",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Oritelonguequeue.JPG",
+    "alt": "Une orite à longue queue",
+    "title": "Une orite à longue queue"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Passeriformes",
+    "Famille": "Aegithalidae",
+    "Genre": "Aegithalos",
+    "Espèce": "Aegithalos caudatus"
+  },
+  "page_content": {
+    "Ponte": "Avril-Juin",
+    "Répartition": "Eurasie",
+    "Habitat": "Forêts, parcs, haies, bosquets",
+    "Chant": "Ti ti ti/Tsrr tsrr tsrr"
+  },
+  "description": "Elle est appelée souvent, à tort, mésange à longue queue.<br/> Cette longue queue fait qu'on ne peut pas la confondre avec d'autres oiseaux.",
+  "sound": {
+    "src": "media/Chants oiseaux/Orite.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Oritelonguequeue.jpg",
+    "alt": "Aire de répartition de l'orite à longue queue",
+    "title": "Aire de répartition de l'orite à longue queue"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/M%C3%A9sange_%C3%A0_longue_queue",
+    "https://www.iucnredlist.org/species/103871923/87471081",
+    "https://www.oiseaux.net/oiseaux/orite.a.longue.queue.html",
+    "https://auvergne-rhone-alpes.lpo.fr/Mesange-a-longue-queue",
+    "https://www.chant-oiseaux.fr/mesange-a-longue-queue/"
+  ]
+}

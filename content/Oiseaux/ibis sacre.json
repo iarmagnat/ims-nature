@@ -1,0 +1,43 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Ibis sacré",
+  "name": "Threskiornis aethiopicus",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Ibissacré.JPG",
+    "alt": "Un ibis sacré",
+    "title": "Un ibis sacré"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Pelecaniformes",
+    "Famille": "Threskiornithidae",
+    "Genre": "Threskiornis",
+    "Espèce": "Threskiornis aethiopicus"
+  },
+  "page_content": {
+    "Ponte": "Saison des pluies",
+    "Répartition": "Afrique/Iraq/Europe (invasive)",
+    "Habitat": "Ouvert, zones humides, prairies, marais",
+    "Chant": ""
+  },
+  "description": "Chez l'adulte la tête et le cou sont noirs et déplumés.<br/> Chez le juvénile en revanche, ils sont emplumés. C'est entre 2 et 3 ans qu'il va commencer à les perdre.",
+  "sound": {
+    "src": "media/Chants oiseaux/Ibissacré.mp3"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Ibissacré.jpg",
+    "alt": "Aire de répartition de l'ibis sacré",
+    "title": "Aire de répartition de l'ibis sacré"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Ibis_sacr%C3%A9",
+    "https://www.iucnredlist.org/species/22697510/132068562",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_oiseaux/les_oiseaux/les_oiseaux/my_flexible4202/",
+    "https://www.oiseaux.net/oiseaux/ibis.sacre.html"
+  ]
+}
