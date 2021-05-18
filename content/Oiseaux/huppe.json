@@ -25,9 +25,9 @@
     "Habitat": "Jardins, bois, vergers, vignes",
     "Chant": "Hoop hoop hoop!"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "La huppe se reconnait en un simple coup d'oeil grâce à sa couleur rousse, à sa huppe et à son long bec.<br/> Bien que considérée comme 'préocupation mineure', ses effectifs diminuent fortement depuis 30 ans.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Huppe.ogg"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Huppe.jpg",
@@ -35,8 +35,11 @@
     "title": "Aire de répartition de la huppe fasciée"
   },
   "sources": [
-    "https://google.com",
-    "https://wikipedia.org"
+    "https://www.oiseaux.net/oiseaux/huppe.fasciee.html",
+    "https://www.chant-oiseaux.fr/huppe-fasciee/",
+    "https://fr.wikipedia.org/wiki/Huppe_fasci%C3%A9e",
+    "https://www.iucnredlist.org/species/22682655/181836360",
+    "https://auvergne-rhone-alpes.lpo.fr/Huppe-fasciee"
   ],
   "gallery": [
     {

@@ -25,9 +25,9 @@
     "Habitat": "Prairies, cultures, zones humides",
     "Chant": "Clac clac clac"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "La cigogne est l'oiseau emblématique de l'Alsace. <br/> On compte aujourd'hui presque 900 couples en Alsace alors qu'il n'en restait que 9 dans les années 70. Il s'agit là d'une belle victoire pour la conservation !",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Cigogne.mp3"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Cigogne.jpg",
@@ -35,7 +35,11 @@
     "title": "Aire de répartition de la cigogne blanche"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://fr.wikipedia.org/wiki/Cigogne_blanche",
+    "https://www.iucnredlist.org/species/22697691/86248677",
+    "https://www.lpo.fr/les-cigognes-blanches/le-retour-de-la-cigogne-blanche-en-france-et-en-charente-maritime",
+    "https://www.chant-oiseaux.fr/cigogne-blanche/",
+    "https://www.oiseaux.net/oiseaux/cigogne.blanche.html",
+    "https://fr.vikidia.org/wiki/Cigogne_blanche"
   ]
 }

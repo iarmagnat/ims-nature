@@ -25,9 +25,9 @@
     "Habitat": "Savanes, pâturages, forêts",
     "Chant": "Weero/Kiii"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "La photographie ci-dessus montre un mâle adulte.<br/> Bien qu'appelée 'perruche', la calopsitte élégante fait partie de la même famille que le cacatoès.<br/> La femelle ne possède pas de masque jaune sur la tête.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Calopsitte.ogg"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Calopsitte.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition de la calopsitte élégante"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://fr.wikipedia.org/wiki/Calopsitte_%C3%A9l%C3%A9gante",
+    "https://www.safari-peaugres.com/les-animaux/perruche-calopsitte",
+    "https://www.oiseaux.net/oiseaux/calopsitte.elegante.html",
+    "https://www.iucnredlist.org/species/22684828/132056250"
   ]
 }

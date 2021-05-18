@@ -25,9 +25,9 @@
     "Habitat": "Forêts tropicales, près fleuves",
     "Chant": "Raaw/Kraaa"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Il peut être confondu avec l'ara rouge, sauf que l'ara chloroptère a du vert sur les ailes là où l'ara rouge a du jaune.<br/> Il s'agit d'un des plus gros aras.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Arachloroptère.mp3"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Arachloro.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition du ara chloroptère"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://www.oiseaux.net/oiseaux/ara.chloroptere.html",
+    "https://fr.wikipedia.org/wiki/Ara_chloropt%C3%A8re",
+    "https://www.iucnredlist.org/species/22685566/93080287",
+    "https://espace-zoologique.com/oiseaux/ara-chloroptere.html"
   ]
 }

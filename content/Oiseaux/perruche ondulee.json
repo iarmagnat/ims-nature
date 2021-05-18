@@ -25,9 +25,9 @@
     "Habitat": "Ouvert, garrigues",
     "Chant": "Chirrup"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "La photographie ci-dessus montre un mâle adulte.<br/> Il s'agit du plus petit perroquet du monde.<br/> Pour différencier les sexes, on peut regarder la cire sur le nez : rose ou marron clair pour la femelle et bleue chez le mâle.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Perrucheondulée.mp3"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Perrucheondulée.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition de la perruche ondulée"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://www.safari-peaugres.com/les-animaux/perruche-ondulee",
+    "https://www.oiseaux.net/oiseaux/perruche.ondulee.html",
+    "https://fr.wikipedia.org/wiki/Perruche_ondul%C3%A9e",
+    "https://www.iucnredlist.org/species/22685223/132056957"
   ]
 }

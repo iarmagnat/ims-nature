@@ -25,9 +25,9 @@
     "Habitat": "Côte, îles, milieu marin",
     "Chant": "Hin huuun/Huun"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Le manchot du Cap ne vole pas, contrairement aux pingouins qui eux peuvent. <br/> Ils sont seulement 80 000 à vivre dans leur milieu naturel.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Manchot.mp3"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Manchot.jpg",
@@ -35,7 +35,11 @@
     "title": "Aire de répartition du manchot du Cap"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://fr.wikipedia.org/wiki/Manchot_du_Cap",
+    "https://www.oiseaux.net/oiseaux/manchot.du.cap.html",
+    "https://www.safari-peaugres.com/les-animaux/manchot-du-cap",
+    "https://www.iucnredlist.org/species/22697810/157423361",
+    "https://en.wikipedia.org/wiki/African_penguin",
+    "https://www.nausicaa.fr/fiches-animaux/le-manchot-du-cap/#:~:text=100%20kmLe%20manchot%20peut,un%20%C3%A2ne%2C%20surtout%20la%20nuit."
   ]
 }

@@ -25,9 +25,9 @@
     "Habitat": "Montagnes, régions tempérées, semi-arides, forêts tropicales, près eau",
     "Chant": "Raaaa"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Son nom vient de son plumage vert qui rappelle les uniformes militaires.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Aramilitaire.mp3"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Aramilitaire.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition du ara militaire"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://www.safari-peaugres.com/les-animaux/ara-militaire",
+    "https://fr.wikipedia.org/wiki/Ara_militaire",
+    "https://www.iucnredlist.org/species/22685548/179407584",
+    "https://www.oiseaux.net/oiseaux/ara.militaire.html"
   ]
 }

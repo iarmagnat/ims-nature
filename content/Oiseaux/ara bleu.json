@@ -25,9 +25,9 @@
     "Habitat": "Forêts près point d’eau",
     "Chant": "Raaaa/Scaark"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Chez cet oiseau, les couples restent formés même pendant un vol en groupe.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Arableu.mp3"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Arableu.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition du ara bleu"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://www.safari-peaugres.com/les-animaux/ara-bleu",
+    "https://fr.wikipedia.org/wiki/Ara_bleu",
+    "https://www.oiseaux.net/oiseaux/ara.bleu.html",
+    "https://www.iucnredlist.org/search?query=Ara%20ararauna&searchType=species"
   ]
 }

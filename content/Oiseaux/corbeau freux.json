@@ -25,9 +25,9 @@
     "Habitat": "Champs, prairies, espaces verts, parcs",
     "Chant": "Kaaaah"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "On peut le confondre avec la corneille noire.<br/> Cependant, le corbeau freux n'a pas de plumes à la base du bec, ce qui donne l'impression qu'il a un bec blanc.<br/> Le corbeau freux possède également un bec plus droit et pointu, le sommet de la tête est également plus pointu et son plumage a des reflets violets rougeâtres.<br/> Le juvénile n'a pas encore le bec dégarni.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Corbeau.mp3"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Corbeau.jpg",
@@ -35,7 +35,10 @@
     "title": "Aire de répartition du corbeau freux"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://www.oiseaux.net/oiseaux/corbeau.freux.html",
+    "https://fr.wikipedia.org/wiki/Corbeau_freux",
+    "https://www.oisillon.net/fr/oiseau/22-corbeau-freux",
+    "https://www.iucnredlist.org/species/22705983/118782308",
+    "https://www.lpo-idf.fr/?pg=sp&sp=136"
   ]
 }
