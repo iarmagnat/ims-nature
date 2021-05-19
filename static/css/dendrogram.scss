@@ -19,6 +19,20 @@
     width: fit-content;
     position: relative;
     padding: 5px 0;
+
+    &--label {
+      position: -webkit-sticky;
+      position: sticky;
+      background-color: white;
+      top: 0;
+      z-index: 1;
+      flex-direction: row;
+      width: 100%;
+
+      @media (max-width: $tablet - 1) {
+        display: none;
+      }
+    }
   }
 
   &__item {
@@ -76,6 +90,12 @@
   &__item-name {
     width: 160px;
     text-align: center;
+
+    &--label {
+      font-family: "Caveat", cursive;
+      font-size: 22px;
+      background-color: white;
+    }
   }
 
   &__vertical-line {

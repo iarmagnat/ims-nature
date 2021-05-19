@@ -528,6 +528,20 @@
   position: relative;
   padding: 5px 0;
 }
+.dendrogram__taxon--label {
+  position: -webkit-sticky;
+  position: sticky;
+  background-color: white;
+  top: 0;
+  z-index: 1;
+  flex-direction: row;
+  width: 100%;
+}
+@media (max-width: 1199px) {
+  .dendrogram__taxon--label {
+    display: none;
+  }
+}
 .dendrogram__item {
   display: flex;
   position: relative;
@@ -575,6 +589,11 @@
 .dendrogram__item-name {
   width: 160px;
   text-align: center;
+}
+.dendrogram__item-name--label {
+  font-family: "Caveat", cursive;
+  font-size: 22px;
+  background-color: white;
 }
 .dendrogram__vertical-line {
   position: absolute;

@@ -38,6 +38,13 @@
 {% block main %}
   <div class="dendrogram">
     <h1 class="dendrogram__title">Dendrogramme</h1>
+    <div class="dendrogram__taxon dendrogram__taxon--label">
+      {% for taxon_name in taxonomy_order %}
+        <div class="dendrogram__item-name dendrogram__item-name--label">
+          {{ taxon_name }}
+        </div>
+      {% endfor %}
+    </div>
     <div class="dendrogram__root">
       <ul class="dendrogram__taxon">
         {{ render_taxon(data) }}
