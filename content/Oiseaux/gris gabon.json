@@ -25,9 +25,9 @@
     "Habitat": "Forêts, savanes, clairières",
     "Chant": "Scraark/Wee-oo"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Il est également appelé 'perroquet jaco'.<br/> C'est le meilleur parleur parmi les perroquets.<br/> Longtemps commercialisé comme animal de compagnie, son commerce international est maintenant interdit.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Grisgabon.mp3"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Grisgabon.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition du gris du Gabon"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://www.iucnredlist.org/species/22724813/129879439",
+    "https://espace-zoologique.com/oiseaux/perroquet-gris-gabon.html",
+    "https://fr.wikipedia.org/wiki/Perroquet_jaco",
+    "https://www.oiseaux.net/oiseaux/perroquet.jaco.html"
   ]
 }

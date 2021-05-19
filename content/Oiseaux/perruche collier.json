@@ -25,9 +25,9 @@
     "Habitat": "Varié, forêts, régions semi-désertiques, agglomérations",
     "Chant": "Kiiaa/Kyik kyik kyik"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "La photographie ci-dessus montre un mâle adulte.<br/> Seuls les mâles présentent un collier noir ainsi qu'une bande rouge sur la nuque.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Perruchecollier.ogg"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Perruchecollier.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition de la perruche à collier"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://espace-zoologique.com/oiseaux/perruche-collier.html",
+    "https://fr.wikipedia.org/wiki/Perruche_%C3%A0_collier",
+    "https://www.oiseaux.net/oiseaux/perruche.a.collier.html",
+    "https://www.iucnredlist.org/species/22685441/132057695"
   ]
 }

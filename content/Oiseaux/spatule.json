@@ -25,9 +25,9 @@
     "Habitat": "Aquatique peu profond",
     "Chant": "Grognements"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Lors de la période de reproduction, un collier jaune-orange apparaît à la base du bec et une teine orange vive apparaît sur le menton et la gorge.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Spatule.mp3"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Spatule.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition de la spatule blanche"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://fr.wikipedia.org/wiki/Spatule_blanche",
+    "https://espace-zoologique.com/oiseaux/spatule-blanche.html",
+    "https://www.oiseaux.net/oiseaux/spatule.blanche.html",
+    "https://www.iucnredlist.org/species/22697555/155460986"
   ]
 }

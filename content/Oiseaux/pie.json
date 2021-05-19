@@ -25,9 +25,9 @@
     "Habitat": "Périurbain, zones agricoles, bosquets, prairies, parcs, jardins, villes",
     "Chant": "Tché tché tché/Tcha-ka"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Son apparence est si caractéristique qu'il est impossible de la confondre avec un autre oiseau.<br/> La pie bavarde est souvent considérée comme un nuisible mais il n'en est rien, dans nos jardins elle permet même de réguler le nombre d'insectes nuisibles.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Pie.ogg"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Pie.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition de la pie bavarde"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://refuges.lpo.fr/connaitre/oiseaux/pie-bavarde-pica-pica",
+    "https://www.iucnredlist.org/species/103727048/112300389",
+    "https://www.oiseaux.net/oiseaux/pie.bavarde.html",
+    "https://fr.wikipedia.org/wiki/Pie_bavarde"
   ]
 }

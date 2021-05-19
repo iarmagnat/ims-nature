@@ -25,9 +25,9 @@
     "Habitat": "Forêts claires, plaines",
     "Chant": "Sons ronflants"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Il s'agit du 2e plus grand oiseau du monde actuel, juste derrière les autruches.<br/> Il peut courir jusqu'à 55 km/h mais n'est pas capable de voler.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Emeu.mp3"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Emeu.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition de l'émeu d'Australie"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://espace-zoologique.com/oiseaux/emeu.html",
+    "https://fr.wikipedia.org/wiki/%C3%89meu_d%27Australie",
+    "https://www.iucnredlist.org/species/22678117/131902466",
+    "https://www.oiseaux.net/oiseaux/emeu.d.australie.html"
   ]
 }

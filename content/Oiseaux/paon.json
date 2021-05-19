@@ -25,9 +25,9 @@
     "Habitat": "Forêts ouvertes, près eau",
     "Chant": "Leeeeoon"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "La photographie ci-dessus montre un mâle adulte. <br/> Le dimorphisme sexuel est particulièrement marqué chez cet oiseau, où seul le mâle arbore une queue formant une traîne.<br/> Certains mâles peuvent atteindre 2,25m de long, queue comprise.<br/> Il est maintenant élevé un peu partout dans le monde comme animal domestique.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Paon.ogg"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Paon.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition du paon bleu"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://www.safari-peaugres.com/les-animaux/paon-bleu",
+    "https://fr.wikipedia.org/wiki/Paon_bleu",
+    "https://www.oiseaux.net/oiseaux/paon.bleu.html",
+    "https://www.iucnredlist.org/species/22679435/92814454"
   ]
 }

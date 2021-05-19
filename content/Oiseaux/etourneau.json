@@ -25,9 +25,9 @@
     "Habitat": "Souvent ouvert (rural ou urbain)",
     "Chant": "Tchrriiii"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "C'est un oiseau très social, les regroupements peuvent aller jusqu'à des millions d'individus !<br/> Il est également capable d'imiter les vocalisations d'autres individus, même d'une espèce différente mais encore plus incroyable, des bruits non biologiques présents dans l'environnement.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Etourneau.ogg"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Etourneau.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition de l'étourneau sansonnet"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://refuges.lpo.fr/connaitre/oiseaux/etourneau-sansonnet-sturnus-vulgaris",
+    "https://www.oiseaux.net/oiseaux/etourneau.sansonnet.html",
+    "https://fr.wikipedia.org/wiki/%C3%89tourneau_sansonnet",
+    "https://www.iucnredlist.org/species/22710886/137493608"
   ]
 }

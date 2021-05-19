@@ -25,9 +25,9 @@
     "Habitat": "Marécages, mangroves, lagunes",
     "Chant": "Onk onk"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Sa couleur est due aux pigments présents dans les crustacés qu'il mange.<br/> Les colonies d'ibis rouges peuvent atteindre plusieurs milliers d'individus.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Ibisrouge.mp3"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Ibisrouge.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition de l'ibis rouge"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://www.safari-peaugres.com/les-animaux/ibis-rouge",
+    "https://fr.wikipedia.org/wiki/Ibis_rouge",
+    "https://www.oiseaux.net/oiseaux/ibis.rouge.html",
+    "https://www.iucnredlist.org/species/22697415/93612751"
   ]
 }

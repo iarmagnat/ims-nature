@@ -25,9 +25,9 @@
     "Habitat": "Forêts montagneuses",
     "Chant": "Wou wou"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Ces oiseaux sont arboricoles et ne descendent à terre que pour se baigner ou boire.<br/> Ils ne volent pas très bien.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Touraco.ogg"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Touraco.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition du touraco à joues blanches"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://fr.wikipedia.org/wiki/Touraco_%C3%A0_joues_blanches",
+    "https://espace-zoologique.com/oiseaux/touraco-joues-blanches.html",
+    "https://www.iucnredlist.org/species/22688355/95213742",
+    "https://www.oiseaux.net/oiseaux/touraco.a.joues.blanches.html"
   ]
 }

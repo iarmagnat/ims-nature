@@ -25,9 +25,9 @@
     "Habitat": "Urbain, campagnes",
     "Chant": "Tchip tchip"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "La photographie ci-dessus montre un mâle adulte avec son plumage nuptial. <br/> Les femelles de cette espèce sont pâles, de couleur gris-beige alors que le mâle a des couleurs plus contrastées surtout au niveau de la tête.<br/> En période de réproduction, le mâle possède une couronne grise bordée de brun.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Moineau.ogg"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Moineau.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition du moineau domestique"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://www.oiseaux.net/oiseaux/moineau.domestique.html",
+    "https://refuges.lpo.fr/connaitre/oiseaux/moineau-domestique-passer-domesticus",
+    "https://fr.wikipedia.org/wiki/Moineau_domestique",
+    "https://www.iucnredlist.org/species/103818789/155522130"
   ]
 }
