@@ -51,7 +51,7 @@ img {
 
 .tablet-down {
   display: none;
-  @media (max-width: $tablet) {
+  @media (max-width: $tablet - 1) {
     display: flex;
   }
 }

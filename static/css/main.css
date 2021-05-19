@@ -7,15 +7,17 @@
 .species__section:not(:first-child) {
   padding-top: 10px;
 }
-.species__section--wrap {
-  flex-wrap: wrap;
+@media (max-width: 1199px) {
+  .species__section--wrap {
+    flex-wrap: wrap;
+  }
 }
 .species__image {
   width: 70%;
 }
-@media (max-width: 1200px) {
+@media (max-width: 1199px) {
   .species__image {
-    display: none;
+    width: 0;
   }
 }
 @media (min-width: 1200px) {
@@ -30,7 +32,7 @@
   flex-direction: column;
   align-items: center;
 }
-@media (max-width: 1200px) {
+@media (max-width: 1199px) {
   .species__info {
     width: 100%;
     padding: 0;
@@ -85,17 +87,23 @@
 .species__description {
   margin-left: 10px;
 }
-@media (max-width: 1200px) {
+@media (max-width: 1199px) {
   .species__description {
     margin: 10px 0 0;
   }
+}
+.species__sources {
+  padding: 1px 0 1px 10px;
+}
+.species__sources summary {
+  cursor: pointer;
 }
 
 .species-gallery__title {
   font-family: "Caveat", cursive;
   padding-left: 50px;
 }
-@media (max-width: 1200px) {
+@media (max-width: 1199px) {
   .species-gallery__title {
     text-align: center;
     padding: 0;
@@ -167,7 +175,7 @@
   display: flex;
   justify-content: space-between;
 }
-@media (max-width: 1200px) {
+@media (max-width: 1199px) {
   .nav__center {
     position: fixed;
     width: 300px;
@@ -203,7 +211,7 @@
   transition: 0.2s linear;
   transition-property: background-color;
 }
-@media (max-width: 1200px) {
+@media (max-width: 1199px) {
   .nav__link {
     flex-basis: 40px;
   }
@@ -218,7 +226,7 @@
   font-size: 25px;
   transition-property: background-color, color;
 }
-@media (max-width: 1200px) {
+@media (max-width: 1199px) {
   .nav__link--logo {
     flex-basis: 80px;
   }
@@ -231,7 +239,7 @@
 .nav__filler {
   width: 0;
 }
-@media (max-width: 1200px) {
+@media (max-width: 1199px) {
   .nav__filler {
     width: unset;
     display: flex;
@@ -261,7 +269,7 @@
   z-index: 1;
   cursor: pointer;
 }
-@media (max-width: 1200px) {
+@media (max-width: 1199px) {
   .nav__burger {
     display: flex;
   }
@@ -330,7 +338,7 @@
   right: 4.5%;
   display: flex;
 }
-@media (max-width: 1200px) {
+@media (max-width: 1199px) {
   .iucn__overlay {
     display: none;
   }
@@ -624,7 +632,7 @@ img[data-clickable-image] {
 .tablet-down {
   display: none;
 }
-@media (max-width: 1200px) {
+@media (max-width: 1199px) {
   .tablet-down {
     display: flex;
   }

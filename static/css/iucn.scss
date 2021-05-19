@@ -8,7 +8,7 @@
     left: 3%;
     right: 4.5%;
     display: flex;
-    @media (max-width: $tablet) {
+    @media (max-width: $tablet - 1) {
       display: none;
     }
   }

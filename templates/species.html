@@ -107,11 +107,15 @@
     </div>
   {% endif %}
   {% if data.sources | length %}
-    <div>
-      Sources :
-      {% for source in data.sources %}
-        <a href="{{ source }}" class="species__source-link" target="_blank">{{ source }}</a>
-      {% endfor %}
-    </div>
+    <details class="species__sources">
+      <summary>Sources</summary>
+      <ul>
+        {% for source in data.sources %}
+          <li>
+            <a href="{{ source }}" class="species__source-link" target="_blank">{{ source }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </details>
   {% endif %}
 {% endblock %}

@@ -23,7 +23,7 @@
     display: flex;
     justify-content: space-between;
 
-    @media (max-width: $tablet) {
+    @media (max-width: $tablet - 1) {
       position: fixed;
       width: $mobile-menu-width;
       height: 100vh;
@@ -60,7 +60,7 @@
     transition: .2s linear;
     transition-property: background-color;
 
-    @media (max-width: $tablet) {
+    @media (max-width: $tablet - 1) {
       flex-basis: 40px;
     }
 
@@ -74,7 +74,7 @@
       font-weight: bold;
       font-size: 25px;
       transition-property: background-color, color;
-      @media (max-width: $tablet) {
+      @media (max-width: $tablet - 1) {
         flex-basis: $nav-height;
       }
     }
@@ -89,7 +89,7 @@
   &__filler {
     width: 0;
 
-    @media (max-width: $tablet) {
+    @media (max-width: $tablet - 1) {
       width: unset;
       display: flex;
       justify-content: flex-end;
@@ -121,7 +121,7 @@
     z-index: 1;
     cursor: pointer;
 
-    @media (max-width: $tablet) {
+    @media (max-width: $tablet - 1) {
       display: flex;
     }
   }
