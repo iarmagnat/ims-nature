@@ -25,7 +25,7 @@
     "Habitat": "Jardins, bois, vergers, vignes",
     "Chant": "Hoop hoop hoop!"
   },
-  "description": "La huppe se reconnait en un simple coup d'oeil grâce à sa couleur rousse, à sa huppe et à son long bec.<br/> Bien que considérée comme 'préocupation mineure', ses effectifs diminuent fortement depuis 30 ans.",
+  "description": "La huppe se reconnait en un simple coup d'oeil grâce à sa couleur rousse, à sa huppe et à son long bec.<br/> Bien que considérée comme \"préocupation mineure\", ses effectifs diminuent fortement depuis 30 ans.",
   "sound": {
     "src": "media/Chants oiseaux/Huppe.ogg"
   },
