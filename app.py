@@ -120,6 +120,10 @@ def species(page_object):
     return func
 
 
+@app.errorhandler(404)
+def page_not_found(e):
+    return render_template('404.html'), 404
+
 page_types = {
     "species": SpeciesPage,
     "species_list": CategoryPage,
