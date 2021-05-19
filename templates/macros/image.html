@@ -1,7 +1,7 @@
 {% macro render(src, alt, title, class, clickable, small=false) %}
   {% set small_src = src | use_sm %}
   {% if clickable %}
-    <a href="#{{ src | slugify }}"
+    <a href="#{{ src | slugify }}" id="{{ src | slugify }}-source"
        {% if class %}class="{{ class }}-link"{% endif %}>
   {% endif %}
 <img alt="{{ alt }}"
@@ -14,7 +14,7 @@
      {% if class %}class="{{ class }}"{% endif %}>
 {% if clickable %}
   </a>
-  <a class="image-popup" id="{{ src | slugify }}" href="#">
+  <a class="image-popup" id="{{ src | slugify }}" href="#{{ src | slugify }}-source">
     <div class="image-popup__container" id="image-popup-container">
       <img src="{{ url_for('static', filename=src) }}" alt="{{ alt }}"
            class="image-popup__image"
