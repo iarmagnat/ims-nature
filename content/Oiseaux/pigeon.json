@@ -25,9 +25,9 @@
     "Habitat": "Urbain, montages, côtes rocheuses",
     "Chant": "Rouu rouu"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Il s'agit de l'oiseau emblématique des villes.<br/> La femelle est presque identique au mâle même si l'iridescence de son cou est moins intense que celle du mâle.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Pigeon.mp3"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Pigeon.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition du pigeon biset"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://refuges.lpo.fr/connaitre/oiseaux/pigeon-de-ville-columba-livia-domestica",
+    "https://fr.wikipedia.org/wiki/Pigeon_biset",
+    "https://www.oiseaux.net/oiseaux/pigeon.biset.html",
+    "https://www.iucnredlist.org/species/22690066/155493121"
   ]
 }

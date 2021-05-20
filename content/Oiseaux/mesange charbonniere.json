@@ -25,9 +25,9 @@
     "Habitat": "Un peu partout",
     "Chant": "Tsi tu/Tsi tsi tu"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Il s'agit de la plus grosse mésange d'Europe.<br/> Le dimorphisme sexuel est très discret, cependant le mâle a un trait noir vertical sur la poitrine plus large que la femelle.<br/> Elle peut être confondue avec la <a href=\"/oiseaux/mesange-bleue\">m&eacute;sange bleue</a> mais cette dernière est plus petite et n'a pas la tête noire ni le trait sur la poitrine.<br/> On peut également hésiter avec la mésange noire mais celle-ci n'a pas les tons jaunes et verts de la mésange charbonnière.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Mésangecharbo.ogg"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Mesangecharbo.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition de la mésange charbonnière"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://refuges.lpo.fr/connaitre/oiseaux/mesange-charbonniere-parus-major",
+    "https://fr.wikipedia.org/wiki/M%C3%A9sange_charbonni%C3%A8re",
+    "https://www.oiseaux.net/oiseaux/mesange.charbonniere.html",
+    "https://www.iucnredlist.org/species/22735990/87431138"
   ]
 }

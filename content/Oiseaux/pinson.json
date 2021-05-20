@@ -25,9 +25,9 @@
     "Habitat": "Bois conifères, forêts claires, vergers, bosquets, parcs, jardins, urbain",
     "Chant": "Trrii/Fink fink/Tiup tiup"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "La photographie ci-dessus montre un mâle adulte.<br/> Le mâle possède le dos marron, la tête grise un peu bleutée (sauf le front qui est noir). La femelle est plus discrète avec une teinte brun terne.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Pinson.ogg"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Pinson.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition du pinson des arbres"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://refuges.lpo.fr/connaitre/oiseaux/pinson-des-arbres-fringilla-coelebs",
+    "https://www.oiseaux.net/oiseaux/pinson.des.arbres.html",
+    "https://fr.wikipedia.org/wiki/Pinson_des_arbres",
+    "https://www.iucnredlist.org/species/22720030/155432370"
   ]
 }

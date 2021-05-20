@@ -25,9 +25,9 @@
     "Habitat": "Zones boisées, jardins, haies, parcs, zone urbaine, cultures",
     "Chant": "Pok/Tsiih/Tchaktchak akak"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "La photographie ci-dessus montre un mâle adulte.<br/> Le mâle est entièrement noir avec un bec jaune, la femelle quant à elle a un plumage brun.<br/> Le chant du merle noir est considéré comme l'un des plus beaux chants d'oiseaux en Europe.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Merle.ogg"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Merle.jpg",
@@ -35,7 +35,17 @@
     "title": "Aire de répartition du merle noir"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://refuges.lpo.fr/connaitre/oiseaux/merle-noir-turdus-merula",
+    "https://www.iucnredlist.org/species/103888106/87871094",
+    "https://www.oiseaux.net/oiseaux/merle.noir.html",
+    "https://fr.wikipedia.org/wiki/Merle_noir"
+  ],
+  "gallery": [
+    {
+      "src": "media/Photos site/Oiseaux/Merlefemelle.JPG",
+      "alt": "Un merle noir femelle",
+      "title": "Un merle noir femelle",
+      "description": "Un merle noir femelle après la chasse"
+    }
   ]
 }

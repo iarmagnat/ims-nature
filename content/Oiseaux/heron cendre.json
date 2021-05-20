@@ -25,9 +25,9 @@
     "Habitat": "Varié mais humide",
     "Chant": "Fraaank"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Il s'agit du plus grand des Ardéidés d'Europe.<br/> On le reconnait assez facilement grâce à sa silhouette caractéristique.<br/> Le juvénile est plus terne et ne possède pas encore de huppe.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Héroncendré.ogg"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Héron.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition du héron cendré"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://auvergne-rhone-alpes.lpo.fr/Heron-cendre",
+    "https://www.iucnredlist.org/species/22696993/154525233",
+    "https://www.oiseaux.net/oiseaux/heron.cendre.html",
+    "https://fr.wikipedia.org/wiki/H%C3%A9ron_cendr%C3%A9"
   ]
 }

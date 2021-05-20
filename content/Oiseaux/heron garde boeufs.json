@@ -23,11 +23,11 @@
     "Ponte": "Variable selon région",
     "Répartition": "Amérique/Afrique/Sud Europe",
     "Habitat": "Humide, steppes, prairies",
-    "Chant": ""
+    "Chant": "Oiseau assez peu vocal"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Il se distingue des autres hérons de par sa silhouette massive et son bec court.<br/> On le voit souvent sur le dos des bovins afin de manger les insectes qui les parasitent.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/HéronGB.mp3"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Hérongb.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition du héron garde-bœufs"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://auvergne-rhone-alpes.lpo.fr/Heron-gardeboeufs",
+    "https://www.iucnredlist.org/species/22697109/155477521",
+    "https://www.oiseaux.net/oiseaux/heron.garde-boeufs.html",
+    "https://fr.wikipedia.org/wiki/H%C3%A9ron_garde-b%C5%93ufs"
   ]
 }

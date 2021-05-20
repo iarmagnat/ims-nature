@@ -25,9 +25,9 @@
     "Habitat": "Eau saumâtre/douce peu profonde",
     "Chant": "Gui gui"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Il s'agit de l'espèce la plus répandue de flamant.<br/> Les flamants roses sont grégaires et vivent en groupes pouvant comporter plusieurs centaines voire plusieurs milliers d'individus.<br/> Sa couleur est due aux pigments présents dans les algues et crustacés qu'il mange",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Flamant.ogg"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Flamant.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition du flamant rose"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://fr.wikipedia.org/wiki/Flamant_rose",
+    "https://www.oiseaux.net/oiseaux/flamant.rose.html",
+    "https://www.iucnredlist.org/species/22697360/155527405",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_oiseaux/le_flamant_rose/"
   ]
 }

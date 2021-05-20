@@ -23,11 +23,11 @@
     "Ponte": "Avril-Juin",
     "Répartition": "Eurasie/Afrique/Océanie/Nord Amérique",
     "Habitat": "Près plans eau douce/saumâtre/salée, courant faible ou nul",
-    "Chant": ""
+    "Chant": "Oiseau très peu vocal"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Il est également appelé \"cormoran commun\".<br/> En période de reproduction, une tâche blanche apparaît au dessus de chaque cuisse.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Cormoran.mp3"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Cormoran.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition du grand cormoran"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://www.oiseaux.net/oiseaux/grand.cormoran.html",
+    "https://fr.wikipedia.org/wiki/Grand_Cormoran",
+    "https://auvergne-rhone-alpes.lpo.fr/Grand-Cormoran?debut_articles_rubrique=10",
+    "https://www.iucnredlist.org/species/22696792/155523636"
   ]
 }

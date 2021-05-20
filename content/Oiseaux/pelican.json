@@ -23,11 +23,11 @@
     "Ponte": "Avril-Juin (Europe)",
     "Répartition": "Afrique/Asie centrale/Nord Inde/Sud-Est Europe",
     "Habitat": "Marais, lacs peu profonds",
-    "Chant": ""
+    "Chant": "Oiseau très peu vocal"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Pour pêcher, il se sert de la poche extensible sous son bec comme d'une épuisette. Cette poche peut contenir 13 litres et jusqu'à 4 kg de poissons !<br/> Il peut ressembler au pélican frisé mais contrairement à ce dernier, le pélican blanc est entièrement blanc (sauf le bas des ailes) et ses plumes sont plus lisses.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Pélican.mp3"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Pélican.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition du pélican blanc"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://www.iucnredlist.org/species/22697590/132595920",
+    "https://www.oiseaux.net/oiseaux/pelican.blanc.html",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_oiseaux/le_pelican_blanc/",
+    "https://fr.wikipedia.org/wiki/P%C3%A9lican_blanc"
   ]
 }

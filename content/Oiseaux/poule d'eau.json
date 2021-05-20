@@ -25,9 +25,9 @@
     "Habitat": "Marécages, lacs, parcs",
     "Chant": "Cris brefs"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Elle est appelée le plus souvent simplement \"poule d'eau\".<br/> Elle se reconnait facilement grâce à son bec rouge à l'extrémité jaune.<br/> On peut la confondre avec la foulque macroule, mais cette dernière a le bec blanc et non rouge.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Pouleeau.ogg"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Pouleeau.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition de la gallinule poule d’eau"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://www.oiseaux.net/oiseaux/gallinule.poule-d.eau.html",
+    "https://fr.wikipedia.org/wiki/Gallinule_poule_d%27eau",
+    "https://auvergne-rhone-alpes.lpo.fr/Gallinule-Poule-d-eau",
+    "https://www.iucnredlist.org/species/62120190/155506651"
   ]
 }

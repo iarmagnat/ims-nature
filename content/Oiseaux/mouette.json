@@ -25,9 +25,9 @@
     "Habitat": "Lacs, étangs, urbain",
     "Chant": "Kraaaa"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Lors de la période de reproduction, la tête de la mouette rieuse devient noire-brune.<br/> On la condond souvent avec le goéland, mais ce dernier est plus gros et plusieurs espèces de goélands ont une tâche rouge de chaque côté du bec, ce que la mouette rieuse n'a pas.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Mouette.ogg"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Mouette.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition de la mouette rieuse"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://www.oiseaux.net/oiseaux/mouette.rieuse.html",
+    "https://auvergne-rhone-alpes.lpo.fr/Mouette-rieuse-456",
+    "https://fr.wikipedia.org/wiki/Mouette_rieuse",
+    "https://www.iucnredlist.org/species/22694420/132548687"
   ]
 }

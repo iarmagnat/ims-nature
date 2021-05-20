@@ -1,12 +1,12 @@
 {
   "metadata": {},
   "type": "species",
-  "vernacular": "Oie cendrée domestique",
+  "vernacular": "Oie cendrée",
   "name": "Anser anser",
   "image": {
     "src": "media/Photos site/Oiseaux/Oie.JPG",
-    "alt": "Une oie cendrée domestique",
-    "title": "Une oie cendrée domestique"
+    "alt": "Une oie cendrée",
+    "title": "Une oie cendrée"
   },
   "iucn": "lc",
   "taxonomy": {
@@ -25,17 +25,19 @@
     "Habitat": "Zones humides, marais, lacs",
     "Chant": "Ga ga ga ga"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Elle est un excellent nageur mais elle passe également beaucoup de temps à terre pour brouter la végétation.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Oie.ogg"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Oie.jpg",
-    "alt": "Aire de répartition de l'oie cendrée domestique",
-    "title": "Aire de répartition de l'oie cendrée domestique"
+    "alt": "Aire de répartition de l'oie cendrée",
+    "title": "Aire de répartition de l'oie cendrée"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://auvergne-rhone-alpes.lpo.fr/Oie-cendree-461",
+    "https://www.oiseaux.net/oiseaux/oie.cendree.html",
+    "https://fr.wikipedia.org/wiki/Oie_cendr%C3%A9e",
+    "https://www.iucnredlist.org/species/22679889/131907747"
   ]
 }

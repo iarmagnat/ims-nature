@@ -25,9 +25,9 @@
     "Habitat": "Ouvert près des habitations",
     "Chant": "Tsi uit/Ti pit"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Elle est facilement reconnaissable grâce à sa longue queue caractéristique.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Bergeronnette.mp3"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Bergeronnette.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition de la bergeronnette grise"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://www.iucnredlist.org/species/22718348/137417893",
+    "https://www.oiseaux.net/oiseaux/bergeronnette.grise.html",
+    "https://fr.wikipedia.org/wiki/Bergeronnette_grise",
+    "https://auvergne-rhone-alpes.lpo.fr/Bergeronnette-grise"
   ]
 }

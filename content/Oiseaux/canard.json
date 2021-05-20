@@ -25,9 +25,9 @@
     "Habitat": "Zones humides, eau douce",
     "Chant": "Coin coin"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "La photographie ci-dessus montre un mâle adulte avec son plumage nuptial.<br/> Il s'agit du canard le plus connu et le plus facilement reconnaissable.<br/> En période de reproduction, mâle est facilement identifiable grâce à sa tête verte (qui lui vaut son nom vernaculaire). La femelle quant à elle a le bec brun et le plumage brun-beige tacheté.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Canard.ogg"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Canard.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition du canard colvert"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://auvergne-rhone-alpes.lpo.fr/Canard-colvert-332",
+    "https://fr.wikipedia.org/wiki/Canard_colvert",
+    "https://www.oiseaux.net/oiseaux/canard.colvert.html",
+    "https://www.iucnredlist.org/species/22680186/155457360"
   ]
 }

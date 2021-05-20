@@ -25,9 +25,9 @@
     "Habitat": "Zones humides, eau peu profonde",
     "Chant": "Aah/Kark"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "On la reconnait assez facilement grâce à sa silhouette élancée, son bec noir allongé et son plumage blanc.<br/> En période de reproduction de longues plumes ornementales apparaissent à l'arrière de la tête et sur le dos.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Aigrette.mp3"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Aigrette.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition de l'aigrette garzette"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://fr.wikipedia.org/wiki/Aigrette_garzette",
+    "https://www.iucnredlist.org/species/62774969/86473701",
+    "https://auvergne-rhone-alpes.lpo.fr/Aigrette-garzette",
+    "https://www.oiseaux.net/oiseaux/aigrette.garzette.html"
   ]
 }

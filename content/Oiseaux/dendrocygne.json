@@ -25,9 +25,9 @@
     "Habitat": "Points d’eau",
     "Chant": "Swee swee sweeoo"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Ses couleurs très contrastées en font un oiseau facile à reconnaître.<br/> Le juvénile n'a pas encore la tête blanche mais plutôt gris blanchâtre.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Dendrocygne.ogg"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Dendrocygne.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition du dendrocygne veuf"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://www.iucnredlist.org/species/22679763/92829021",
+    "https://fr.wikipedia.org/wiki/Dendrocygne_veuf",
+    "https://www.oiseaux.net/oiseaux/dendrocygne.veuf.html",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_oiseaux/les_dendrocygnes_veu/"
   ]
 }

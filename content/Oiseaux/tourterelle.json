@@ -25,9 +25,9 @@
     "Habitat": "Parcs, jardins, urbain, exploitations agricoles",
     "Chant": "Hou hooouu hou"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "On la reconnait notamment grâce à son demi-collier noir (absent chez les juvéniles).<br/> Les deux sexes sont quasi-identiques même si la couleur violacée de la poitrine est plus prononcée chez le mâle. On peut également les différencier grâce à leur comportement en période de reproduction.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Tourterelle.ogg"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Tourterelle.jpg",
@@ -35,7 +35,9 @@
     "title": "Aire de répartition de la tourterelle turque"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://refuges.lpo.fr/connaitre/oiseaux/tourterelle-turque-streptopelia-decaocto",
+    "https://www.iucnredlist.org/species/22727811/154457750",
+    "https://www.oiseaux.net/oiseaux/tourterelle.turque.html",
+    "https://fr.wikipedia.org/wiki/Tourterelle_turque"
   ]
 }

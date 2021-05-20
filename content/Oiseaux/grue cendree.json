@@ -25,9 +25,9 @@
     "Habitat": "Ouvert, proximité point d’eau",
     "Chant": "Grou/Krooh"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Elle est facilement reconnaissable grâce à la tâche rouge sur le dessus de sa tête.<br/> Elle pousse des cris très puissants, pouvant être entendus à des kilomètres !<br/> Il ne faut pas la confondre avec la <a href =\"/oiseaux/grue-demoiselle\">grue demoiselle</a> qui est beaucoup plus petite et qui possède un toupet blanc sur la tête.",
   "sound": {
-    "src": "media/sounds/Upupa_epops.ogg"
+    "src": "media/Chants oiseaux/Gruecendrée.ogg"
   },
   "map": {
     "src": "media/Aires/Aire_oiseaux/Aire_Grue.jpg",
@@ -35,7 +35,10 @@
     "title": "Aire de répartition de la grue cendrée"
   },
   "sources": [
-    "un lien",
-    "un autre lien"
+    "https://www.iucnredlist.org/species/22692146/86219168",
+    "https://champagne-ardenne.lpo.fr/grue-cendree/pesentation-de-la-grue-cendree",
+    "https://www.oiseaux.net/oiseaux/grue.cendree.html",
+    "https://fr.wikipedia.org/wiki/Grue_cendr%C3%A9e",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_oiseaux/my_flexible1637/"
   ]
 }
