@@ -25,7 +25,7 @@
     "Habitat": "Forêts, parcs, haies, bosquets",
     "Chant": "Ti ti ti/Tsrr tsrr tsrr"
   },
-  "description": "Elle est appelée souvent, à tort, mésange à longue queue.<br/> Cette longue queue fait qu'on ne peut pas la confondre avec d'autres oiseaux.",
+  "description": "Elle est appelée souvent, à tort, \"mésange à longue queue\".<br/> Cette longue queue fait qu'on ne peut pas la confondre avec d'autres oiseaux.",
   "sound": {
     "src": "media/Chants oiseaux/Orite.ogg"
   },

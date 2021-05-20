@@ -25,7 +25,7 @@
     "Habitat": "Steppes, champs, prairies",
     "Chant": "Grou/Krooh"
   },
-  "description": "Elle est aussi appelée demoiselle de Namibie.<br/> Il s'agit de la plus petite des grues.",
+  "description": "Elle est aussi appelée \"demoiselle de Namibie\".<br/> Il s'agit de la plus petite des grues.<br/> Elle peut ressembler à la <a href=\"/oiseaux/grue-cendree\">grue cendrée</a> bien que cette dernière soit plus grande et possède une tâche rouge sur la tête.",
   "sound": {
     "src": "media/Chants oiseaux/Gruedemoiselle.mp3"
   },

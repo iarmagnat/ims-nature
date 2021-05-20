@@ -25,7 +25,7 @@
     "Habitat": "Aquatique peu profond",
     "Chant": "Grognements"
   },
-  "description": "Lors de la période de reproduction, un collier jaune-orange apparaît à la base du bec et une teine orange vive apparaît sur le menton et la gorge.",
+  "description": "Son nom lui vient de la forme de son bec, dont elle se sert pour racler la vase et trouver sa nourriture.<br/> Lors de la période de reproduction, un collier jaune-orange apparaît à la base du bec et une teinte orange vive apparaît sur le menton et la gorge.",
   "sound": {
     "src": "media/Chants oiseaux/Spatule.mp3"
   },

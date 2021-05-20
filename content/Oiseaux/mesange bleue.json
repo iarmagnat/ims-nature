@@ -25,7 +25,7 @@
     "Habitat": "Forêts, exploitations agricoles, berges, haies, parcs, jardins",
     "Chant": "Sisisisisi/Tsitsitsitsit"
   },
-  "description": "Mâles et femelles sont presque identiques.<br/> La seule différence est sur le bandeau au niveau de l'oeil : noir pour le mâle et bleu foncé pour la femelle (très subtil).",
+  "description": "Mâles et femelles sont presque identiques.<br/> La seule différence est sur le bandeau au niveau de l'oeil : noir pour le mâle et bleu foncé pour la femelle (très subtil).<br/> Elle peut être confondue avec la <a href=\"/oiseaux/mesange-charbonniere\">mésange charbonnière</a>, cependant la mésange bleue est plus petite et n'a pas la tête noire ni le trait sur la poitrine contrairement à la mésange charbonnière.",
   "sound": {
     "src": "media/Chants oiseaux/Mésangebleue.ogg"
   },

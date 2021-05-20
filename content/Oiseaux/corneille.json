@@ -25,7 +25,7 @@
     "Habitat": "Tous (sauf haute montagne)",
     "Chant": "Krroa krroa krroa"
   },
-  "description": "Peut être confondue avec le corbeau freux.<br/> Cependant la corneille a le bec entièrement noir, contrairement au corbeau freux.",
+  "description": "Peut être confondue avec le <a href=\"/oiseaux/corbeau-freux\">corbeau freux</a>.<br/> Cependant la corneille a le bec entièrement noir, contrairement au corbeau freux.",
   "sound": {
     "src": "media/Chants oiseaux/Corneille.ogg"
   },

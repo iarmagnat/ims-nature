@@ -25,7 +25,7 @@
     "Habitat": "Lacs, étangs, marais",
     "Chant": "Gaoh/Vhorr"
   },
-  "description": "Il est également appelé cygne muet, dû au fait que ses cris sont rares et faibles.<br/> C'est l'un des oiseaux les plus lourds capable de voler.",
+  "description": "Il est également appelé \"cygne muet\", dû au fait que ses cris sont rares et faibles.<br/> C'est l'un des oiseaux les plus lourds capable de voler.",
   "sound": {
     "src": "media/Chants oiseaux/Cygne.mp3"
   },

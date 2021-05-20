@@ -25,7 +25,7 @@
     "Habitat": "Forêts, savanes, clairières",
     "Chant": "Scraark/Wee-oo"
   },
-  "description": "Il est également appelé 'perroquet jaco'.<br/> C'est le meilleur parleur parmi les perroquets.<br/> Longtemps commercialisé comme animal de compagnie, son commerce international est maintenant interdit.",
+  "description": "Il est également appelé \"perroquet jaco\".<br/> C'est le meilleur parleur parmi les perroquets.<br/> Longtemps commercialisé comme animal de compagnie, son commerce international est maintenant interdit.",
   "sound": {
     "src": "media/Chants oiseaux/Grisgabon.mp3"
   },
