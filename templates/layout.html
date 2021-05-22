@@ -7,8 +7,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
   <link rel="stylesheet" href="{{ url_for('static', filename="css/main.css") }}">
-  <link rel="preload" as="font" href="{{ url_for('static', filename="fonts/Caveat-VariableFont_wght.ttf") }}" type="font/ttf" crossorigin="anonymous">
-  <link rel="preload" as="font" href="{{ url_for('static', filename="fonts/PatrickHand-Regular.ttf") }}" type="font/ttf" crossorigin="anonymous">
+  <link rel="preload" as="font" href="{{ url_for('static', filename="fonts/Caveat-VariableFont_wght.ttf") }}"
+        type="font/ttf" crossorigin="anonymous">
+  <link rel="preload" as="font" href="{{ url_for('static', filename="fonts/PatrickHand-Regular.ttf") }}" type="font/ttf"
+        crossorigin="anonymous">
   <link rel="icon" href="{{ url_for('static', filename='icons/favicon-32x32.png') }}">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
         integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
@@ -64,11 +66,21 @@
 
 <footer class="footer">
   <div class="footer__wrapper">
-    <div class="footer__left"></div>
+    <div class="footer__left">
+    </div>
     <div class="footer__right">
+
+      <a href="https://github.com/iarmagnat/ims-nature" class="footer__link footer__link--github" target="_blank">
+        <i class="fab fa-github-square"></i>
+      </a>
 
       <a href="https://www.instagram.com/marie_ponky/" class="footer__link footer__link--instagram" target="_blank">
         <i class="fab fa-instagram"></i>
+      </a>
+
+      <a class="footer__link" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">
+        <img alt="Licence Creative Commons" class="footer__license-image"
+             src="{{ url_for("static", filename="icons/license_cc.svg")}}"/>
       </a>
     </div>
   </div>

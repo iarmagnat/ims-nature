@@ -326,6 +326,15 @@
 .footer__link--instagram, .footer__link--instagram:visited, .footer__link--instagram:hover, .footer__link--instagram:active {
   color: #C13584;
 }
+.footer__link--github {
+  font-size: 30px;
+}
+.footer__link--github, .footer__link--github:visited, .footer__link--github:hover, .footer__link--github:active {
+  color: black;
+}
+.footer__license-image {
+  height: 32px;
+}
 
 .iucn {
   position: relative;
@@ -533,7 +542,7 @@
   position: sticky;
   background-color: white;
   top: 0;
-  z-index: 1;
+  z-index: 2;
   flex-direction: row;
   width: 100%;
 }

@@ -185,5 +185,17 @@
         color: $instagram-color;
       }
     }
+
+    &--github {
+      font-size: 30px;
+
+      &, &:visited, &:hover, &:active {
+        color: black;
+      }
+    }
+  }
+
+  &__license-image {
+    height: 32px;
   }
 }
