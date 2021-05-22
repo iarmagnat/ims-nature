@@ -3,9 +3,11 @@ import shutil
 import click
 import os
 
+from flask import render_template
+
 from .explorer import Explorer
 from .page import Page
-from .utils import slugify
+from .utils import slugify, _write_to_page
 
 
 def init_explorer(app, page_funcs, *, root="content", url_root="", page_types={}):
@@ -37,6 +39,7 @@ def init_explorer(app, page_funcs, *, root="content", url_root="", page_types={}
         if not app.config["SERVER_NAME"]:
             raise Exception("""Server name must be set (not null) to allow url_for to work in request independent
         rendering context""")
+        server_name = app.config['SERVER_NAME']
 
 
         if html_root.startswith("/"):
@@ -50,11 +53,14 @@ def init_explorer(app, page_funcs, *, root="content", url_root="", page_types={}
         for page in main_content.pages.values():
             view_func = page_funcs[page.type]
             page_content = view_func(page)()
-            if no_server_name:
-                page_content = page_content.replace(f"http://{app.config['SERVER_NAME']}", "")
             file_name = f"{output_dir}{page.endpoint}/index.html"
-            os.makedirs(os.path.dirname(file_name), exist_ok=True)
-            with open(file_name, "w", encoding="utf8") as file:
-                file.write(page_content)
+            _write_to_page(file_name, page_content, server_name, no_server_name)
+
+        try:
+            not_found_page = render_template('404.html')
+            file_name = f"{output_dir}/404/index.html"
+            _write_to_page(file_name, not_found_page, server_name, no_server_name)
+        except Exception as e:
+            print(f"Could not generate 404 page: {e}")
 
         os.system(f"cp -r static {output_dir}")
