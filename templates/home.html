@@ -2,6 +2,47 @@
 {% import 'macros/image.html' as image %}
 
 {% block main %}
-  <h1>C'est la page d'accueil</h1>
+  <div class="home">
+    <h1 class="home__title">IMS-Nature</h1>
 
+    <div class="home__section">
+      <div class="home__section-content">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi gravida pulvinar turpis nec posuere. Nulla
+        scelerisque ligula at hendrerit laoreet. Etiam sollicitudin consequat mi vel auctor. Curabitur ullamcorper
+        molestie turpis in malesuada. Cras libero sem, vulputate sollicitudin sapien in, egestas dignissim est. Donec
+        cursus tincidunt magna non convallis. Nunc viverra, dolor et tempor tincidunt, tellus lorem mattis enim, nec
+        efficitur arcu lacus et nibh. Suspendisse mattis mi vel fringilla accumsan. Praesent ultricies arcu sem, sed
+        porta diam ullamcorper quis. Fusce volutpat condimentum enim id vulputate. Proin maximus sem non congue
+        ultricies. Aenean porttitor nulla suscipit, laoreet nunc eget, pharetra felis.
+      </div>
+    </div>
+
+    <div class="home__section">
+      {{ image.render(src="media/Photos site/Marie-Sophie.JPG", alt="Marie-Sophie", small=True, class="home__image") }}
+
+      <div class="home__section-content">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi gravida pulvinar turpis nec posuere. Nulla
+        scelerisque ligula at hendrerit laoreet. Etiam sollicitudin consequat mi vel auctor. Curabitur ullamcorper
+        molestie turpis in malesuada. Cras libero sem, vulputate sollicitudin sapien in, egestas dignissim est. Donec
+        cursus tincidunt magna non convallis. Nunc viverra, dolor et tempor tincidunt, tellus lorem mattis enim, nec
+        efficitur arcu lacus et nibh. Suspendisse mattis mi vel fringilla accumsan. Praesent ultricies arcu sem, sed
+        porta diam ullamcorper quis. Fusce volutpat condimentum enim id vulputate. Proin maximus sem non congue
+        ultricies. Aenean porttitor nulla suscipit, laoreet nunc eget, pharetra felis.
+      </div>
+    </div>
+
+    <div class="home__section">
+      <div class="home__section-content">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi gravida pulvinar turpis nec posuere. Nulla
+        scelerisque ligula at hendrerit laoreet. Etiam sollicitudin consequat mi vel auctor. Curabitur ullamcorper
+        molestie turpis in malesuada. Cras libero sem, vulputate sollicitudin sapien in, egestas dignissim est. Donec
+        cursus tincidunt magna non convallis. Nunc viverra, dolor et tempor tincidunt, tellus lorem mattis enim, nec
+        efficitur arcu lacus et nibh. Suspendisse mattis mi vel fringilla accumsan. Praesent ultricies arcu sem, sed
+        porta diam ullamcorper quis. Fusce volutpat condimentum enim id vulputate. Proin maximus sem non congue
+        ultricies. Aenean porttitor nulla suscipit, laoreet nunc eget, pharetra felis.
+      </div>
+
+      {{ image.render(src="media/Photos site/Ivan.JPG", alt="Ivan", small=True) }}
+    </div>
+  </div>
 {% endblock %}

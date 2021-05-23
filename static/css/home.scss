@@ -1,0 +1,35 @@
+.home {
+  padding: 1px 0;
+
+  &__title {
+    font-family: "Caveat", cursive;
+    text-align: center;
+  }
+
+  &__section {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+
+    @media (max-width: $tablet - 1) {
+      flex-direction: column;
+    }
+  }
+
+  &__section-content {
+    margin: 0 20px;
+
+    @media (max-width: $tablet - 1) {
+      order: 2;
+    }
+  }
+
+  &__image {
+
+    @media (max-width: $tablet - 1) {
+      order: 1;
+    }
+  }
+}

@@ -41,12 +41,5 @@
     "https://www.iucnredlist.org/species/22682655/181836360",
     "https://auvergne-rhone-alpes.lpo.fr/Huppe-fasciee"
   ],
-  "gallery": [
-    {
-      "src": "media/Photos site/Oiseaux/Huppe.JPG",
-      "alt": "Une huppe fasciée",
-      "title": "Une huppe fasciée",
-      "description": "une description de l'image"
-    }
-  ]
+  "gallery": []
 }

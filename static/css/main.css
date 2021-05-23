@@ -517,6 +517,39 @@
   padding: 5px 0 10px;
 }
 
+.home {
+  padding: 1px 0;
+}
+.home__title {
+  font-family: "Caveat", cursive;
+  text-align: center;
+}
+.home__section {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0;
+}
+@media (max-width: 1199px) {
+  .home__section {
+    flex-direction: column;
+  }
+}
+.home__section-content {
+  margin: 0 20px;
+}
+@media (max-width: 1199px) {
+  .home__section-content {
+    order: 2;
+  }
+}
+@media (max-width: 1199px) {
+  .home__image {
+    order: 1;
+  }
+}
+
 .dendrogram {
   padding: 1px 0;
 }
