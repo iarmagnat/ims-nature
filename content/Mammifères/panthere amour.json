@@ -25,14 +25,11 @@
     "Reproduction": "Hiver",
     "Taille portée": "2-3"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Lorem ipsum dolor sit amet...",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Panthèreamour.jpg",
     "alt": "Aire de répartition de la panthère de l'Amour",
     "title": "Aire de répartition de la panthère de l'Amour"
   },
-  "sources": [
-    "un lien",
-    "un autre lien"
-  ]
+  "sources": []
 }

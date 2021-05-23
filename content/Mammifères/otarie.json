@@ -25,14 +25,11 @@
     "Reproduction": "Mai-Juillet",
     "Taille portée": "1"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Lorem ipsum dolor sit amet...",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Otarie.jpg",
     "alt": "Aire de répartition de l'otarie de Californie",
     "title": "Aire de répartition de l'otarie de Californie"
   },
-  "sources": [
-    "un lien",
-    "un autre lien"
-  ]
+  "sources": []
 }

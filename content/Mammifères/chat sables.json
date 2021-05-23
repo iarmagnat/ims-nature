@@ -25,14 +25,11 @@
     "Reproduction": "Janvier-Avril/Printemps/Automne (selon régions)",
     "Taille portée": "2-4"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Lorem ipsum dolor sit amet...",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Chatsable.jpg",
     "alt": "Aire de répartition du chat des sables",
     "title": "Aire de répartition du chat des sables"
   },
-  "sources": [
-    "un lien",
-    "un autre lien"
-  ]
+  "sources": []
 }

@@ -25,14 +25,11 @@
     "Reproduction": "Janvier-Mars",
     "Taille portée": "1-4"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Lorem ipsum dolor sit amet...",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Panthèreneiges.jpg",
     "alt": "Aire de répartition de la panthère des neiges",
     "title": "Aire de répartition de la panthère des neiges"
   },
-  "sources": [
-    "un lien",
-    "un autre lien"
-  ]
+  "sources": []
 }

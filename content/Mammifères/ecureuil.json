@@ -25,14 +25,11 @@
     "Reproduction": "Janvier-Mars",
     "Taille portée": "3-5"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Lorem ipsum dolor sit amet...",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Ecureuil.jpg",
     "alt": "Aire de répartition de l'écureuil roux",
     "title": "Aire de répartition de l'écureuil roux"
   },
-  "sources": [
-    "un lien",
-    "un autre lien"
-  ]
+  "sources": []
 }

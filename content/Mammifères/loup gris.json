@@ -25,14 +25,11 @@
     "Reproduction": "Janvier-Mars",
     "Taille portée": "2-6"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Lorem ipsum dolor sit amet...",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Loupgris.jpg",
     "alt": "Aire de répartition du loup gris commun",
     "title": "Aire de répartition du loup gris commun"
   },
-  "sources": [
-    "un lien",
-    "un autre lien"
-  ]
+  "sources": []
 }

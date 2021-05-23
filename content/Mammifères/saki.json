@@ -25,14 +25,11 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1-3"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Lorem ipsum dolor sit amet...",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Saki.jpg",
     "alt": "Aire de répartition du saki à face blanche",
     "title": "Aire de répartition du saki à face blanche"
   },
-  "sources": [
-    "un lien",
-    "un autre lien"
-  ]
+  "sources": []
 }

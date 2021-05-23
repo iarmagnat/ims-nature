@@ -25,14 +25,11 @@
     "Reproduction": "Printemps-Automne",
     "Taille portée": "4-6"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Lorem ipsum dolor sit amet...",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Chat.jpg",
     "alt": "Aire de répartition du chat domestique",
     "title": "Aire de répartition du chat domestique"
   },
-  "sources": [
-    "un lien",
-    "un autre lien"
-  ]
+  "sources": []
 }

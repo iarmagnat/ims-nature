@@ -25,14 +25,11 @@
     "Reproduction": "Automne",
     "Taille portée": "1-2"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Lorem ipsum dolor sit amet...",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Chameau.jpg",
     "alt": "Aire de répartition du chameau de Bactriane",
     "title": "Aire de répartition du chameau de Bactriane"
   },
-  "sources": [
-    "un lien",
-    "un autre lien"
-  ]
+  "sources": []
 }

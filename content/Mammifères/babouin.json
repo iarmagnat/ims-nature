@@ -25,14 +25,11 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Lorem ipsum dolor sit amet...",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Babouin.jpg",
     "alt": "Aire de répartition du babouin hamadryas",
     "title": "Aire de répartition du babouin hamadryas"
   },
-  "sources": [
-    "un lien",
-    "un autre lien"
-  ]
+  "sources": []
 }

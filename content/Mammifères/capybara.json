@@ -25,14 +25,11 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "2-8"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Lorem ipsum dolor sit amet...",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Capybara.jpg",
     "alt": "Aire de répartition du capybara",
     "title": "Aire de répartition du capybara"
   },
-  "sources": [
-    "un lien",
-    "un autre lien"
-  ]
+  "sources": []
 }

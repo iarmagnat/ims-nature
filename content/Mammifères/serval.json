@@ -25,14 +25,11 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "2-4"
   },
-  "description": "Je suis de la description! <br/> Olala comme c'est bien la description!! Lorem ipsum dolor sit amet...",
+  "description": "Lorem ipsum dolor sit amet...",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Serval.jpg",
     "alt": "Aire de répartition du serval",
     "title": "Aire de répartition du serval"
   },
-  "sources": [
-    "un lien",
-    "un autre lien"
-  ]
+  "sources": []
 }
