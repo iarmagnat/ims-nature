@@ -549,6 +549,9 @@
     order: 1;
   }
 }
+.home__list {
+  margin: 0;
+}
 
 .dendrogram {
   padding: 1px 0;
