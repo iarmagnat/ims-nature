@@ -25,11 +25,17 @@
     "Reproduction": "Hiver",
     "Taille portée": "2-3"
   },
-  "description": "Description à venir...",
+  "description": "Son nom vient d'un fleuve chinois dont elle occupait les rives.<br/> Elle possède une fourrure plus claire que les autres panthères, ainsi que des tâches plus larges et des poils plus longs.<br/> Il s'agit d'un des félins les plus rares au monde et de la panthère la plus menacées de toutes ! Dans les années 2000 on avait estimé qu'il ne restait qu'une trentaine d'individus dans la nature. Les efforts de conservation on permis d'en recencer une centaine en 2018 mais ce nombre reste trop bas pour une stabilisation des effectifs.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Panthèreamour.jpg",
     "alt": "Aire de répartition de la panthère de l'Amour",
     "title": "Aire de répartition de la panthère de l'Amour"
   },
-  "sources": []
+  "sources": [
+    "https://fr.wikipedia.org/wiki/L%C3%A9opard_de_l%27Amour",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_mammiferes/la_panthere_de_l_amo/",
+    "https://www.iucnredlist.org/species/15954/5328595",
+    "https://www.wwf.fr/especes-prioritaires/leopard-de-lamour",
+    "https://www.chatsdumonde.com/le-chat-50/les-autres-felins-50003/le-leopard-de-l-amour-morphologie-alimentation-mode-de-vie-1288.php"
+  ]
 }

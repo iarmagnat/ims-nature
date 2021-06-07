@@ -25,11 +25,16 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1"
   },
-  "description": "Description à venir...",
+  "description": "La girafe est l'animal actuel le plus haut. Elle peut atteindre jusqu'à 5,80 m de haut.<br/> Contrairement à ce qu'on pourrait penser, la longueur du cou de la girafe n'est pas due à un nombre plus important de vertèbres cervicales puisqu'elle en possède 7, comme les humains et la plupart des autres mammifères. La différence vient de leur taille : 40 cm chacune ! <br/> On comptait 155 000 individus en 1985 contre 97 000 en 2015, ce qui correspond à une diminution de presque 40% en 30 ans !<br/> Il s'agit du seul mammifère terrestre qui ne bâille pas.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Girafe.jpg",
     "alt": "Aire de répartition de la girafe",
     "title": "Aire de répartition de la girafe"
   },
-  "sources": []
+  "sources": [
+    "https://www.iucnredlist.org/species/9194/136266699",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_mammiferes/les_girafes/",
+    "https://www.safari-peaugres.com/les-animaux/girafe-de-rothschild",
+    "https://fr.wikipedia.org/wiki/Girafe"
+  ]
 }

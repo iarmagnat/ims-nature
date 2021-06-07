@@ -25,11 +25,15 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1"
   },
-  "description": "Description à venir...",
+  "description": "Le mâle est bien plus gros que la femelle et peut peser jusqu'à 230kg ! <br/> En vieillissant, le dos des mâles se teinte de gris, ce qui vaut aux mâles dominants le surnom de \"dos argentés\".<br/> Bien qu'il soit imposant, le gorille des plaines de l'Ouest est un animal plutôt pacifique.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Gorille.jpg",
     "alt": "Aire de répartition du gorille des plaines de l’Ouest",
     "title": "Aire de répartition du gorille des plaines de l’Ouest"
   },
-  "sources": []
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Gorilla_gorilla_gorilla",
+    "https://espace-zoologique.com/mammiferes/gorille-des-plaines.html",
+    "https://www.iucnredlist.org/species/9404/136250858"
+  ]
 }

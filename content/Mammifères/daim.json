@@ -25,11 +25,15 @@
     "Reproduction": "Octobre-Novembre",
     "Taille portée": "1-2"
   },
-  "description": "Description à venir...",
+  "description": "Le daim est facilement reconnaissable grâce à sa robe fauve tachetée de blanc.<br/> La majorité du temps, les deux sexes vivent séparés et ne se retrouvent que pendant la période de réproduction. C'est aussi à cette période que les mâles arborent leurs bois plats et palmés.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Daim.jpg",
     "alt": "Aire de répartition du daim",
     "title": "Aire de répartition du daim"
   },
-  "sources": []
+  "sources": [
+    "https://www.iucnredlist.org/species/42188/10656554",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_mammiferes/les_daims/",
+    "https://fr.wikipedia.org/wiki/Daim"
+  ]
 }

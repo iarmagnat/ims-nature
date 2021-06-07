@@ -25,11 +25,15 @@
     "Reproduction": "Automne",
     "Taille portée": "1-2"
   },
-  "description": "Description à venir...",
+  "description": "Il est aussi appelé \"chameau à deux bosses\" par opposition au dromadaire dit \"chameau d'Arabie\". Il diffère du dromadaire par son nombre de bosses dorsales graisseuses (une seule chez le dromadaire), par son poids et sa taille plus élevés et par sa fourrure plus abondante.<br/> Ses bosses lui permettent de survivre dans des conditions très difficiles puisqu'elles ont un rôle de stockage. Le chameau peut supporter la perte de 40% de son eau, alors que les autres mammifères meurent s'ils en perdent 20%. Il possède des reins très performants qui absorbent une partie importante de l'eau des urines pour la rendre à l'organisme.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Chameau.jpg",
     "alt": "Aire de répartition du chameau de Bactriane",
     "title": "Aire de répartition du chameau de Bactriane"
   },
-  "sources": []
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Chameau_de_Bactriane",
+    "https://www.iucnredlist.org/species/63543/12689285",
+    "https://www.safari-peaugres.com/les-animaux/chameau-de-bactriane"
+  ]
 }

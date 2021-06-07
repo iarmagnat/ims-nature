@@ -25,11 +25,16 @@
     "Reproduction": "Juin-Juillet",
     "Taille portée": "1"
   },
-  "description": "Description à venir...",
+  "description": "Il est caractérisé par un aspect massif, rappelant les représentations de l'art préhistorique.<br/> Ces chevaux constituent la plus vieille population de chevaux vivant à l'état sauvage. Ils souffrent cependant de consanguinité puisqu'ils ont été perpétués dans des zoos à partir d'un petit groupe de reproducteurs.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Chevalprzewalski.jpg",
     "alt": "Aire de répartition du cheval de Przewalski",
     "title": "Aire de répartition du cheval de Przewalski"
   },
-  "sources": []
+  "sources": [
+    "https://www.iucnredlist.org/species/41763/97204950",
+    "https://www.safari-peaugres.com/les-animaux/cheval-de-przewalski",
+    "https://zoosauvage.org/animaux/cheval-de-przewalski/#:~:text=%C3%80%20partir%20de%202%20ou,l'%C3%A2ge%20de%201%20an.",
+    "https://fr.wikipedia.org/wiki/Cheval_de_Przewalski"
+  ]
 }

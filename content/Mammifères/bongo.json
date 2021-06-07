@@ -25,11 +25,16 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1"
   },
-  "description": "Description à venir...",
+  "description": "Chez cette espèce, les deux sexes possèdent des cornes. Ces dernières ont une forme de spirale et mesurent entre 75 et 99 cm.<br/> Il s'agit d'une des plus grandes antilopes de forêt, elle peut faire jusqu'à 2,50 m de long et 1,30 m de haut et peser jusqu'à 400 kg.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Bongo.jpg",
     "alt": "Aire de répartition du bongo",
     "title": "Aire de répartition du bongo"
   },
-  "sources": []
+  "sources": [
+    "https://www.iucnredlist.org/species/22047/115164600",
+    "https://www.safari-peaugres.com/les-animaux/bongo",
+    "https://fr.wikipedia.org/wiki/Bongo_(animal)",
+    "https://www.thoiry.net/les-animaux/bongo"
+  ]
 }

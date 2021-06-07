@@ -25,11 +25,17 @@
     "Reproduction": "Janvier-Mars",
     "Taille portée": "3-5"
   },
-  "description": "Description à venir...",
+  "description": "L'écureuil roux est arboricole, il est très agile.<br/> Contrairement à ce qu'on pourrait penser, il n'hiberne pas. Il doit donc préparer des réserves de nourriture pour passer l'hiver. Il les répartit en plusieurs endroits pour éviter le risque de tout perdre d'un coup.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Ecureuil.jpg",
     "alt": "Aire de répartition de l'écureuil roux",
     "title": "Aire de répartition de l'écureuil roux"
   },
-  "sources": []
+  "sources": [
+    "https://refuges.lpo.fr/connaitre/mammiferes/ecureuil-roux-sciurus-vulgaris",
+    "https://fr.wikipedia.org/wiki/%C3%89cureuil_roux",
+    "https://inpn.mnhn.fr/espece/cd_nom/61153",
+    "https://fauna-eu.org/cdm_dataportal/taxon/51fbdda8-fdcb-4529-acc6-7785d50e04ae",
+    "https://www.iucnredlist.org/species/20025/115155900"
+  ]
 }

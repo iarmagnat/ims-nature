@@ -25,11 +25,15 @@
     "Reproduction": "Septembre-Novembre",
     "Taille portée": "2-6"
   },
-  "description": "Description à venir...",
+  "description": "Il est également appelé \"renard à oreilles de chauve-souris\" ou \"chien oreillard\" dû, vous vous en doutez, à ses grandes oreilles.<br/> Il vit en groupe comprenant le couple monogame et les jeunes de l'année. C'est, chose assez rare, le mâle qui s'occupe principalement de l'élevage et de la protection des petits.<br/> Il s'agit du mammifère terrestre (non marsupial) qui a le plus de dents : entre 46 et 50.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Otocyon.jpg",
     "alt": "Aire de répartition de l'otocyon",
     "title": "Aire de répartition de l'otocyon"
   },
-  "sources": []
+  "sources": [
+    "https://www.iucnredlist.org/species/15642/46123809",
+    "https://fr.wikipedia.org/wiki/Renard_%C3%A0_oreilles_de_chauve-souris",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_mammiferes/lotocyon/"
+  ]
 }

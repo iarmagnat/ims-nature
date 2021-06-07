@@ -25,11 +25,15 @@
     "Reproduction": "Septembre-Décembre",
     "Taille portée": "1-2"
   },
-  "description": "Description à venir...",
+  "description": "Il est également appelé \"cerf huppé\" dû à la présence de touffes noires sur le front. Il est l'un des plus petits cervidés.<br/> Sa caractéristique principale est la présence de très longues canines supérieures pouvant mesurer jusqu'à 2,6 cm.<br/> Les mâles présentent des bois courts et sans ramifications. En période de reproduction, ils poussent des sortes d'aboiements pour attirer les femelles.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Elaphode.jpg",
     "alt": "Aire de répartition de l'élaphode",
     "title": "Aire de répartition de l'élaphode"
   },
-  "sources": []
+  "sources": [
+    "https://www.iucnredlist.org/species/7112/22159620",
+    "https://fr.wikipedia.org/wiki/Elaphodus_cephalophus",
+    "https://www.parcanimalierdauvergne.fr/animal/cerf-huppe/"
+  ]
 }

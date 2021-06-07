@@ -25,11 +25,15 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1"
   },
-  "description": "Description à venir...",
+  "description": "La photographie ci-dessus représente un mâle adulte.<br/>Il est également appelé \"cobe de Lechwe du Nil\", \"lechwe\" signifie \"antilope\" en Tswana.<br/> Seul le mâle possède des cornes, il est également brun/noir. La femelle quant à elle est plutôt châtain.<br/> Les sabots longs et écartés du cobe de Mrs Gray sont parfaitement adaptés aux terrains marécageux, ce qui le rend semi-aquatique et semi-terrestre.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Cobegray.jpg",
     "alt": "Aire de répartition du cobe de Mrs Gray",
     "title": "Aire de répartition du cobe de Mrs Gray"
   },
-  "sources": []
+  "sources": [
+    "https://www.iucnredlist.org/species/11034/50189177",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_mammiferes/le_cobe_de_mrs_gray/",
+    "https://fr.wikipedia.org/wiki/Kobus_megaceros"
+  ]
 }

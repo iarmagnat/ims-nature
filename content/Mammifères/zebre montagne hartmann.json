@@ -25,11 +25,15 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1"
   },
-  "description": "Description à venir...",
+  "description": "Le schéma des zébrures est propre à chaque individu, comme nos empreintes digitales. Cependant, leur nombre et leur forme permettent de différencier les espèces de zèbres. Ici, il s'agit d'un zèbre de montagne, il possède donc 43 rayures larges et rapprochées qui deviennent très larges sur les cuisses.<br/> Il peut rester plus de deux jours sans boire lorsque les conditions le nécessitent.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Zèbremontagne.jpg",
     "alt": "Aire de répartition du zèbre de montagne de Hartmann",
     "title": "Aire de répartition du zèbre de montagne de Hartmann"
   },
-  "sources": []
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Z%C3%A8bre_de_montagne_de_Hartmann",
+    "https://www.iucnredlist.org/species/7960/160755590",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_mammiferes/les_zebres/"
+  ]
 }
