@@ -25,11 +25,16 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1"
   },
-  "description": "Description à venir...",
+  "description": "Il est aussi appelé \"lama blanc\".<br/> Le lama a beau ruminer, il n'est cependant pas classé parmi les ruminants, comme tous les Camélidés.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Lama.jpg",
     "alt": "Aire de répartition du lama",
     "title": "Aire de répartition du lama"
   },
-  "sources": []
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Lama_(animal)",
+    "https://www.safari-peaugres.com/les-animaux/lama",
+    "https://www.iucnredlist.org/species/11186/18540211",
+    "https://www.instinct-animal.fr/lama/"
+  ]
 }

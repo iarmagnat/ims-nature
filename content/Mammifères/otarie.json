@@ -25,11 +25,15 @@
     "Reproduction": "Mai-Juillet",
     "Taille portée": "1"
   },
-  "description": "Description à venir...",
+  "description": "Elle est également appelée \"lion de mer de Californie\".<br/> Le dimorphisme sexuel est très marqué chez cette espèce, en effet les mâles peuvent être jusqu'à 4 fois plus lourds que les femelles et jusqu'à 1,2 fois plus grands. Ils possèdent également une crête sur le sommet de la tête, alors que les femelles n'en ont pas.<br/> Les jeunes naissent avec un duvet brun-noir épais qui disparaît vers 2 mois.<br/> Attention à ne pas confondre les otaries et les phoques ! Un moyen simple de les différencier : les oreilles des phoques ne sont pas visibles alors que celles des otaries oui.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Otarie.jpg",
     "alt": "Aire de répartition de l'otarie de Californie",
     "title": "Aire de répartition de l'otarie de Californie"
   },
-  "sources": []
+  "sources": [
+    "https://www.iucnredlist.org/species/41666/45230310",
+    "https://www.safari-peaugres.com/les-animaux/otarie-de-californie",
+    "https://fr.wikipedia.org/wiki/Otarie_de_Californie"
+  ]
 }

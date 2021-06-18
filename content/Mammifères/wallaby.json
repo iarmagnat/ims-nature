@@ -25,11 +25,15 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1"
   },
-  "description": "Description à venir...",
+  "description": "Il est aussi appelé \"wallaby à cou rouge\".<br/> Il ne boit que très rarement, l'eau contenue dans les végétaux qu'il mange lui suffit.<br/> On pourrait le prendre pour un kangourou cependant il est beaucoup plus petit.<br/> Les wallabies de Bennett sont des marsupiaux, c'est à dire qu'ils mettent bas à des embryons qui vont terminer de se développer dans la poche ventrale de la mère pendant 5 mois environ.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Wallaby.jpg",
     "alt": "Aire de répartition du wallaby de Bennett",
     "title": "Aire de répartition du wallaby de Bennett"
   },
-  "sources": []
+  "sources": [
+    "https://www.iucnredlist.org/species/40566/21953329",
+    "https://www.safari-peaugres.com/les-animaux/wallaby-de-bennett",
+    "https://fr.wikipedia.org/wiki/Wallaby_%C3%A0_cou_rouge"
+  ]
 }

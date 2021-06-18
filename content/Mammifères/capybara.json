@@ -25,11 +25,15 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "2-8"
   },
-  "description": "Description à venir...",
+  "description": "Il est également appelé \"cabiaï\" ou \"grand hydrochère\" ou encore \"grand cochon d'eau\".<br/> Il est le plus gros rongeur actuel. L'adulte fait plus d'1 m de long et pèse plus de 50 kg.<br/> Il s'agit d'un mammifère semi-aquatique, il vit toujours près d'un cours d'eau. L'accouplement se passe également dans l'eau.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Capybara.jpg",
     "alt": "Aire de répartition du capybara",
     "title": "Aire de répartition du capybara"
   },
-  "sources": []
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Hydrochoerus_hydrochaeris",
+    "https://www.safari-peaugres.com/les-animaux/capybara",
+    "https://www.iucnredlist.org/species/10300/22190005"
+  ]
 }

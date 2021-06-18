@@ -25,11 +25,15 @@
     "Reproduction": "Mai",
     "Taille portée": "1-2"
   },
-  "description": "Description à venir...",
+  "description": "Il est aussi appelé \"singe lion doré\" ou \"petit singe lion\".<br/> Son aire de répartition est extrêmement petite : à peine plus de 100 km² !",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Tamarinlion.jpg",
     "alt": "Aire de répartition du tamarin lion doré",
     "title": "Aire de répartition du tamarin lion doré"
   },
-  "sources": []
+  "sources": [
+    "https://www.iucnredlist.org/species/11506/192327291",
+    "https://fr.wikipedia.org/wiki/Tamarin-lion_dor%C3%A9",
+    "https://www.safari-peaugres.com/les-animaux/tamarin-lion"
+  ]
 }

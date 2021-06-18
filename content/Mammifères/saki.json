@@ -25,11 +25,16 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1-3"
   },
-  "description": "Description à venir...",
+  "description": "La photographie ci-dessus montre un mâle adulte.<br/> Il est également appelé \"saki à face pâle\".<br/> Le dimorphisme sexuel est très marqué chez cette espèce, le mâle est noir avec la face blanche ou dorée et le nez noir. La femelle, elle, est brunâtre. Tous les jeunes naissent de la même couleur que la femelle mais vers l'âge de 2 mois les jeunes mâles commencent à changer de couleur.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Saki.jpg",
     "alt": "Aire de répartition du saki à face blanche",
     "title": "Aire de répartition du saki à face blanche"
   },
-  "sources": []
+  "sources": [
+    "https://www.safari-peaugres.com/les-animaux/saki-face-blanche",
+    "https://www.iucnredlist.org/species/43942/192447247",
+    "https://fr.wikipedia.org/wiki/Pithecia_pithecia",
+    "https://www.parc-zoologique.fr/le-parc/nos-animaux/espace-exotique/saki-a-face-blanche/"
+  ]
 }

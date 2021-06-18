@@ -25,11 +25,15 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1"
   },
-  "description": "Description à venir...",
+  "description": "Il est également appelé \"tapir du Brésil\".<br/> Le pelage des adulte est brun foncé alors que les jeunes sont bruns rayés de blanc, comme les marcassins. Les rayures disparaissent vers 7 mois.<br/> Le tapir possède 4 doigts aux pattes avant et 3 à l'arrière. Il possède également une courte trompe.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Tapir.jpg",
     "alt": "Aire de répartition du tapir terrestre",
     "title": "Aire de répartition du tapir terrestre"
   },
-  "sources": []
+  "sources": [
+    "https://www.iucnredlist.org/species/21474/45174127",
+    "https://www.safari-peaugres.com/les-animaux/tapir-terrestre",
+    "https://fr.wikipedia.org/wiki/Tapir_du_Br%C3%A9sil"
+  ]
 }

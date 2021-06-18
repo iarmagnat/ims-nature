@@ -25,11 +25,15 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "2"
   },
-  "description": "Description à venir...",
+  "description": "Il est également appelé \"lièvre de Patagonie\" ou \"lièvre des pampas\".<br/> Il est le troisième plus gros rongeur vivant, après le <a href =\"/mammiferes/capybara\">capybara</a> et les castors.<br/> Pour sa taille, il s'agit d'un animal très rapide : il peut faire des pointes à 80km/h ! Même si en moyenne il ne sprinte \"que\" à 55km/h. Il peut également bondir jusqu'à 2 m en hauteur ! ",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Mara.jpg",
     "alt": "Aire de répartition du mara",
     "title": "Aire de répartition du mara"
   },
-  "sources": []
+  "sources": [
+    "https://www.iucnredlist.org/species/6785/22190337",
+    "https://www.safari-peaugres.com/les-animaux/mara",
+    "https://fr.wikipedia.org/wiki/Dolichotis_patagonum"
+  ]
 }
