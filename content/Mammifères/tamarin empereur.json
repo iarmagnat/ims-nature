@@ -25,11 +25,15 @@
     "Reproduction": "Avant saison des pluies",
     "Taille portée": "2"
   },
-  "description": "Description à venir...",
+  "description": "Il est facilement reconnaissable grâce à sa moustache blanche. Son nom lui vient justement de cette moustache qui rappelait celle de l'empereur d'Allemagne Guillaume II.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Tamarinempereur.jpg",
     "alt": "Aire de répartition du tamarin empereur",
     "title": "Aire de répartition du tamarin empereur"
   },
-  "sources": []
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Tamarin_empereur",
+    "https://www.safari-peaugres.com/les-animaux/tamarin-empereur",
+    "https://www.iucnredlist.org/species/39948/192551472"
+  ]
 }

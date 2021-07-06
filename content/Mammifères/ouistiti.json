@@ -25,11 +25,16 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1-2"
   },
-  "description": "Description à venir...",
+  "description": "Il est aussi appelé \"ouistiti commun\" ou \"ouistiti à toupet\" ou encore \"ouistiti sagouin\".<br/> Les groupes semblent gérés par une femelle dominante qui est la seule à se reproduire.<br/> Il peut être vu dans les rues de certaines villes au Sud du Brésil dû à la déforestation de son habitat.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Ouistiti.jpg",
     "alt": "Aire de répartition du ouistiti à pinceaux blancs",
     "title": "Aire de répartition du ouistiti à pinceaux blancs"
   },
-  "sources": []
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Callithrix_jacchus",
+    "https://www.iucnredlist.org/species/41518/191705043",
+    "https://www.safari-peaugres.com/les-animaux/ouistiti-pinceaux-blancs",
+    "https://www.instinct-animal.fr/ouistiti-a-toupets-blancs/"
+  ]
 }

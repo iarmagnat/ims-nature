@@ -25,11 +25,16 @@
     "Reproduction": "Avril-Juin",
     "Taille portée": "1-2"
   },
-  "description": "Description à venir...",
+  "description": "Il est également appelé \"lémur catta\".<br/> Il est sûrement le plus connu et le plus emblématique des lémuriens. Il est en effet reconnaissable notamment grâce à sa longue queue blanche et noire.<br/> Il fait malheureusement partie des 25 primates les plus menacés au monde.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Makicatta.jpg",
     "alt": "Aire de répartition du maki catta",
     "title": "Aire de répartition du maki catta"
   },
-  "sources": []
+  "sources": [
+    "https://fr.wikipedia.org/wiki/L%C3%A9mur_catta",
+    "https://www.iucnredlist.org/species/11496/115565760",
+    "https://www.safari-peaugres.com/les-animaux/maki-catta",
+    "https://www.thoiry.net/les-animaux/maki-catta"
+  ]
 }

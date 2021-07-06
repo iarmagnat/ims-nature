@@ -25,11 +25,15 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "3-5"
   },
-  "description": "Description à venir...",
+  "description": "Le guépard est facilement reconnaissable grâce à son allure svelte et fine, ses longues pattes élancées et ses larmiers (les lignes noires reliant le coin interne de l'œil à l'extérieur de la gueule).<br/> Ces larmiers permettraient d'améliorer sa vision en diminuant les reflets du soleil.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Guépard.jpg",
     "alt": "Aire de répartition du guépard",
     "title": "Aire de répartition du guépard"
   },
-  "sources": []
+  "sources": [
+    "https://www.iucnredlist.org/species/219/50649567",
+    "https://fr.wikipedia.org/wiki/Gu%C3%A9pard",
+    "https://www.safari-peaugres.com/les-animaux/guepard"
+  ]
 }

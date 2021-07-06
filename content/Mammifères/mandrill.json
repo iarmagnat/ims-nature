@@ -25,11 +25,16 @@
     "Reproduction": "Juin-Septembre",
     "Taille portée": "1"
   },
-  "description": "Description à venir...",
+  "description": "Les adultes de cette espèce se reconnaissent facilement aux couleurs vives de leur face, dépourvue de poils. La peau est bleue et le nez rouge vif. Leurs fesses sont également pourvues de couleurs vives.<br/> Il est très proche du <a href=\"/mammiferes/drill\">drill</a> sauf que ce dernier n'a pas la face colorée.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Mandrill.jpg",
     "alt": "Aire de répartition du mandrill",
     "title": "Aire de répartition du mandrill"
   },
-  "sources": []
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Mandrillus_sphinx",
+    "https://www.iucnredlist.org/species/12754/17952325",
+    "https://www.safari-peaugres.com/les-animaux/mandrill",
+    "https://www.instinct-animal.fr/mandrill/"
+  ]
 }

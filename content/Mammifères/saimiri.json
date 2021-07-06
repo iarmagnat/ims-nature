@@ -25,11 +25,15 @@
     "Reproduction": "Septembre-Novembre",
     "Taille portée": "1"
   },
-  "description": "Description à venir...",
+  "description": "Il est également appelé \"saïmiri noirâtre\". Il est parfois surnommé \"singe écureuil\" en raison de sa grande agilité et rapidité.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Saimiri.jpg",
     "alt": "Aire de répartition du saïmiri à tête noire",
     "title": "Aire de répartition du saïmiri à tête noire"
   },
-  "sources": []
+  "sources": [
+    "https://www.safari-peaugres.com/les-animaux/saimiri-tete-noire",
+    "https://www.iucnredlist.org/species/19839/17940474",
+    "https://fr.wikipedia.org/wiki/Saimiri_vanzolinii"
+  ]
 }

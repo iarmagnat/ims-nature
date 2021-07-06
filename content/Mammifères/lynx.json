@@ -25,11 +25,16 @@
     "Reproduction": "Février-Avril",
     "Taille portée": "2-4"
   },
-  "description": "Description à venir...",
+  "description": "Il est aussi appelé \"lynx d'Eurasie\", \"lynx commun\", \"loup-cervier\" ou encore \"lynx d'Europe\".<br/> Il est facilement reconnaissable à ses longues pattes, sa queue courte et ses oreilles pointues surmontées d'une touffe noire.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Lynx.jpg",
     "alt": "Aire de répartition du lynx",
     "title": "Aire de répartition du lynx"
   },
-  "sources": []
+  "sources": [
+    "https://www.safari-peaugres.com/les-animaux/lynx-boreal",
+    "https://www.iucnredlist.org/species/12519/121707666",
+    "https://fr.wikipedia.org/wiki/Lynx_bor%C3%A9al",
+    "https://www.ferus.fr/lynx/le-lynx-biologie"
+  ]
 }

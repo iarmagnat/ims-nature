@@ -25,11 +25,15 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1-2"
   },
-  "description": "Description à venir...",
+  "description": "Elle est la plus grande des hyènes. Elle se distingue par ses oreilles courtes et rondes ainsi que par son pelage tacheté et la présence d'un pseudo-pénis chez les femelles.<br/> Elle est capable de manger et de digérer les os.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Hyène.jpg",
     "alt": "Aire de répartition de la hyène tachetée",
     "title": "Aire de répartition de la hyène tachetée"
   },
-  "sources": []
+  "sources": [
+    "https://www.safari-peaugres.com/les-animaux/hyene-tachetee",
+    "https://www.iucnredlist.org/species/5674/45194782",
+    "https://fr.wikipedia.org/wiki/Hy%C3%A8ne_tachet%C3%A9e"
+  ]
 }

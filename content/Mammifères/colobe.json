@@ -25,11 +25,15 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1"
   },
-  "description": "Description à venir...",
+  "description": "Il est aussi appelé \"guéréza du Kilimandjaro\".",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Colobe.jpg",
     "alt": "Aire de répartition du colobe guéréza",
     "title": "Aire de répartition du colobe guéréza"
   },
-  "sources": []
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Colobus_guereza",
+    "https://www.iucnredlist.org/species/5143/17944705",
+    "https://www.safari-peaugres.com/les-animaux/colobe-guereza"
+  ]
 }
