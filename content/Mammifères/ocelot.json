@@ -25,11 +25,15 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1-4"
   },
-  "description": "Description à venir...",
+  "description": "La photographie ci-dessus montre un mâle adulte.<br/> L'ocelot possède un corps allongé, des pattes courtes avec de larges pieds. Sa tête est ronde, ses grands yeux sont jaunes et son nez est rose.<br/> L'ocelot peut être confondu avec le margay dont le pelage est similaire mais l'ocelot est beaucoup plus grand que le margay (qui pèse entre 3 et 4 kg seulement contre 8-12 kg pour l'ocelot) et a une queue plus courte.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Ocelot.jpg",
     "alt": "Aire de répartition de l'ocelot",
     "title": "Aire de répartition de l'ocelot"
   },
-  "sources": []
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Ocelot",
+    "https://www.iucnredlist.org/species/11509/97212355",
+    "https://espace-zoologique.com/mammiferes/ocelot.html"
+  ]
 }

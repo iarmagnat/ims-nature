@@ -25,11 +25,15 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1"
   },
-  "description": "Description à venir...",
+  "description": "Il est également appelé \"gibbon lar\" ou \"gibbon commun\".<br/> Ils peuvent être soit foncés (gris au noir) soit clairs (crème à brun clair) mais contrairement au gibbon à favoris blancs du nord cela n'est pas lié au sexe des individus. Ils ont une face encadrée de blanc et les extrémités des pieds et des mains sont blanches (d'où leur nom vernaculaire).",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Gibbon.jpg",
     "alt": "Aire de répartition du gibbon à mains blanches",
     "title": "Aire de répartition du gibbon à mains blanches"
   },
-  "sources": []
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Gibbon_%C3%A0_mains_blanches",
+    "https://espace-zoologique.com/mammiferes/gibbon-mains-blanches.html",
+    "https://www.iucnredlist.org/species/10548/17967253"
+  ]
 }

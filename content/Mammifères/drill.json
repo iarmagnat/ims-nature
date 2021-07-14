@@ -25,11 +25,16 @@
     "Reproduction": "Toute l’année (peu connu)",
     "Taille portée": "1"
   },
-  "description": "Description à venir...",
+  "description": "Il est très proche et ressemble beaucoup au <a href=\"/mammiferes/mandrill\">mandrill</a> mais n'en a pas la face colorée.<br/> Un grand dimorphisme sexuel est présent chez cette espèce, les mâles peuvent peser jusqu'à 50 kg alors que les femelles peuvent aller jusqu'à 13 kg seulement.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Drill.jpg",
     "alt": "Aire de répartition du drill",
     "title": "Aire de répartition du drill"
   },
-  "sources": []
+  "sources": [
+    "https://espace-zoologique.com/mammiferes/drill.html",
+    "https://www.iucnredlist.org/species/12753/17952490",
+    "https://fr.wikipedia.org/wiki/Mandrillus_leucophaeus",
+    "https://animaldiversity.org/accounts/Mandrillus_leucophaeus/"
+  ]
 }

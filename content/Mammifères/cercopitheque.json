@@ -25,11 +25,17 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1"
   },
-  "description": "Description à venir...",
+  "description": "La photographie ci-dessus montre un cercopithèque ascagne à nez orange (<em>Cercopithecus ascanius whitesidei</em>).<br/> Il est appelé \"red-tailed monkey\" en anglais soit \"singe à queue rouge\" qui vient de la couleur de sa queue rouge/orangée. La couleur du nez varie suivant les sous-espèces.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Cercopithèque.jpg",
     "alt": "Aire de répartition du cercopithèque ascagne",
     "title": "Aire de répartition du cercopithèque ascagne"
   },
-  "sources": []
+  "sources": [
+    "https://espace-zoologique.com/mammiferes/cercopitheque.html",
+    "https://zoospassion.com/Classification/mammiferes/primates/cercopithecidae/cercopithecinae/cercopithecus/cercopithequeascagne/cercopithequeascagne.html",
+    "https://www.iucnredlist.org/species/4212/17947340",
+    "https://fr.wikipedia.org/wiki/Cercopithecus_ascanius#Liste_des_sous-esp%C3%A8ces",
+    "https://en.wikipedia.org/wiki/Red-tailed_monkey"
+  ]
 }

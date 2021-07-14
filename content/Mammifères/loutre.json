@@ -25,11 +25,16 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "2-5"
   },
-  "description": "Description à venir...",
+  "description": "Elle est également appelée \"loutre cendrée\", \"loutre naine d'Asie\" ou \"loutre à griffes courtes\". Il s'agit de la plus petite des loutres, elle mesure juste 80 cm contre 2,4 m pour la loutre géante sud-américaine.<br/> Sa fourrure est épaisse et imperméable lui permettant de résister aux basses températures des cours d'eau.<br/> Les menaces qui pèsent sur la loutre asiatique sont la destruction de son habitat et la pollution des cours d'eau.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Loutre.jpg",
     "alt": "Aire de répartition de la loutre asiatique",
     "title": "Aire de répartition de la loutre asiatique"
   },
-  "sources": []
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Loutre_cendr%C3%A9e",
+    "https://www.iucnredlist.org/species/44166/21939068",
+    "https://www.safari-peaugres.com/les-animaux/loutre-asiatique",
+    "https://en.wikipedia.org/wiki/Asian_small-clawed_otter"
+  ]
 }

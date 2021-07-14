@@ -25,11 +25,15 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1-2"
   },
-  "description": "Description à venir...",
+  "description": "Il est aussi appelé \"ours des cocotiers\" ou \"bruan\" (qui vient du mot malais pour dire \"ours\"). Il s'agit du seul ours tropical et c'est le plus petit des ours.<br/> Aidé par ses grandes griffes, il est un excellent grimpeur et construit des nids dans les arbres. Sa langue est très grande (entre 20 et 25 cm !) et lui permet de chercher du miel et des larves.<br/> L'ours malais est principalement menacé car il a été exterminé pendant le XX<sup>e</sup> siècle, le déboisement réduit son habitat, il est souvent victime de pièges destinés à d'autres gibiers et enfin, il a souvent été chassé pour ses organes aux vertus soit-disant aphrodisiaques.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Oursmalais.jpg",
     "alt": "Aire de répartition de l'ours malais",
     "title": "Aire de répartition de l'ours malais"
   },
-  "sources": []
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Ours_malais",
+    "https://www.iucnredlist.org/species/9760/123798233",
+    "https://espace-zoologique.com/mammiferes/ours-malais.html"
+  ]
 }

@@ -25,11 +25,15 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "2-4"
   },
-  "description": "Description à venir...",
+  "description": "Il est reconnaissable grâce à ses longues pattes (les plus longues de tous les félins en proportion), sa tête élancée et ses grandes et larges oreilles arrondies.<br/> Il peut faire des bonds de 4 m de long et de plus d'1 m de haut. Il a presque un taux de réussite à la chasse de 50% alors que les autres félins sont plutôt autour de 10%.<br/> Le serval étant relativement petit et assez amical, il y a eu plusieurs essais de domestication et de croisement avec le <a href=\"/mammiferes/chat\">chat domestique</a>, ce croisement étant à l'origine de la race Savannah. Cependant, dans ces croisements, le chat domestique est souvent blessé voire tué et les descendants directs ont encore souvent des instincts sauvages, cette pratique est donc à bannir.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Serval.jpg",
     "alt": "Aire de répartition du serval",
     "title": "Aire de répartition du serval"
   },
-  "sources": []
+  "sources": [
+    "https://www.safari-peaugres.com/les-animaux/serval",
+    "https://www.iucnredlist.org/species/11638/156536762",
+    "https://fr.wikipedia.org/wiki/Serval"
+  ]
 }

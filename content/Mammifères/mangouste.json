@@ -25,11 +25,16 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "2-6"
   },
-  "description": "Description à venir...",
+  "description": "Elle est également appelée \"mangue rayée\" ou \"mangouste zèbre\", elle tient son nom des fines bandes qui ornent sa fourrure.<br/> La mangouste rayée est un animal très social qui vit en groupe pouvant aller jusqu'à 70 individus et où tous les individus participent à l'élevage des petits.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Mangouste.jpg",
     "alt": "Aire de répartition de la mangouste rayée",
     "title": "Aire de répartition de la mangouste rayée"
   },
-  "sources": []
+  "sources": [
+    "https://www.iucnredlist.org/species/41621/45208886",
+    "https://www.safari-peaugres.com/les-animaux/mangouste-rayee",
+    "https://fr.wikipedia.org/wiki/Mangouste_ray%C3%A9e",
+    "https://en.wikipedia.org/wiki/Banded_mongoose"
+  ]
 }

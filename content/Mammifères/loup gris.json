@@ -25,11 +25,16 @@
     "Reproduction": "Janvier-Mars",
     "Taille portée": "2-6"
   },
-  "description": "Description à venir...",
+  "description": "Il est aussi appelé \"loup eurasien\", \"loup européen\", \"loup des Carpates\", \"loup des steppes\" ou encore \"loup de Chine\".<br/> Le loup vit en meute avec une hiérarchie très stricte dictée par le couple dominant (ou \"alpha\") qui est le seul a pouvoir se reproduire.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Loupgris.jpg",
     "alt": "Aire de répartition du loup gris commun",
     "title": "Aire de répartition du loup gris commun"
   },
-  "sources": []
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Loup_gris_commun",
+    "https://www.safari-peaugres.com/les-animaux/loup",
+    "https://www.iucnredlist.org/species/3746/163508960",
+    "https://fr.wikipedia.org/wiki/Canis_lupus"
+  ]
 }

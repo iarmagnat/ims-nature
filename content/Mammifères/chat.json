@@ -25,11 +25,14 @@
     "Reproduction": "Printemps-Automne",
     "Taille portée": "4-6"
   },
-  "description": "Description à venir...",
+  "description": "La photographie ci-dessus montre une femelle de \"race\" européenne. Il s'agit de notre chat, Asuna, âgée de 5 ans sur cette photographie.<br/> Le chat domestique est une sous-espèce du chat sauvage, les premières domestications ayant probablement eu lieu il y a 8 000 à 10 000 ans.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Chat.jpg",
     "alt": "Aire de répartition du chat domestique",
     "title": "Aire de répartition du chat domestique"
   },
-  "sources": []
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Chat",
+    "https://fr.wikipedia.org/wiki/Felis_silvestris"
+  ]
 }

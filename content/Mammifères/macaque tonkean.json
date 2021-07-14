@@ -25,11 +25,15 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1"
   },
-  "description": "Description à venir...",
+  "description": "Le dimorphisme sexuel est très marqué et visible, notamment au niveau des canines qui sont très développées chez le mâle. De plus, en période de chaleurs, les femelles présentent un gonflement de la zone périnéale (qui est rose vif) ainsi que deux bosses au dessus des hanches.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Macaquetonkean.jpg",
     "alt": "Aire de répartition du macaque de Tonkéan",
     "title": "Aire de répartition du macaque de Tonkéan"
   },
-  "sources": []
+  "sources": [
+    "https://espace-zoologique.com/mammiferes/macaque-tonkean.html",
+    "https://www.iucnredlist.org/species/12563/17947990",
+    "https://fr.wikipedia.org/wiki/Macaque_de_Tonkean"
+  ]
 }

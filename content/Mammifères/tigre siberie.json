@@ -25,11 +25,16 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1-4"
   },
-  "description": "Description à venir...",
+  "description": "Il est également appelé \"tigre de l'Amour\".<br/> Le tigre de Sibérie est la plus grande sous-espèce de tigre (pouvant peser jusqu'à 350 kg) et il est le troisième plus gros prédateur terrestre après l'ours kodiak et l'ours polaire.<br/> La chasse du tigre pour sa fourrure, ses organes ou ses os à qui on attribue des vertus curatives miraculeuses a mené le tigre au bord de l'extinction. En 1996, le tigre de Sibérie est classé \"en danger critique d'extinction\" par l'UICN mais grâce à différentes mesures de conservation, ce statut a été révisé en 2010 pour passer à \"en danger\". C'est encourageant mais le tigre de Sibérie fait toujours partie des 100 espèces les plus ménacées avec seulement 562 individus sauvages recensés en 2015.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Tigresibérie.jpg",
     "alt": "Aire de répartition du tigre de Sibérie",
     "title": "Aire de répartition du tigre de Sibérie"
   },
-  "sources": []
+  "sources": [
+    "https://www.iucnredlist.org/species/15955/50659951",
+    "https://www.safari-peaugres.com/les-animaux/tigre-de-siberie",
+    "https://fr.wikipedia.org/wiki/Tigre_de_Sib%C3%A9rie",
+    "https://www.iucnredlist.org/species/15956/5333650"
+  ]
 }

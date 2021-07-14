@@ -25,11 +25,16 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1"
   },
-  "description": "Description à venir...",
+  "description": "Il est aussi appelé \"cercocèbe aux joues grises\", \"mangabey à joues blanches\" ou plus récemment \"lophocèbe à joues grises\".<br/> Il vit en groupe composé d'un mâle dominant et de plusieurs femelles, qui sont les seules à s'occuper des petits.<br/> Ils sont chassés pour leur viande et par les agriculteurs lorsqu'ils pillent les cultures.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Mangabey.jpg",
     "alt": "Aire de répartition du mangabey à joues grises",
     "title": "Aire de répartition du mangabey à joues grises"
   },
-  "sources": []
+  "sources": [
+    "https://www.iucnredlist.org/species/12309/166607033",
+    "https://espace-zoologique.com/mammiferes/mangabey-joues-grises.html",
+    "https://fr.wikipedia.org/wiki/Mangabey_%C3%A0_joues_blanches",
+    "https://www.neprimateconservancy.org/gray-cheeked-mangabey.html"
+  ]
 }

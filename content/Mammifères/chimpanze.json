@@ -25,11 +25,16 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1"
   },
-  "description": "Description à venir...",
+  "description": "Il est aussi appelé \"chimpanzé commun\".<br/> Comme chez l'Homme, chaque individu a ses propres empreintes digitales.<br/> Il est, avec le bonobo, l'espèce la plus proche de l'Homme.<br/> Les menaces qui pèsent sur le chimpanzé sont principalement la destruction d'habitat et le braconnage pour la viande ou pour la capture de petits (qui passe souvent par la mise à mort des adultes) pour servir d'animaux de compagnie. On estime que 90% de la population de chimpanzés a disparu depuis les 50 dernières années.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Chimpanzé.jpg",
     "alt": "Aire de répartition du chimpanzé",
     "title": "Aire de répartition du chimpanzé"
   },
-  "sources": []
+  "sources": [
+    "https://www.neprimateconservancy.org/common-chimpanzee.html",
+    "https://espace-zoologique.com/mammiferes/chimpanze.html",
+    "https://www.iucnredlist.org/species/15933/129038584",
+    "https://fr.wikipedia.org/wiki/Pan_troglodytes"
+  ]
 }

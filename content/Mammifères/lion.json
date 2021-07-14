@@ -25,11 +25,15 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1-4"
   },
-  "description": "Description à venir...",
+  "description": "La photographie ci-dessus montre un couple de lions adultes.<br/> Il s'agit de l'un des félins les plus emblématiques, le mâle étant facilement reconnaissable à sa crinière imposante (ce qui lui a valu son surnom de \"roi des animaux\"). Il est également le seul félin vivant en groupe.<br/> Il est le deuxième plus grand félidé, après le <a href=\"/mammiferes/tigre-siberie\">tigre</a>, et il est le plus grand carnivore d'Afrique.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Lion.jpg",
     "alt": "Aire de répartition du lion",
     "title": "Aire de répartition du lion"
   },
-  "sources": []
+  "sources": [
+    "https://www.iucnredlist.org/species/15951/115130419",
+    "https://www.safari-peaugres.com/les-animaux/lion",
+    "https://fr.wikipedia.org/wiki/Lion"
+  ]
 }

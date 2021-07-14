@@ -25,11 +25,15 @@
     "Reproduction": "Janvier-Mars",
     "Taille portée": "1-4"
   },
-  "description": "Description à venir...",
+  "description": "Elle est également appelée \"léopard des neiges\", \"once\" ou \"ibris\".<br/> Elle est facilement reconnaissable par son aspect \"trapu\" avec ses courtes pattes, ses pieds larges et sa longue queue faisant quasiment la moitié de sa longueur totale. Cette queue joue un rôle de balancier pour maintenir l'équilibre dans des milieux escarpés et c'est également une protection contre le froid puisque la panthère des neiges l'enroule autour d'elle pour dormir.<br/> Les effectifs sauvages sont estimés entre 4 500 et 8 700 individus mais cela risque de baisser davantage puisqu'elle est encore braconnée pour sa fourrure et ses os et qu'elle est souvent tuée lorsqu'elle attaque des animaux domestiques.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Panthèreneiges.jpg",
     "alt": "Aire de répartition de la panthère des neiges",
     "title": "Aire de répartition de la panthère des neiges"
   },
-  "sources": []
+  "sources": [
+    "https://www.iucnredlist.org/species/22732/50664030",
+    "https://espace-zoologique.com/mammiferes/panthere-neiges.html",
+    "https://fr.wikipedia.org/wiki/Panth%C3%A8re_des_neiges"
+  ]
 }

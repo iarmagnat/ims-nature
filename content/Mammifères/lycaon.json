@@ -25,11 +25,16 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "6-12"
   },
-  "description": "Description à venir...",
+  "description": "Il est aussi appelée \"loup peint\" ou \"chien sauvage d'Afrique\".<br/> Il est le seul canidé à ne posséder que 4 doigts à chaque patte. Ses oreilles sont grandes, rondes et munies de poils qui empêchent les parasites et les insectes de rentrer.<br/> Souvent accusé d'être un animal cruel et impitoyable tuant pour le plaisir, le lycaon a été jusqu'à récemment traqué et exterminé. De plus, en raison du développmement du réseau routier et des clôtures autour des enclos d'élevage et des champs cultivés, son territoire est devenu de plus en plus fractionné ce qui, à terme, pose un gros problème de consanguinité. Les effectifs de lycaons sont passés de 500 000 individus au début du XX<sup>e</sup> siècle à moins de 3 000 aujourd'hui.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Lycaon.jpg",
     "alt": "Aire de répartition du lycaon",
     "title": "Aire de répartition du lycaon"
   },
-  "sources": []
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Lycaon_(animal)",
+    "https://www.iucnredlist.org/species/12436/166502262",
+    "https://www.safari-peaugres.com/les-animaux/lycaon",
+    "https://www.futura-sciences.com/planete/definitions/zoologie-lycaon-8387/"
+  ]
 }

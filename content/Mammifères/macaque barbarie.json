@@ -25,11 +25,15 @@
     "Reproduction": "Novembre",
     "Taille portée": "1"
   },
-  "description": "Description à venir...",
+  "description": "Il est aussi appelé \"magot\" ou \"macaque berbère\". Il est le seul macaque vivant en Afrique.<br/> Ses doigts et queue courts et son pelage épais sont une adaptation à l'environnement montagnard dans lequel il vit.<br/> Les mâles sont plus gros que les femelles (17 kg contre 13 kg). Contrairement à beaucoup de primates, le mâle interagit fréquemment avec les petits et ces derniers servent bien souvent de médiation sociale, permettant de calmer les tensions entre mâles.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Macaquebarbarie.jpg",
     "alt": "Aire de répartition du macaque de Barbarie",
     "title": "Aire de répartition du macaque de Barbarie"
   },
-  "sources": []
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Macaque_de_Barbarie",
+    "https://www.iucnredlist.org/species/12561/50043570",
+    "https://espace-zoologique.com/mammiferes/magot.html"
+  ]
 }

@@ -25,11 +25,16 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1"
   },
-  "description": "Description à venir...",
+  "description": "La photographie ci-dessus montre une femelle adulte.<br/> Il est aussi appelé simplement \"hamadryas\".<br/> Le dimorphisme sexuel est très marqué : les mâles pèsent environ 20 kg et ils ont un manteau de poils longs et clairs alors que les femelles sont plus petites (environ 12 kg) et leur poil est brun et court.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Babouin.jpg",
     "alt": "Aire de répartition du babouin hamadryas",
     "title": "Aire de répartition du babouin hamadryas"
   },
-  "sources": []
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Babouin_hamadryas",
+    "https://www.iucnredlist.org/species/16019/17953082",
+    "https://espace-zoologique.com/mammiferes/babouin-hamadryas.html",
+    "https://en.wikipedia.org/wiki/Hamadryas_baboon"
+  ]
 }
