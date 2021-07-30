@@ -1,0 +1,40 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Tamarin bicolore",
+  "name": "Saguinus bicolor",
+  "image": {
+    "src": "media/Photos site/Mammifères/Tamarinbicolore.JPG",
+    "alt": "Un tamarin bicolore",
+    "title": "Un tamarin bicolore"
+  },
+  "iucn": "cr",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
+    "Ordre": "Primates",
+    "Famille": "Cebidae",
+    "Genre": "Saguinus",
+    "Espèce": "Saguinus bicolor"
+  },
+  "page_content": {
+    "Répartition": "Brésil",
+    "Habitat": "Forêts",
+    "Reproduction": "Toute l'année",
+    "Taille portée": "1"
+  },
+  "description": "Son nom lui vient de son pelage : blanc du cou à la moitié du corps puis brun jusqu'à la queue. Les petis naissent avec un pelage blanc sur la tête qu'ils perdent en grandissant.<br/> Ses doigts se terminent par des griffes, sauf les pouces qui ont des ongles.<br/> De nombreuses menaces pèsent sur le tamarin bicolore avec notamment la destruction des forêts, le braconnage et dans les zones urbaines le trafic routier, les électrocutions et les attaques d'animaux domestiques. Depuis 2018 cette espèce fait partie des 25 espèces de primates les plus menacées.",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Tamarinbicolore.jpg",
+    "alt": "Aire de répartition du tamarin bicolore",
+    "title": "Aire de répartition du tamarin bicolore"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Tamarin_bicolore",
+    "https://www.iucnredlist.org/species/40644/192551696",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_mammiferes/tamarin_bicolor/",
+    "https://animaldiversity.org/accounts/Saguinus_bicolor/"
+  ]
+}

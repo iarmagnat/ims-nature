@@ -1,0 +1,39 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Gibbon à favoris blancs du Nord",
+  "name": "Nomascus leucogenys",
+  "image": {
+    "src": "media/Photos site/Mammifères/Gibbonfavorisblancs.JPG",
+    "alt": "Un gibbon à favoris blancs du Nord",
+    "title": "Un gibbon à favoris blancs du Nord"
+  },
+  "iucn": "cr",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
+    "Ordre": "Primates",
+    "Famille": "Hylobatidae",
+    "Genre": "Nomascus",
+    "Espèce": "Nomascus leucogenys"
+  },
+  "page_content": {
+    "Répartition": "Vietnam/Laos/Chine",
+    "Habitat": "Forêts",
+    "Reproduction": "Toute l’année",
+    "Taille portée": "1"
+  },
+  "description": "La photographie ci-dessus représente une femelle adulte.<br/> Il est simple de distinguer les adultes mâles et femelles, en effet les mâles ont un pelage noir alors que celui des femelles est blond. Cependant, les gibbons à favoris blancs du Nord naissent tous avec un pelage blond et ils vont changer de couleur vers 1 an et tous devenir noirs. Les femelles reprendront leur pelage blond entre 5 et 7 ans, à leur majorité sexuelle.<br/> Il est aussi appelé \"gibbon à joues pâles\" ou \"gibbon à joues blanches\".<br/> La déforestation et le braconnage sont les menaces principales qui pèsent sur cette espèce.",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Gibbonfavoris.jpg",
+    "alt": "Aire de répartition du gibbon à favoris blancs du Nord",
+    "title": "Aire de répartition du gibbon à favoris blancs du Nord"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Gibbon_%C3%A0_favoris_blancs_du_Nord",
+    "https://www.iucnredlist.org/species/39895/180816530",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_mammiferes/gibbons_favoris_blan/"
+  ]
+}

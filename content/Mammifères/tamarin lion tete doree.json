@@ -1,0 +1,40 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Tamarin lion à tête dorée",
+  "name": "Leontopithecus chrysomelas",
+  "image": {
+    "src": "media/Photos site/Mammifères/Tamarinliontetedorée.JPG",
+    "alt": "Un tamarin lion à tête dorée",
+    "title": "Un tamarin lion à tête dorée"
+  },
+  "iucn": "en",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
+    "Ordre": "Primates",
+    "Famille": "Callitrichidae",
+    "Genre": "Leontopithecus",
+    "Espèce": "Leontopithecus chrysomelas"
+  },
+  "page_content": {
+    "Répartition": "Brésil",
+    "Habitat": "Forêts",
+    "Reproduction": "Septembre-Mars",
+    "Taille portée": "1-2"
+  },
+  "description": "Il est également appelé \"singe lion à tête dorée\".<br/> Il s'agit de l'espèce la plus massive de cette famille. Ce singe possède une fourrure noire sauf la crinière, les avant-bras, les pieds, les mains et la face supérieure de la première moitié de la queue qui sont de couleur dorée.<br/> Ce primate est menacé par la déforestation, les activités humaines, les feux et la chasse. Sa disparition est aussi liée aux difficultés rencontrées par l'industrie du cacao, en effet les cacaoyers sont un lieu de vie agréable pour cette espèce.",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Tamarinliontetedorée.jpg",
+    "alt": "Aire de répartition du tamarin lion à tête dorée",
+    "title": "Aire de répartition du tamarin lion à tête dorée"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Tamarin-lion_%C3%A0_t%C3%AAte_dor%C3%A9e",
+    "https://www.iucnredlist.org/species/40643/192327573",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_mammiferes/tamarin_lion/",
+    "https://animaldiversity.org/accounts/Leontopithecus_chrysomelas/"
+  ]
+}

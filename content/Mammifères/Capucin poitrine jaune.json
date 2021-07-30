@@ -1,0 +1,39 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Capucin à poitrine jaune",
+  "name": "Sapajus xanthosternos",
+  "image": {
+    "src": "media/Photos site/Mammifères/Capucinjaune.JPG",
+    "alt": "Un capucin à poitrine jaune",
+    "title": "Un capucin à poitrine jaune"
+  },
+  "iucn": "cr",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
+    "Ordre": "Primates",
+    "Famille": "Cebidae",
+    "Genre": "Sapajus",
+    "Espèce": "Sapajus xanthosternos"
+  },
+  "page_content": {
+    "Répartition": "Brésil",
+    "Habitat": "Forêts",
+    "Reproduction": "Toute l’année",
+    "Taille portée": "1"
+  },
+  "description": "Il est aussi appelé \"sapajou à poitrine jaune\".<br/> La déforestation ainsi que le braconnage pour le trafic d'animaux et pour sa viande ont placé le capucin à poitrine jaune parmi les 25 espèces de primates les plus menacées. Seulement quelques centaines d'individus survivraient encore dans la nature.",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Capucinjaune.jpg",
+    "alt": "Aire de répartition du capucin à poitrine jaune",
+    "title": "Aire de répartition du capucin à poitrine jaune"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Sapajus_xanthosternos",
+    "https://www.iucnredlist.org/species/4074/192592138",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_mammiferes/capucin_poitrine_jau/"
+  ]
+}
