@@ -25,7 +25,7 @@
     "Habitat": "Marécages, lacs, parcs",
     "Chant": "Cris brefs"
   },
-  "description": "Elle est appelée le plus souvent simplement \"poule d'eau\".<br/> Elle se reconnait facilement grâce à son bec rouge à l'extrémité jaune.<br/> On peut la confondre avec la foulque macroule, mais cette dernière a le bec blanc et non rouge.",
+  "description": "Elle est appelée le plus souvent simplement \"poule d'eau\".<br/> Elle se reconnait facilement grâce à son bec rouge à l'extrémité jaune.<br/> On peut la confondre avec la <a href=\"/oiseaux/foulque-macroule\">foulque macroule</a>, mais cette dernière a le bec blanc et non rouge.",
   "sound": {
     "src": "media/Chants oiseaux/Pouleeau.ogg"
   },

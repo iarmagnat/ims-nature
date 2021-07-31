@@ -1,0 +1,43 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Inséparable à joues noires",
+  "name": "Agapornis nigrigenis",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Inséparablejouesnoires.JPG",
+    "alt": "Un inséparable à joues noires",
+    "title": "Un inséparable à joues noires"
+  },
+  "iucn": "vu",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Psittaciformes",
+    "Famille": "Psittacidae",
+    "Genre": "Agapornis",
+    "Espèce": "Agapornis nigrigenis"
+  },
+  "page_content": {
+    "Ponte": "Saison des pluies",
+    "Répartition": "Zambie",
+    "Habitat": "Forêts, zones humides",
+    "Chant": "Kwii/Kikiki/Kii"
+  },
+  "description": "Cette espèce est proche de l'inséparable masqué.<br/> Cette espèce est très dépendante de l'eau, il n'est donc pas rare de voir, lors de la saison sèche, des regroupements de plus de 800 individus autour des derniers trous d'eau.<br/> C'est notamment cette dépendance à l'eau qui menace cette espèce. En effet, dans son habitat naturel les ressources en eau diminuent. De plus, les ressources alimentaires diminuent également puisque les cultures de sorgho et de millet (dont l'espèce se nourrit) ont été progressivement remplacées par du mäis. Enfin, elle est également victime de sa popularité et de nombreux individus ont été prélevés en milieu naturel pour servir d'animaux de compagnie.",
+  "sound": {
+    "src": "media/Chants oiseaux/Inséparablejouesnoires.mp3"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Inséparablejouesnoires.jpg",
+    "alt": "Aire de répartition de l'inséparable à joues noires",
+    "title": "Aire de répartition de l'inséparable à joues noires"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Ins%C3%A9parable_%C3%A0_joues_noires",
+    "https://www.iucnredlist.org/species/22685360/93069915",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_oiseaux/my_flexible9070/",
+    "https://www.xeno-canto.org/contributor/IIJAXHKSCC"
+  ]
+}

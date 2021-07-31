@@ -1,0 +1,43 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Foulque macroule",
+  "name": "Fulica atra",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Foulquemacroule.JPG",
+    "alt": "Une foulque macroule",
+    "title": "Une foulque macroule"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Gruiformes",
+    "Famille": "Rallidae",
+    "Genre": "Fulica",
+    "Espèce": "Fulica atra"
+  },
+  "page_content": {
+    "Ponte": "Mars-Juin",
+    "Répartition": "Eurasie/Nord Afrique/Océanie",
+    "Habitat": "Lacs, étangs, étendues d’eau",
+    "Chant": "Tjek/Kjek/Pjit"
+  },
+  "description": "Elle est souvent confondue avec la <a href=\"/oiseaux/poule-deau\">gallinule poule d'eau</a>. Cependant, la foulque macroule possède des pattes verdâtres aux longs doigts partiellement palmés, un bec et un \"écusson\" frontal blancs ainsi que des yeux rouges.<br/> La foulque macroule n'est pas menacée en raison de ses grandes facultées d'adaptation mais la destruction ou la modification des marais et étangs pourraient devenir un problème à long terme.",
+  "sound": {
+    "src": "media/Chants oiseaux/Foulquemacroule.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Foulquemacroule.jpg",
+    "alt": "Aire de répartition de la foulque macroule",
+    "title": "Aire de répartition de la foulque macroule"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Foulque_macroule",
+    "https://www.iucnredlist.org/species/22692913/154269531",
+    "https://www.oiseaux.net/oiseaux/foulque.macroule.html",
+    "https://www.xeno-canto.org/contributor/RNMRWBXEZJ"
+  ]
+}

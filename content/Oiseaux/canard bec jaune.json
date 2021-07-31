@@ -1,0 +1,44 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Canard à bec jaune",
+  "name": "Anas undulata",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Canardbecjaune.JPG",
+    "alt": "Un canard à bec jaune",
+    "title": "Un canard à bec jaune"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Anseriformes",
+    "Famille": "Anatidae",
+    "Genre": "Anas",
+    "Espèce": "Anas undulata"
+  },
+  "page_content": {
+    "Ponte": "Saison des pluies",
+    "Répartition": "Sud Afrique",
+    "Habitat": "Zones humides",
+    "Chant": "Coin coin"
+  },
+  "description": "Le canard à bec jaune est facilement reconnaissable grâce à... son bec jaune !<br/> Cette espèce vit dans des cours d'eau lents, elle ne supporte pas les eaux trop rapides ni trop acides alors qu'elle peut supporter des eaux très basiques jusqu'à un pH de 10. Ce n'est pas une espèce migratrice mais elle se déplace en fonction de la saison des pluies pour trouver des eaux propices à son développement.<br/> La chasse est une des causes principales de décès pour le canard à bec jaune mais cette dernière est règlementée et donc normalement cela ne met pas l'espèce en danger.",
+  "sound": {
+    "src": "media/Chants oiseaux/Canardbecjaune.mp3"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Canardbecjaune.jpg",
+    "alt": "Aire de répartition du canard à bec jaune",
+    "title": "Aire de répartition du canard à bec jaune"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Canard_%C3%A0_bec_jaune",
+    "https://www.iucnredlist.org/species/22680221/92850226",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_oiseaux/le_canard_a_bec_jaun/",
+    "https://www.oiseaux.net/oiseaux/canard.a.bec.jaune.html",
+    "https://www.xeno-canto.org/contributor/GQMCPIVNXX"
+  ]
+}

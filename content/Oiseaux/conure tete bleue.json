@@ -1,0 +1,45 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Conure à tête bleue",
+  "name": "Thectocercus acuticaudatus",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Conuretêtebleue.JPG",
+    "alt": "Une conure à tête bleue",
+    "title": "Une conure à tête bleue"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Psittaciformes",
+    "Famille": "Psittacidae",
+    "Genre": "Thectocercus",
+    "Espèce": "Thectocercus acuticaudatus"
+  },
+  "page_content": {
+    "Ponte": "Avril-Mai",
+    "Répartition": "Sud Amérique",
+    "Habitat": "Forêts, savanes",
+    "Chant": "Kwii/Kaa kaaa"
+  },
+  "description": "On la trouve aussi sous le nom scientifique <em>Psittacara acuticaudatus</em>.<br/> Certains groupes de conures à tête bleue ont pris l'habitude de s'attaquer aux cultures de sorgho et de maïs et ils sont donc vus comme une calamité en Argentine.<br/> Une légère diminution des populations de conures à tête bleue est due au commerce illégal d'animaux sauvages. Bien que pour le moment ce commerce ne mette pas en danger l'espèce, c'est un problème important à prendre en compte.",
+  "sound": {
+    "src": "media/Chants oiseaux/Conuretêtebleue.mp3"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Conuretêtebleue.jpg",
+    "alt": "Aire de répartition de la conure à tête bleue",
+    "title": "Aire de répartition de la conure à tête bleue"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Conure_%C3%A0_t%C3%AAte_bleue",
+    "https://www.iucnredlist.org/species/22685648/132058639",
+    "https://www.oiseaux-mania.com/magazine/les-especes/oiseaux-americains/conure-a-tete-bleue-24/",
+    "https://www.oiseaux.net/oiseaux/conure.a.tete.bleue.html",
+    "https://www.xeno-canto.org/contributor/RRWZBOEAFY",
+    "https://species.wikimedia.org/wiki/Thectocercus_acuticaudatus"
+  ]
+}

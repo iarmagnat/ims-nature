@@ -1,0 +1,44 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Rougequeue noir",
+  "name": "Phoenicurus ochruros",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Rougequeuenoir.JPG",
+    "alt": "Un rougequeue noir",
+    "title": "Un rougequeue noir"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Passeriformes",
+    "Famille": "Muscicapidae",
+    "Genre": "Phoenicurus",
+    "Espèce": "Phoenicurus ochruros"
+  },
+  "page_content": {
+    "Ponte": "Mars-Mais/Juin-Juillet",
+    "Répartition": "Eurasie/Nord Afrique",
+    "Habitat": "Falaises, zones rocheuses, constructions humaines",
+    "Chant": "Tu tu tu tu tu/Sit/Tec"
+  },
+  "description": "La photographie ci-dessus montre une femelle adulte en train de couver.<br/> Il est aussi appelé \"rossignol des murailles\" ou \"queue rousse\".<br/> Le mâle a le plumage gris-noirâtre, le dessus de sa tête est gris, il a une tache blanche sur l'aile, sa queue est orange brique et son bec, ses yeux et ses pattes sont noirs. La femelle est plus terne que le mâle avec un plumage gris-brun uniforme, seules les plumes sous-caudale de sa queue sont rousses.<br/> Bien que le rougequeue noir ne soit pas considéré comme en danger, en France il bénéficie d'une protection totale depuis 1981.",
+  "sound": {
+    "src": "media/Chants oiseaux/Rougequeuenoir.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Rougequeuenoir.jpg",
+    "alt": "Aire de répartition du rougequeue noir",
+    "title": "Aire de répartition du rougequeue noir"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Black_redstart",
+    "https://fr.wikipedia.org/wiki/Rougequeue_noir",
+    "https://www.oiseaux.net/oiseaux/rougequeue.noir.html",
+    "https://www.iucnredlist.org/species/22710051/155610899",
+    "https://www.oisillon.net/oiseau/78-rougequeue-noir"
+  ]
+}

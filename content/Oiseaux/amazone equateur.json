@@ -1,0 +1,43 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Amazone d'Equateur",
+  "name": "Amazona lilacina",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Amazoneequateur.JPG",
+    "alt": "Une amazone d'Equateur",
+    "title": "Une amazone d'Equateur"
+  },
+  "iucn": "cr",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Psittaciformes",
+    "Famille": "Psittacidae",
+    "Genre": "Amazona",
+    "Espèce": "Amazona lilacina"
+  },
+  "page_content": {
+    "Ponte": "Janvvier-Mars",
+    "Répartition": "Equateur",
+    "Habitat": "Forêts, mangroves",
+    "Chant": "Kiaa kia kiaa"
+  },
+  "description": "Selon les sources, elle est toujours considérée comme une sous-espèce de l'amazone à lores rouges. Elle se distingue néanmoins des autres amazones par sa tache violette sur le haut de sa tête et par ses joues jaunes.<br/> Cette espèce vit dans deux ecosystèmes en danger : elle passe la nuit perchée sur les mangroves et la journée dans les forêts tropicales sèches. La déforestation ainsi que le commerce illégal d'animaux de compagnie ont grandement participé au déclin de cette espèce.",
+  "sound": {
+    "src": "media/Chants oiseaux/Amazoneequateur.mp3"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Amazoneequateur.jpg",
+    "alt": "Aire de répartition de l'amazone d'Equateur",
+    "title": "Aire de répartition de l'amazone d'Equateur"
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lilacine_amazon",
+    "https://www.iucnredlist.org/species/22728296/181432250",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_oiseaux/les_oiseaux/my_flexible5713/",
+    "https://www.xeno-canto.org/contributor/JPBSNBUUEF"
+  ]
+}

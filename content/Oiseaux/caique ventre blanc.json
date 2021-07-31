@@ -1,0 +1,45 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Caïque à ventre blanc",
+  "name": "Pionites leucogaster",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Caïqueventreblanc.JPG",
+    "alt": "Un caïque à ventre blanc",
+    "title": "Un caïque à ventre blanc"
+  },
+  "iucn": "en",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Psittaciformes",
+    "Famille": "Psittacidae",
+    "Genre": "Pionites",
+    "Espèce": "Pionites leucogaster"
+  },
+  "page_content": {
+    "Ponte": "Octobre-Avril",
+    "Répartition": "Brésil",
+    "Habitat": "Forêts",
+    "Chant": "Trii tii tii tii"
+  },
+  "description": "Il y a assez peu de données disponibles sur cette espèce et son mode de vie dans la nature, notamment sur l'élevage des jeunes puisque les sites de nidifications peuvent être situés à plus de 30 m de haut !<br/> La déforestation de la forêt tropicale dans le bassin de l'Amazone est la cause principale du déclin de cette espèce. On estime qu'en 24 ans la population de caïques à ventre blanc a diminué de 30 à 40 %. Cette espèce semble mal s'adapter aux forêts secondaires et aux prairies, ce qui complexifie la recolonisation de ses anciennes aires de répartition.",
+  "sound": {
+    "src": "media/Chants oiseaux/Caïqueventreblanc.mp3"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Caïqueventreblanc.jpg",
+    "alt": "Aire de répartition du caïque à ventre blanc",
+    "title": "Aire de répartition du caïque à ventre blanc"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Ca%C3%AFque_%C3%A0_ventre_blanc",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_oiseaux/my_flexible8369/",
+    "https://www.iucnredlist.org/species/62181308/95191855",
+    "https://animaldiversity.org/accounts/Pionites_leucogaster/",
+    "https://www.oiseaux.net/oiseaux/caique.a.ventre.blanc.html",
+    "https://www.xeno-canto.org/contributor/EZSMXGTXKS"
+  ]
+}
