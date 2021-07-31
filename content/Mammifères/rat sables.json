@@ -1,0 +1,40 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Rat des sables",
+  "name": "Psammomys obesus",
+  "image": {
+    "src": "media/Photos site/Mammifères/Ratsable.JPG",
+    "alt": "Un rat des sables",
+    "title": "Un rat des sables"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
+    "Ordre": "Rodentia",
+    "Famille": "Muridae",
+    "Genre": "Psammomys",
+    "Espèce": "Psammomys obesus"
+  },
+  "page_content": {
+    "Répartition": "Nord Afrique",
+    "Habitat": "Déserts",
+    "Reproduction": "Décembre-Avril",
+    "Taille portée": "1-7"
+  },
+  "description": "Il est également appelé \"rat des sables diurnes\", \"gros rat du sable\" ou \"Psammomys obèse\".<br/> Sa silhouette est caractéristique : des petites oreilles rondes et une queue qui se termine par une touffe de poils noirs. Il boit très peu, les feuilles des plantes grasses qu'il mange lui assurent de ne pas manquer d'eau.<br/> Du fait de son fort taux de reproduction, il n'est pour le moment pas menacé par les activités humaines, il est même considéré comme un nuisible dans certaines régions.",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Ratsable.jpg",
+    "alt": "Aire de répartition du rat des sables",
+    "title": "Aire de répartition du rat des sables"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Psammomys_obesus",
+    "https://www.iucnredlist.org/species/18418/115143282",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_mammiferes/my_flexible7130/",
+    "https://animaldiversity.org/accounts/Psammomys_obesus/"
+  ]
+}

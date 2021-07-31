@@ -1,0 +1,40 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Vari noir et blanc",
+  "name": "Varecia variegata",
+  "image": {
+    "src": "media/Photos site/Mammifères/Varinoiretblanc.JPG",
+    "alt": "Un vari noir et blanc",
+    "title": "Un vari noir et blanc"
+  },
+  "iucn": "cr",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
+    "Ordre": "Primates",
+    "Famille": "Lemuridae",
+    "Genre": "Varecia",
+    "Espèce": "Varecia variegata"
+  },
+  "page_content": {
+    "Répartition": "Madagascar",
+    "Habitat": "Forêts tropicales humides",
+    "Reproduction": "Automne-Hiver",
+    "Taille portée": "1-3"
+  },
+  "description": "Il est aussi appelé \"maki noir et blanc\", \"maki vari noir et blanc\" ou encore \"varika\".<br/> Son allure est la même que celle du <a href=\"/mammiferes/vari-roux\">vari roux</a>, il s'en distingue cependant par ses couleurs.<br/> Il est intéressant de noter que c'est la femelle qui domine le groupe. Même s'ils sont tous noirs et blancs, aucun individu n'est identique et d'ailleurs les populations du Nord possèdent le dos noir alors que celles du Sud ont un dos blanc.<br/> Comme pour toutes les espèces de lémuriens, la déforestation massive à Madagascar est l'une des menaces principales qui pèsent sur le vari noir et blanc. On estime que cette espèce a perdu 80% de son effectif en 21 ans.",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Varinoiretblanc.jpg",
+    "alt": "Aire de répartition du vari noir et blanc",
+    "title": "Aire de répartition du vari noir et blanc"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Varecia_variegata",
+    "https://www.iucnredlist.org/species/22918/115574178",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_mammiferes/le_vari_blanc_et_noi/",
+    "https://animaldiversity.org/accounts/Varecia_variegata/"
+  ]
+}

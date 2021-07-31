@@ -1,0 +1,40 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Cercopithèque de l’Hoest",
+  "name": "Allochrocebus lhoesti",
+  "image": {
+    "src": "media/Photos site/Mammifères/Cercopithèquehoest.JPG",
+    "alt": "Un cercopithèque de l’Hoest",
+    "title": "Un cercopithèque de l’Hoest"
+  },
+  "iucn": "vu",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
+    "Ordre": "Primates",
+    "Famille": "Cercopithecidae",
+    "Genre": "Allochrocebus",
+    "Espèce": "Allochrocebus lhoesti"
+  },
+  "page_content": {
+    "Répartition": "Centre Afrique",
+    "Habitat": "Forêts",
+    "Reproduction": "Novembre-Juin",
+    "Taille portée": "1"
+  },
+  "description": "Les jeunes ont une queue semi préhensible permettant de supporter leur poids, ils perdent cependant cette capacité en grandissant. C'est un fait peu commun chez les primates de \"l'Ancien Monde\" (Afrique & Asie).<br/> Les activités humaines comme la déforestation, le braconnage ou orpaillage sont des menaces pour cette espèce. Les braconniers les revendent notamment comme viande de brousse.",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Cercopithèquehoest.jpg",
+    "alt": "Aire de répartition du cercopithèque de l’Hoest",
+    "title": "Aire de répartition du cercopithèque de l’Hoest"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Cercopith%C3%A8que_de_l%27H%C5%93st",
+    "https://www.iucnredlist.org/species/4220/92345122",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_mammiferes/lecercopitheque/",
+    "https://animaldiversity.org/accounts/Cercopithecus_lhoesti/"
+  ]
+}

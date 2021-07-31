@@ -1,0 +1,40 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Vari roux",
+  "name": "Varecia rubra",
+  "image": {
+    "src": "media/Photos site/Mammifères/Variroux.JPG",
+    "alt": "Un vari roux",
+    "title": "Un vari roux"
+  },
+  "iucn": "cr",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
+    "Ordre": "Primates",
+    "Famille": "Lemuridae",
+    "Genre": "Varecia",
+    "Espèce": "Varecia rubra"
+  },
+  "page_content": {
+    "Répartition": "Madagascar",
+    "Habitat": "Forêts",
+    "Reproduction": "Mai-Juillet",
+    "Taille portée": "2-3"
+  },
+  "description": "Cette espèce était anciennement considérée comme une sous-espèce du <a href=\"/mammiferes/vari-noir-blanc\">vari noir et blanc</a>. Le vari roux est cependant plus gros que le vari noir et blanc.<br/> La déforestation détruit de plus en plus l'habitat de cette espèce et elle est, depuis 2012, sur la liste des 25 espèces de primates les plus menacées. Il existe un programme européen pour les espèces menacées (EEP) consacré à cette espèce et coordoné par le Jardin zoologique de Lyon.",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Variroux.jpg",
+    "alt": "Aire de répartition du vari roux",
+    "title": "Aire de répartition du vari roux"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Varecia_rubra",
+    "https://www.iucnredlist.org/species/22920/115574598",
+    "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_mammiferes/le_vari_roux/",
+    "https://animaldiversity.org/accounts/Varecia_rubra/"
+  ]
+}

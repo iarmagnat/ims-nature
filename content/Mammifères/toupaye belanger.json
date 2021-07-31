@@ -1,0 +1,39 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Toupaye de Belanger",
+  "name": "Tupaia belangeri",
+  "image": {
+    "src": "media/Photos site/Mammifères/Toupaye.JPG",
+    "alt": "Un toupaye de Belanger",
+    "title": "Un toupaye de Belanger"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
+    "Ordre": "Scandentia",
+    "Famille": "Tupaiidae",
+    "Genre": "Tupaia",
+    "Espèce": "Tupaia belangeri"
+  },
+  "page_content": {
+    "Répartition": "Sud-Est Asie",
+    "Habitat": "Forêts",
+    "Reproduction": "Toute l'année",
+    "Taille portée": "1-5"
+  },
+  "description": "Il s'agit de petits mammifères arboricoles et terrestres qui se nourrissent d'insectes et de fruits.<br/> Le rythme cardiaque du toupaye de Belanger peut aller jusqu'à 300 battements par minute (contre 60 à 100 pour l'Homme).",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Toupaye.jpg",
+    "alt": "Aire de répartition du toupaye de Belanger",
+    "title": "Aire de répartition du toupaye de Belanger"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Tupaia_belangeri",
+    "https://www.iucnredlist.org/species/41492/22280884",
+    "https://animaldiversity.org/accounts/Tupaia_belangeri/"
+  ]
+}
