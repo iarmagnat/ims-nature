@@ -1,0 +1,45 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Milan noir",
+  "name": "Milvus migrans",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Milannoir.JPG",
+    "alt": "Un milan noir",
+    "title": "Un milan noir"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Accipitriformes",
+    "Famille": "Accipitridae",
+    "Genre": "Milvus",
+    "Espèce": "Milvus migrans"
+  },
+  "page_content": {
+    "Ponte": "Avril-Mai",
+    "Répartition": "Eurasie/Afrique/Australie",
+    "Habitat": "Zones boisées, zones caillouteuses, proche lacs et fleuves",
+    "Chant": "Piiuuu u u u"
+  },
+  "description": "Il est reconnaissable en vol à sa queue en forme de triangle ou de \"V\". Il partage cette caractéristique avec le milan royal mais celui-ci à une queue plus échancrée (on distingue clairement un \"V\"). On le distingue de la buse variable car cette dernière a la queue arrondie.<br/> Les milans noirs d'Europe et d'Asie centrale migrent vers les tropiques en hiver alors que ceux des régions plus chaudes (Inde ou Australie par exemple) sont sédentaires.<br/> Les menaces qui semblent peser sur le milan noir sont la dégradation et la régression des zones humides. Cette espèce n'est cependant pas menacée et elle bénéficie, en France, d'une protection totale depuis 1981.",
+  "sound": {
+    "src": "media/Chants oiseaux/Milannoir.mp3"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Milannoir.jpg",
+    "alt": "Aire de répartition du milan noir",
+    "title": "Aire de répartition du milan noir"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Milan_noir",
+    "https://www.oiseaux.net/oiseaux/milan.noir.html",
+    "https://www.iucnredlist.org/species/181568721/181571544",
+    "https://animaldiversity.org/accounts/Milvus_migrans/",
+    "https://www.xeno-canto.org/contributor/SPMWIWZKKC"
+  ],
+  "date": "Juillet 2021"
+}
