@@ -106,16 +106,26 @@
       </div>
     </div>
   {% endif %}
-  {% if data.sources | length %}
-    <details class="species__sources">
-      <summary>Sources</summary>
-      <ul>
-        {% for source in data.sources %}
-          <li>
-            <a href="{{ source }}" class="species__source-link" target="_blank">{{ source }}</a>
-          </li>
-        {% endfor %}
-      </ul>
-    </details>
+  {% if data.sources | length or data.date %}
+    <div class="species__legal">
+      {% if data.sources | length %}
+        <details class="species__sources">
+          <summary>Sources</summary>
+          <ul>
+            {% for source in data.sources %}
+              <li>
+                <a href="{{ source }}" class="species__source-link" target="_blank">{{ source }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </details>
+      {% endif %}
+
+      {% if data.date %}
+        <div class="species__date">
+          Dernière modification : {{ data.date }}
+        </div>
+      {% endif %}
+    </div>
   {% endif %}
 {% endblock %}

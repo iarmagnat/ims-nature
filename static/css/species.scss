@@ -109,12 +109,24 @@
     }
   }
 
+  &__legal {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+  }
+
   &__sources {
     padding: 1px 0 1px 10px;
 
     summary {
       cursor: pointer;
     }
+  }
+
+  &__date {
+    text-align: right;
+    font-size: 16px;
   }
 }
 
