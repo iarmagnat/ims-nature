@@ -40,5 +40,25 @@
     "https://www.iucnredlist.org/species/22725022/87292744",
     "http://www.oiseau-libre.net/Oiseaux/Especes/Pic-vert.html"
   ],
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Picvert_1.JPG",
+      "alt": "Une famille de pics verts",
+      "title": "Une famille de pics verts",
+      "description": "Un pic vert femelle accompagnée de ses deux jeunes"
+    },
+    {
+      "src": "media/Photos site/Galerie/Picvert_2.JPG",
+      "alt": "Un pic vert juvénile",
+      "title": "Un pic vert juvénile",
+      "description": "Un pic vert juvénile"
+    },
+    {
+      "src": "media/Photos site/Galerie/Picvert_3.JPG",
+      "alt": "Une femelle pic vert et son jeune",
+      "title": "Une femelle pic vert et son jeune",
+      "description": "Un pic vert femelle nourrissant son jeune"
+    }
+  ],
   "date": "Août 2021"
 }

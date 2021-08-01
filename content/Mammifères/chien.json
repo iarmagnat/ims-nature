@@ -25,7 +25,7 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "2-12"
   },
-  "description": "La photographie ci-dessus montre deux femelles adultes : Haru, un Akita Inu (à gauche) et Dotty, un croisé border collie (à droite).<br/> Il s'agit de la sous-espèce domestique du <a href=\"/mammiferes/loup-gris\">loup</a>, on estime la séparation des lignées des loups et des chiens il y a environ 100 000 ans.",
+  "description": "La photographie ci-dessus montre deux femelles adultes : Haru, un Akita Inu (à gauche) et Dotty, un croisé Border collie (à droite).<br/> Il s'agit de la sous-espèce domestique du <a href=\"/mammiferes/loup-gris\">loup</a>, on estime la séparation des lignées des loups et des chiens il y a environ 100 000 ans.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Chien.jpg",
     "alt": "Aire de répartition du chien",
@@ -35,5 +35,31 @@
     "https://fr.wikipedia.org/wiki/Chien",
     "https://www.centrale-canine.fr/articles/le-cycle-sexuel-de-la-chienne"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Chien_1.JPG",
+      "alt": "Un Chihuahua et un Akita Inu",
+      "title": "Un Chihuahua et un Akita Inu",
+      "description": "Shippô, un Chihuahua mâle (à gauche) et Haru, un Akita Inu femelle (à droite)"
+    },
+    {
+      "src": "media/Photos site/Galerie/Chien_2.JPG",
+      "alt": "Un Cane corso femelle",
+      "title": "Un Cane corso femelle",
+      "description": "Tosca, un Cane corso femelle"
+    },
+    {
+      "src": "media/Photos site/Galerie/Chien_3.JPG",
+      "alt": "Un Beauceron femelle",
+      "title": "Un Beauceron femelle",
+      "description": "Nouba, un Beauceron femelle"
+    },
+    {
+      "src": "media/Photos site/Galerie/Chien_4.JPG",
+      "alt": "Un Chihuahua mâle",
+      "title": "Un Chihuahua mâle",
+      "description": "Shippô, un Chihuahua mâle"
+    }
+  ],
+  "date": "Août 2021"
 }
