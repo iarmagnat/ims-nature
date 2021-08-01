@@ -1,0 +1,45 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Etourneau de Bali",
+  "name": "Leucopsar rothschildi",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Etourneaubali.JPG",
+    "alt": "Un étourneau de Bali",
+    "title": "Un étourneau de Bali"
+  },
+  "iucn": "cr",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Passeriformes",
+    "Famille": "Sturnidae",
+    "Genre": "Leucopsar",
+    "Espèce": "Leucopsar rothschildi"
+  },
+  "page_content": {
+    "Ponte": "Saison des pluies",
+    "Répartition": "Bali",
+    "Habitat": "Forêts, savanes, bosquets",
+    "Chant": "Kwo kwo kwo/Kreer/Tchik tchik tchik"
+  },
+  "description": "Il est également appelé \"étourneau de Rothschild\", \"martin de Rothschild\" ou \"Bali starling\".<br/> Il est facilement reconnaissable à son plumage entièrement blanc à l'exception de la pointe des ailes et de la queue qui sont noires. Le tour de son oeil est nu et laisse apparaître une peau bleue.<br/> Cette espèce est au bord de l'extinction à l'état sauvage depuis plusieurs années à cause du commerce d'oiseaux exotiques. Elle a été \"sauvée\" de justesse en 1990 grâce à la réintroduction d'individus issus de programmes d'élevage menés par les zoos mais reste extrêmement menacée. On estime qu'il reste moins de 200 individus en liberté.<br/> C'est à cause de cette situation critique que nous n'avons pas pu trouver d'enregistrments de cette espèce.",
+  "sound": {
+    "src": ""
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Etourneaubali.jpg",
+    "alt": "Aire de répartition de l'étourneau de Bali",
+    "title": "Aire de répartition de l'étourneau de Bali"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/%C3%89tourneau_de_Rothschild",
+    "https://www.oiseaux.net/oiseaux/etourneau.de.rothschild.html",
+    "https://www.iucnredlist.org/species/22710912/129874226",
+    "https://www.xeno-canto.org/species/Leucopsar-rothschildi",
+    "https://www.xeno-canto.org/help/FAQ#restricted"
+  ],
+  "date": "Août 2021"
+}

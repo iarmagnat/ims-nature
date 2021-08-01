@@ -1,0 +1,44 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Calao à casque rouge",
+  "name": "Rhabdotorrhinus corrugatus",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Calaocasquerouge.JPG",
+    "alt": "Un calao à casque rouge",
+    "title": "Un calao à casque rouge"
+  },
+  "iucn": "en",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Bucerotiformes",
+    "Famille": "Bucerotidae",
+    "Genre": "Rhabdotorrhinus",
+    "Espèce": "Rhabdotorrhinus corrugatus"
+  },
+  "page_content": {
+    "Ponte": "Décembre-Janvier",
+    "Répartition": "Malaisie/Indonésie",
+    "Habitat": "Forêts",
+    "Chant": "Kak kak/Grinn grin/Wakow"
+  },
+  "description": "Le dimorphisme sexuel est peu marqué chez cette espèce : la femelle est plus petite que le mâle et possède une crête moins proéminente.<br/> Pour se nourrir, le calao à casque rouge saisit les fruits et les insectes par l'extrémité de son bec pour les jeter en l'air avant de les avaler d'une seule traite.<br/> La destruction massive des forêts en Malaisie et en Thaïlande fait que cette espèce a presque disparue dans ces pays. La chasse et le braconnage empirent cette situation.",
+  "sound": {
+    "src": "media/Chants oiseaux/Calaocasquerouge.mp3"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Calaocasquerouge.jpg",
+    "alt": "Aire de répartition du calao à casque rouge",
+    "title": "Aire de répartition du calao à casque rouge"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Calao_%C3%A0_casque_rouge",
+    "https://www.oiseaux.net/oiseaux/calao.a.casque.rouge.html",
+    "https://www.iucnredlist.org/species/22682514/132244524",
+    "https://www.xeno-canto.org/contributor/BLMSIUFTFU"
+  ],
+  "date": "Août 2021"
+}

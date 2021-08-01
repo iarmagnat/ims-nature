@@ -1,0 +1,44 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Pigeon ramier",
+  "name": "Columba palumbus",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Pigeonramier.JPG",
+    "alt": "Un pigeon ramier",
+    "title": "Un pigeon ramier"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Columbiformes",
+    "Famille": "Columbidae",
+    "Genre": "Columba",
+    "Espèce": "Columba palumbus"
+  },
+  "page_content": {
+    "Ponte": "Avril-Juillet",
+    "Répartition": "Eurasie/Nord Afrique",
+    "Habitat": "Forêts, arbustes, jardins",
+    "Chant": "Roouu hoou hou hou hou"
+  },
+  "description": "Il est également appelé \"palombe\".<br/> Cette espèce est la plus grande et la plus commune des espèces de pigeons européens. La colonisation des villes par cette espèce est plus récente que celle du <a href=\"/oiseaux/pigeon\">pigeon biset</a>.<br/> Cette espèce est notamment reconnaissable grâce à son collier blanc.<br/> Le pigeon ramier est l'un des oiseaux les plus chassés en Europe mais les populations ne sont actuellement pas menacées.",
+  "sound": {
+    "src": "media/Chants oiseaux/Pigeonramier.mp3"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Pigeonramier.jpg",
+    "alt": "Aire de répartition du pigeon ramier",
+    "title": "Aire de répartition du pigeon ramier"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Pigeon_ramier",
+    "https://www.oiseaux.net/oiseaux/pigeon.ramier.html",
+    "https://www.iucnredlist.org/species/22690103/131924602",
+    "https://www.xeno-canto.org/contributor/QWNVSAPPFP"
+  ],
+  "date": "Août 2021"
+}

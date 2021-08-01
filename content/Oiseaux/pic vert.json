@@ -1,0 +1,44 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Pic vert",
+  "name": "Picus viridis",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Picvert.JPG",
+    "alt": "Un pic vert",
+    "title": "Un pic vert"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Piciformes",
+    "Famille": "Picidae",
+    "Genre": "Picus",
+    "Espèce": "Picus viridis"
+  },
+  "page_content": {
+    "Ponte": "Printemps",
+    "Répartition": "Eurasie",
+    "Habitat": "Forêts, bosquets, parcs, vergers",
+    "Chant": "Kiakiakia/Kuk ku kuk"
+  },
+  "description": "La photographie ci-dessus montre une femelle adulte et son jeune.<br/> Il est aussi connu sous le nom de \"pivert\".<br/> Tous les individus ont la face supérieure verte, le croupion jaune, la face inférieure gris-vert et le dessus de la tête rouge. On distingue la femelle par sa \"moustache\" noire alors que celle du mâle est rouge entourée de noir. Les jeunes sont plus clairs et tachetés.<br/> Le pic vert n'est pas considéré comme menacé mais il a sans doute beaucoup souffert de la diminution de bois mort et de vieux arbres due notamment à la déforestation.",
+  "sound": {
+    "src": "media/Chants oiseaux/Picvert.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Picvert.jpg",
+    "alt": "Aire de répartition du pic vert",
+    "title": "Aire de répartition du pic vert"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Pic_vert",
+    "https://www.oiseaux.net/oiseaux/pic.vert.html",
+    "https://www.iucnredlist.org/species/22725022/87292744",
+    "http://www.oiseau-libre.net/Oiseaux/Especes/Pic-vert.html"
+  ],
+  "date": "Août 2021"
+}

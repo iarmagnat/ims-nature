@@ -1,0 +1,47 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Fuligule de Baer",
+  "name": "Aythya baeri",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Fuligulebaer.JPG",
+    "alt": "Un fuligule de Baer",
+    "title": "Un fuligule de Baer"
+  },
+  "iucn": "cr",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Anseriformes",
+    "Famille": "Anatidae",
+    "Genre": "Aythya",
+    "Espèce": "Aythya baeri"
+  },
+  "page_content": {
+    "Ponte": "Avril-Juillet",
+    "Répartition": "Est Asie",
+    "Habitat": "Zones humides, lacs, marais",
+    "Chant": "Peu de données"
+  },
+  "description": "La photographie ci-dessus montre un mâle adulte.<br/> On le distingue des autres fuligules par sa couleur noire sur la tête, le cou et le dessus de corps et sa couleur beige-brun-blanc sur les flancs. Le mâle est reconnaissable à ses yeux blancs.<br> En 2013, aucun jeune n'a été recensé dans la nature, un plan d'urgence pour la sauvegarde de l'espèce a donc été mis en place au niveau international.",
+  "sound": {
+    "src": "media/Chants oiseaux/Fuligulebaer.mp3"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Fuligulebaer.jpg",
+    "alt": "Aire de répartition du fuligule de Baer",
+    "title": "Aire de répartition du fuligule de Baer"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Fuligule_de_Baer",
+    "https://www.oiseaux.net/oiseaux/fuligule.de.baer.html",
+    "https://www.iucnredlist.org/species/22680384/154436811",
+    "https://www.xeno-canto.org/contributor/GNYVMVEMZX",
+    "http://datazone.birdlife.org/species/factsheet/baers-pochard-aythya-baeri/text",
+    "https://wildfowl.wwt.org.uk/index.php/wildfowl/article/view/2728",
+    "https://www.aerien.ch/oiseaux/Aythya_baeri.php"
+  ],
+  "date": "Août 2021"
+}

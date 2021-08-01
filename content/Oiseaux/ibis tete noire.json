@@ -1,0 +1,45 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Ibis à tête noire",
+  "name": "Threskiornis melanocephalus",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Ibistêtenoire.JPG",
+    "alt": "Un ibis à tête noire",
+    "title": "Un ibis à tête noire"
+  },
+  "iucn": "nt",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Pelecaniformes",
+    "Famille": "Threskiornithidae",
+    "Genre": "Threskiornis",
+    "Espèce": "Threskiornis melanocephalus"
+  },
+  "page_content": {
+    "Ponte": "Mousson",
+    "Répartition": "Asie",
+    "Habitat": "Forêts, prairies, zones humides",
+    "Chant": "Onk"
+  },
+  "description": "Même s'il lui ressemble, il ne s'agit pas de l'<a href =\"/oiseaux/ibis-sacre\">ibis sacré</a>, ils n'ont pas la même aire de répartition et l'ibis sacré a des plumes noires plus foncées sur la queue.<br/> Cette espèce est menacée par la chasse et par la coissance de la population humaine.",
+  "sound": {
+    "src": "media/Chants oiseaux/Ibistêtenoire.mp3"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Ibistêtenoire.jpg",
+    "alt": "Aire de répartition de l'ibis à tête noire",
+    "title": "Aire de répartition de l'ibis à tête noire"
+  },
+  "sources": [
+    "https://www.xeno-canto.org/contributor/OOECIWCSWV",
+    "https://www.iucnredlist.org/species/22697516/93618317",
+    "https://www.oiseaux.net/oiseaux/ibis.a.tete.noire.html",
+    "https://fr.wikipedia.org/wiki/Ibis_%C3%A0_t%C3%AAte_noire",
+    "https://www.sciencedirect.com/science/article/pii/S2287884X18300566"
+  ],
+  "date": "Août 2021"
+}

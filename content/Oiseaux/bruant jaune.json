@@ -1,0 +1,44 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Bruant jaune",
+  "name": "Emberiza citrinella",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Bruantjaune.JPG",
+    "alt": "Un bruant jaune",
+    "title": "Un bruant jaune"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Passeriformes",
+    "Famille": "Emberizidae",
+    "Genre": "Emberiza",
+    "Espèce": "Emberiza citrinella"
+  },
+  "page_content": {
+    "Ponte": "Avril-Mai/Juin-Août",
+    "Répartition": "Eurasie",
+    "Habitat": "Zones ouvertes, prairies, buissons, haies, moyennes montagnes",
+    "Chant": "Tsirt/Didididi dii"
+  },
+  "description": "La photographie ci-dessus montre un mâle adulte.<br/> Les couleurs du mâle sont plus vives que celles de la femelle, avec moins de marques sombres. Les juvéniles ressemblent à la femelle mais sont plus ternes.<br/> Le bruant jaune peut être confondu avec le bruant zizi. En effet, les femelles et les juvéniles sont presque identiques même si les bruants zizi sont plus ternes et moins jaunes. De plus, le bruant zizi possède un croupion brun-gris (brun-roux chez le bruant jaune) et un masque noir au niveau des yeux.<br/> Pour le moment, l'espèce n'est pas considérée comme menacée mais les suivis indiquent une baisse des effectifs dans les populations notamment à cause de l'homogénéisation des paysages, des modifications des pratiques agricoles et de l'usage d'insecticides (les jeunes étant principalement insectivores).",
+  "sound": {
+    "src": "media/Chants oiseaux/Bruantjaune.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Bruantjaune.jpg",
+    "alt": "Aire de répartition du bruant jaune",
+    "title": "Aire de répartition du bruant jaune"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Bruant_jaune",
+    "https://www.oiseaux.net/oiseaux/bruant.jaune.html",
+    "https://www.iucnredlist.org/species/22720878/89289181",
+    "https://inpn.mnhn.fr/docs/cahab/fiches/Bruant-jaune.pdf"
+  ],
+  "date": "Août 2021"
+}

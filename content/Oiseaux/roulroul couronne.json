@@ -1,0 +1,44 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Roulroul couronné",
+  "name": "Rollulus rouloul",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Roulroulcouronné.JPG",
+    "alt": "Un roulroul couronné",
+    "title": "Un roulroul couronné"
+  },
+  "iucn": "nt",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Galliformes",
+    "Famille": "Phasianidae",
+    "Genre": "Rollulus",
+    "Espèce": "Rollulus rouloul"
+  },
+  "page_content": {
+    "Ponte": "Décembre-Août",
+    "Répartition": "Malaisie/Indonésie",
+    "Habitat": "Forêts denses",
+    "Chant": "Si-oul"
+  },
+  "description": "La photographie ci-dessus montre un mâle adulte.<br/> Il est aussi appelé \"rouloul couronné\" ou \"perdrix roulroul\".<br/> Le dimorphisme sexuel est très marqué : le mâle est bleu-noir avec une crête rouge alors que la femelle est verte sans crête.<br/> La déforestation détruit et morcelle l'habitat du roulroul couronné, cependant ces derniers peuvent s'adapter aux forêts secondaires et de plus haute altitude, ce qui leur procure une certaine \"sécurité\" provisoire.",
+  "sound": {
+    "src": "media/Chants oiseaux/Rouloulcouronné.mp3"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Roulroulcouronné.jpg",
+    "alt": "Aire de répartition du roulroul couronné",
+    "title": "Aire de répartition du roulroul couronné"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Roulroul_couronn%C3%A9",
+    "https://www.oiseaux.net/oiseaux/rouloul.couronne.html",
+    "https://www.iucnredlist.org/species/22679106/92802856",
+    "https://www.xeno-canto.org/contributor/NWTKEXMKCA"
+  ],
+  "date": "Août 2021"
+}
