@@ -25,7 +25,7 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "3-5"
   },
-  "description": "Le guépard est facilement reconnaissable grâce à son allure svelte et fine, ses longues pattes élancées et ses larmiers (les lignes noires reliant le coin interne de l'œil à l'extérieur de la gueule).<br/> Ces larmiers permettraient d'améliorer sa vision en diminuant les reflets du soleil.",
+  "description": "Le guépard est facilement reconnaissable grâce à son allure svelte et fine, ses longues pattes élancées et ses larmiers (les lignes noires reliant le coin interne de l'œil à l'extérieur de la gueule). Ces larmiers permettraient d'améliorer sa vision en diminuant les reflets du soleil.<br/> Le guépard est un des mammifères les plus rapides : il peut faire des pointes à plus de 90 km/h ! <br/> On estime qu'il reste moins de 10 000 individus en liberté. La chasse et le braconnage ont grandemment participé à la diminution des effectifs de guépards.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Guépard.jpg",
     "alt": "Aire de répartition du guépard",
@@ -36,5 +36,19 @@
     "https://fr.wikipedia.org/wiki/Gu%C3%A9pard",
     "https://www.safari-peaugres.com/les-animaux/guepard"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Guépard_1.JPG",
+      "alt": "Un guépard",
+      "title": "Un guépard",
+      "description": "Un guépard assis au safari de Peaugres"
+    },
+    {
+      "src": "media/Photos site/Galerie/Guépard_2.JPG",
+      "alt": "Un guépard",
+      "title": "Un guépard",
+      "description": "Un guépard qui s'étire après sa pause à l'ombre"
+    }
+  ],
+  "date": "Août 2021"
 }

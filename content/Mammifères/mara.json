@@ -36,5 +36,19 @@
     "https://www.safari-peaugres.com/les-animaux/mara",
     "https://fr.wikipedia.org/wiki/Dolichotis_patagonum"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Mara_1.JPG",
+      "alt": "Un mara",
+      "title": "Un mara",
+      "description": "Un gros plan sur une tête de mara"
+    },
+    {
+      "src": "media/Photos site/Galerie/Mara_2.JPG",
+      "alt": "Un mara",
+      "title": "Un mara",
+      "description": "Un gros plan sur un oeil de mara"
+    }
+  ],
+  "date": "Août 2021"
 }

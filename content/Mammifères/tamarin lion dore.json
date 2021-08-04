@@ -36,5 +36,13 @@
     "https://fr.wikipedia.org/wiki/Tamarin-lion_dor%C3%A9",
     "https://www.safari-peaugres.com/les-animaux/tamarin-lion"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Tamarinliondoré_1.JPG",
+      "alt": "Un tamarin lion doré",
+      "title": "Un tamarin lion doré",
+      "description": "Un tamarin lion doré au safari de Peaugres"
+    }
+  ],
+  "date": "Août 2021"
 }

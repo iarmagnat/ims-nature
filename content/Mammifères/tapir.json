@@ -36,5 +36,19 @@
     "https://www.safari-peaugres.com/les-animaux/tapir-terrestre",
     "https://fr.wikipedia.org/wiki/Tapir_du_Br%C3%A9sil"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Tapir_1.JPG",
+      "alt": "Un tapir terrestre",
+      "title": "Un tapir terrestre",
+      "description": "Gros plan sur la tête et une patte avant d'un tapir terrestre"
+    },
+    {
+      "src": "media/Photos site/Galerie/Tapir_2.JPG",
+      "alt": "Un tapir terrestre",
+      "title": "Un tapir terrestre",
+      "description": "Un tapir terrestre qui tire la langue !"
+    }
+  ],
+  "date": "Août 2021"
 }

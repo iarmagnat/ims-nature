@@ -37,5 +37,19 @@
     "https://fr.wikipedia.org/wiki/Tigre_de_Sib%C3%A9rie",
     "https://www.iucnredlist.org/species/15956/5333650"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Tigre_1.JPG",
+      "alt": "Un tigre de Sibérie",
+      "title": "Un tigre de Sibérie",
+      "description": "Un \"zoom\" sur la têre d'un tigre de Sibérie au safari de Peaugres"
+    },
+    {
+      "src": "media/Photos site/Galerie/Tigre_2.JPG",
+      "alt": "Un tigre de Sibérie",
+      "title": "Un tigre de Sibérie",
+      "description": "Un tigre de Sibérie faisant sa sieste à l'ombre"
+    }
+  ],
+  "date": "Août 2021"
 }

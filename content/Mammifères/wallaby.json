@@ -36,5 +36,13 @@
     "https://www.safari-peaugres.com/les-animaux/wallaby-de-bennett",
     "https://fr.wikipedia.org/wiki/Wallaby_%C3%A0_cou_rouge"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Wallaby_1.JPG",
+      "alt": "Un wallaby de Bennett",
+      "title": "Un wallaby de Bennet",
+      "description": "Un wallaby de Bennett profitant de l'ombre pour se reposer"
+    }
+  ],
+  "date": "Août 2021"
 }

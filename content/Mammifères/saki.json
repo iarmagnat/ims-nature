@@ -37,5 +37,13 @@
     "https://fr.wikipedia.org/wiki/Pithecia_pithecia",
     "https://www.parc-zoologique.fr/le-parc/nos-animaux/espace-exotique/saki-a-face-blanche/"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Saki_1.JPG",
+      "alt": "Un saki à face blanche mâle",
+      "title": "Un saki à face blanche mâle",
+      "description": "Un gros plan sur la tête d'un saki à face blanche mâle au safari de Peaugres"
+    }
+  ],
+  "date": "Août 2021"
 }

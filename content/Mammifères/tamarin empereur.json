@@ -36,5 +36,13 @@
     "https://www.safari-peaugres.com/les-animaux/tamarin-empereur",
     "https://www.iucnredlist.org/species/39948/192551472"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Tamarinempereur_1.JPG",
+      "alt": "Un tamarin empereur",
+      "title": "Un tamarin empereur",
+      "description": "Un tamarin empereur vu de profil au safari de Peaugres"
+    }
+  ],
+  "date": "Août 2021"
 }

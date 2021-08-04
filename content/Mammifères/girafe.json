@@ -37,5 +37,19 @@
     "https://www.safari-peaugres.com/les-animaux/girafe-de-rothschild",
     "https://fr.wikipedia.org/wiki/Girafe"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Girafe_1.JPG",
+      "alt": "Des girafes",
+      "title": "Des girafes",
+      "description": "Deux girafes au safari de Peaugres"
+    },
+    {
+      "src": "media/Photos site/Galerie/Girafe_2.JPG",
+      "alt": "Des girafes",
+      "title": "Des girafes",
+      "description": "Deux girafes se \"disputant\" de la nourriture"
+    }
+  ],
+  "date": "Août 2021"
 }

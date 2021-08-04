@@ -37,5 +37,19 @@
     "https://www.safari-peaugres.com/les-animaux/ouistiti-pinceaux-blancs",
     "https://www.instinct-animal.fr/ouistiti-a-toupets-blancs/"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Ouistiti_1.JPG",
+      "alt": "Un ouistiti à pinceaux blancs",
+      "title": "Un ouistiti à pinceaux blancs",
+      "description": "Un ouistiti à pinceaux blancs au safari de Peaugres"
+    },
+    {
+      "src": "media/Photos site/Galerie/Ouistiti_2.JPG",
+      "alt": "Un ouistiti à pinceaux blancs",
+      "title": "Un ouistiti à pinceaux blancs",
+      "description": "Un ouistiti à pinceaux blancs en train de grimper"
+    }
+  ],
+  "date": "Août 2021"
 }

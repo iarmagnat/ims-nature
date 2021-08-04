@@ -43,5 +43,19 @@
     "https://www.nausicaa.fr/fiches-animaux/le-manchot-du-cap/#:~:text=100%20kmLe%20manchot%20peut,un%20%C3%A2ne%2C%20surtout%20la%20nuit.",
     "https://www.xeno-canto.org/contributor/RDCYTRBPDJ"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Manchot_1.JPG",
+      "alt": "Un manchot du Cap",
+      "title": "Un manchot du Cap",
+      "description": "Un manchot du Cap en train de nager"
+    },
+    {
+      "src": "media/Photos site/Galerie/Manchot_2.JPG",
+      "alt": "Des manchots du Cap",
+      "title": "Des manchots du Cap",
+      "description": "Un groupe de manchots du Cap au safari de Peaugres"
+    }
+  ],
+  "date": "Août 2021"
 }

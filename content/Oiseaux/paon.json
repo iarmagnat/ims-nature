@@ -41,5 +41,13 @@
     "https://www.iucnredlist.org/species/22679435/92814454",
     "https://en.wikipedia.org/wiki/Indian_peafowl"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Paon_1.JPG",
+      "alt": "Une plume de paon bleu",
+      "title": "Une plume de paon bleu",
+      "description": "Un détail d'une plume de la queue d'un paon bleu mâle"
+    }
+  ],
+  "date": "Août 2021"
 }

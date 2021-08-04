@@ -37,5 +37,19 @@
     "https://www.safari-peaugres.com/les-animaux/maki-catta",
     "https://www.thoiry.net/les-animaux/maki-catta"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Maki_1.JPG",
+      "alt": "Des maki catta",
+      "title": "Des maki catta",
+      "description": "Deux maki catta qui ont apparemment faim !"
+    },
+    {
+      "src": "media/Photos site/Galerie/Maki_2.JPG",
+      "alt": "Un maki catta",
+      "title": "Un maki catta",
+      "description": "Un maki catta qui a des airs de \"penseur\" de Rodin"
+    }
+  ],
+  "date": "Août 2021"
 }

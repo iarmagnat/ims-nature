@@ -41,5 +41,19 @@
     "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_oiseaux/le_flamant_rose/",
     "https://en.wikipedia.org/wiki/Greater_flamingo"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Flamantrose_1.JPG",
+      "alt": "Des flamants roses",
+      "title": "Des flamants roses",
+      "description": "Un groupe de flamants roses au safari de Peaugres"
+    },
+    {
+      "src": "media/Photos site/Galerie/Flamantrose_2.JPG",
+      "alt": "Un flamant rose",
+      "title": "Un flamant rose",
+      "description": "Un flamant rose au safari de Peaugres"
+    }
+  ],
+  "date": "Août 2021"
 }
