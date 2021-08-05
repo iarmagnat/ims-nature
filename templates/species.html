@@ -97,7 +97,7 @@
             {{ image.render(clickable=True, src=photo.src, alt=photo.alt, title=photo.title, small=True) }}
             {% if photo.description %}
               <div class="species-gallery__description">
-                {{ photo.description }}
+                {{ photo.description | safe }}
               </div>
             {% endif %}
           </div>
