@@ -25,7 +25,7 @@
     "Reproduction": "Toute l’année",
     "Taille portée": "1-4"
   },
-  "description": "La photographie ci-dessus montre un couple de lions adultes.<br/> Il s'agit de l'un des félins les plus emblématiques, le mâle étant facilement reconnaissable à sa crinière imposante (ce qui lui a valu son surnom de \"roi des animaux\"). Il est également le seul félin vivant en groupe.<br/> Il est le deuxième plus grand félidé, après le <a href=\"/mammiferes/tigre-siberie\">tigre</a>, et il est le plus grand carnivore d'Afrique.",
+  "description": "La photographie ci-dessus montre un couple de lions adultes (la femelle au premier plan et le mâle derrière).<br/> Il s'agit de l'un des félins les plus emblématiques, le mâle étant facilement reconnaissable à sa crinière imposante (ce qui lui a valu son surnom de \"roi des animaux\"). Il est également le seul félin vivant en groupe.<br/> Il est le deuxième plus grand félidé, après le <a href=\"/mammiferes/tigre-siberie\">tigre</a>, et il est le plus grand carnivore d'Afrique.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Lion.jpg",
     "alt": "Aire de répartition du lion",
@@ -36,5 +36,13 @@
     "https://www.safari-peaugres.com/les-animaux/lion",
     "https://fr.wikipedia.org/wiki/Lion"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Lion_1.JPG",
+      "alt": "Un jeune lion mâle",
+      "title": "Un jeune lion mâle",
+      "description": "Un jeune lion mâle ressemblant étrangement à Scar du Roi Lion"
+    }
+  ],
+  "date": "Août 2021"
 }

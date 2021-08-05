@@ -36,5 +36,19 @@
     "https://espace-zoologique.com/mammiferes/gorille-des-plaines.html",
     "https://www.iucnredlist.org/species/9404/136250858"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Gorille_1.JPG",
+      "alt": "Un gorille des plaines de l'Ouest",
+      "title": "Un gorille des plaines de l'Ouest",
+      "description": "Un gorille des plaines de l'Ouest à l'espace zoologique de Saint Martin la Plaine, mascotte du parc"
+    },
+    {
+      "src": "media/Photos site/Galerie/Gorille_2.JPG",
+      "alt": "Un gorille des plaines de l'Ouest",
+      "title": "Un gorille des plaines de l'Ouest",
+      "description": "Un \"zoom\" sur la tête d'un gorille des plaine de l'Ouest"
+    }
+  ],
+  "date": "Août 2021"
 }

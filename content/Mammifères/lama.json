@@ -37,5 +37,13 @@
     "https://www.iucnredlist.org/species/11186/18540211",
     "https://www.instinct-animal.fr/lama/"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Lama_1.JPG",
+      "alt": "Un lama",
+      "title": "Un lama",
+      "description": "Un lama se roulant par terre à l'espace zoologique de Saint Martin la Plaine"
+    }
+  ],
+  "date": "Août 2021"
 }

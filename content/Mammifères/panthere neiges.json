@@ -36,5 +36,25 @@
     "https://espace-zoologique.com/mammiferes/panthere-neiges.html",
     "https://fr.wikipedia.org/wiki/Panth%C3%A8re_des_neiges"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Panthèreneiges_1.JPG",
+      "alt": "Une jeune panthère des neiges",
+      "title": "Une jeune panthère des neiges",
+      "description": "Une jeune panthère des neiges découvre son environnement"
+    },
+    {
+      "src": "media/Photos site/Galerie/Panthèreneiges_2.JPG",
+      "alt": "Une jeune panthère des neiges",
+      "title": "Une jeune panthère des neiges",
+      "description": "Une jeune panthère des neiges se demandant comment elle va bien pouvoir descendre de ce tronc d'arbre"
+    },
+    {
+      "src" : "media/Photos site/Galerie/Panthèreneiges_3.JPG",
+      "alt" : "Une panthère des neiges et son jeune",
+      "title" : "Une panthère des neiges et son jeune",
+      "description" : "C'est l'heure de la toilette pour cette jeune panthère des neiges"
+    }
+  ],
+  "date": "Août 2021"
 }

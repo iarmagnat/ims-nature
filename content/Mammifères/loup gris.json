@@ -37,5 +37,19 @@
     "https://www.iucnredlist.org/species/3746/163508960",
     "https://fr.wikipedia.org/wiki/Canis_lupus"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Loup_1.JPG",
+      "alt": "Un jeune loup gris commun",
+      "title": "Un jeune loup gris commun",
+      "description": "Un louveteau gris commun au safari de Peaugres"
+    },
+    {
+      "src": "media/Photos site/Galerie/Loup_2.JPG",
+      "alt": "Des loups gris communs",
+      "title": "Des loups gris communs",
+      "description": "Une famille de loups gris communs au safari de Peaugres"
+    }
+  ],
+  "date": "Août 2021"
 }

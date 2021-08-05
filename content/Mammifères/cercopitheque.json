@@ -38,5 +38,19 @@
     "https://fr.wikipedia.org/wiki/Cercopithecus_ascanius#Liste_des_sous-esp%C3%A8ces",
     "https://en.wikipedia.org/wiki/Red-tailed_monkey"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Cercopithèque_1.JPG",
+      "alt": "Un cercopithèque ascagne à nez orange",
+      "title": "Un cercopithèque ascagne à nez orange",
+      "description": "Un cercopithèque ascagne à nez orange en train de faire une sieste"
+    },
+    {
+      "src": "media/Photos site/Galerie/Cercopithèque_2.JPG",
+      "alt": "Un cercopithèque ascagne d'Angola",
+      "title": "Un cercopithèque ascagne d'Angola",
+      "description": "Un cercopithèque ascagne d'Angola (<em>Cercopithecus ascanius ascanius</em>) à l'espace zoologique de Saint Martin la Plaine"
+    }
+  ],
+  "date": "Août 2021"
 }

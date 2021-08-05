@@ -25,7 +25,7 @@
     "Reproduction": "Avril/Juillet (peu connue)",
     "Taille portée": "1-4"
   },
-  "description": "Il est aussi appelé \"petit panda\" ou \"panda éclatant\". Son nom peut prêter à confusion puisqu'il n'est pas proche du panda géant mais il est le seul représentant vivant de son genre et de sa famille.<br/> La population sauvage de panda roux est estimée à moins de 10 000 individus et ce nombre continue de diminuer en raison de la perte et de la fragmentation d'habitat, du braconnage et de la consanguinité.",
+  "description": "Il est aussi appelé \"petit panda\" ou \"panda éclatant\". Son nom vernaculaire peut prêter à confusion puisqu'il n'est pas proche du panda géant mais il est le seul représentant vivant de son genre et de sa famille.<br/> La population sauvage de panda roux est estimée à moins de 10 000 individus et ce nombre continue de diminuer en raison de la perte et de la fragmentation d'habitat, du braconnage et de la consanguinité.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Pandaroux.jpg",
     "alt": "Aire de répartition du panda roux",
@@ -36,5 +36,19 @@
     "https://www.safari-peaugres.com/les-animaux/panda-roux",
     "https://fr.wikipedia.org/wiki/Ailurus_fulgens"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Pandaroux_1.JPG",
+      "alt": "Un panda roux",
+      "title": "Un panda roux",
+      "description": "Un panda roux qui se repose dans un arbre"
+    },
+    {
+      "src": "media/Photos site/Galerie/Pandaroux_2.JPG",
+      "alt": "Un panda roux",
+      "title": "Un panda roux",
+      "description": "Un \"zoom\" sur la tête d'un panda roux en train de dormir"
+    }
+  ],
+  "date": "Août 2021"
 }
