@@ -25,7 +25,7 @@
     "Habitat": "Ouvert, zones humides, prairies, marais",
     "Chant": "Oiseau assez peu vocal"
   },
-  "description": "Chez l'adulte la tête et le cou sont noirs et déplumés.<br/> Chez le juvénile en revanche, ils sont emplumés. C'est entre 2 et 3 ans qu'il va commencer à les perdre.",
+  "description": "Chez l'adulte la tête et le cou sont noirs et déplumés.<br/> Chez le juvénile en revanche, ils sont emplumés. C'est entre 2 et 3 ans qu'il va commencer à les perdre.<br/> L'ibis sacré est inscrit sur la liste française des espèces exotiques envahissantes.",
   "sound": {
     "src": "media/Chants oiseaux/Ibissacré.mp3"
   },
@@ -41,5 +41,5 @@
     "https://www.oiseaux.net/oiseaux/ibis.sacre.html",
     "https://www.xeno-canto.org/contributor/SGLTZLDXYI"
   ],
-  "date": "Juillet 2021"
+  "date": "Août 2021"
 }

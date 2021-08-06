@@ -36,5 +36,19 @@
     "https://fr.wikipedia.org/wiki/Renard_%C3%A0_oreilles_de_chauve-souris",
     "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_mammiferes/lotocyon/"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Otocyon_1.JPG",
+      "alt": "Un otocyon",
+      "title": "Un otocyon",
+      "description": "Un otocyon au jardin zoologique de Lyon"
+    },
+    {
+      "src": "media/Photos site/Galerie/Otocyon_2.JPG",
+      "alt": "Un otocyon",
+      "title": "Un otocyon",
+      "description": "Un otocyon qui se repose"
+    }
+  ],
+  "date": "Août 2021"
 }

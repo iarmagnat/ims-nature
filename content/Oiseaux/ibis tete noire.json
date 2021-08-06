@@ -41,5 +41,19 @@
     "https://fr.wikipedia.org/wiki/Ibis_%C3%A0_t%C3%AAte_noire",
     "https://www.sciencedirect.com/science/article/pii/S2287884X18300566"
   ],
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Ibistêtenoire_1.JPG",
+      "alt": "Un ibis à tête noire",
+      "title": "Un ibis à tête noire",
+      "description": "Un gros plan sur la tête d'un ibis à tête noire"
+    },
+    {
+      "src": "media/Photos site/Galerie/Ibistêtenoire_2.JPG",
+      "alt": "Un ibis à tête noire",
+      "title": "Un ibis à tête noire",
+      "description": "Un ibis à tête noire venant de se poser sur un arbre"
+    }
+  ],
   "date": "Août 2021"
 }

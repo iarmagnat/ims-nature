@@ -42,5 +42,13 @@
     "https://www.chant-oiseaux.fr/mesange-a-longue-queue/",
     "https://en.wikipedia.org/wiki/Long-tailed_tit"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Orite_1.JPG",
+      "alt": "Une orite à longue queue",
+      "title": "Une orite à longue queue",
+      "description": "Une orite à longue queue dans un arbre"
+    }
+  ],
+  "date": "Août 2021"
 }

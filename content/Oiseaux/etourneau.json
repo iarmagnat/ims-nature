@@ -41,5 +41,13 @@
     "https://www.iucnredlist.org/species/22710886/137493608",
     "https://en.wikipedia.org/wiki/Common_starling"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Etourneau_1.JPG",
+      "alt": "Des étourneaux sansonnet",
+      "title": "Des étourneaux sansonnet",
+      "description": "Des étourneaux sansonnet prenant un \"bain\""
+    }
+  ],
+  "date": "Août 2021"
 }

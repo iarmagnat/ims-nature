@@ -37,5 +37,25 @@
     "https://www.safari-peaugres.com/les-animaux/loutre-asiatique",
     "https://en.wikipedia.org/wiki/Asian_small-clawed_otter"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Loutre_1.JPG",
+      "alt": "Une famille de loutres asiatiques",
+      "title": "Une famille de loutres asiatiques",
+      "description": "Des loutres asiatiques jouant en famille"
+    },
+    {
+      "src": "media/Photos site/Galerie/Loutre_2.JPG",
+      "alt": "Une loutre asiatique",
+      "title": "Une loutre asiatique",
+      "description": "Une loutre asiatique s'apprêtant à replonger dans l'eau"
+    },
+    {
+      "src": "media/Photos site/Galerie/Loutre_3.JPG",
+      "alt": "Une loutre asiatique",
+      "title": "Une loutre asiatique",
+      "description": "Une loutre asiatique au jardin zoologique de Lyon"
+    }
+  ],
+  "date": "Août 2021"
 }

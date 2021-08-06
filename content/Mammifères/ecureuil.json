@@ -38,5 +38,19 @@
     "https://fauna-eu.org/cdm_dataportal/taxon/51fbdda8-fdcb-4529-acc6-7785d50e04ae",
     "https://www.iucnredlist.org/species/20025/115155900"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Ecureuil_1.JPG",
+      "alt": "Un écureuil roux",
+      "title": "Un écureuil roux",
+      "description": "Un écureuil roux jouant à cache-cache"
+    },
+    {
+      "src": "media/Photos site/Galerie/Ecureuil_2.JPG",
+      "alt": "Un écureuil roux",
+      "title": "Un écureuil roux",
+      "description": "Un écureuil roux courant dans l'herbe"
+    }
+  ],
+  "date": "Août 2021"
 }

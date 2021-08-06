@@ -40,5 +40,31 @@
     "https://www.iucnredlist.org/species/22682514/132244524",
     "https://www.xeno-canto.org/contributor/BLMSIUFTFU"
   ],
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Calaocasquerouge_1.JPG",
+      "alt": "Un calao à casque rouge",
+      "title": "Un calao à casque rouge",
+      "description": "Un calao à casque rouge qui s'est posé à moins d'1 m de nous au jardin zoologique de Lyon"
+    },
+    {
+      "src": "media/Photos site/Galerie/Calaocasquerouge_2.JPG",
+      "alt": "Les pattes d'un calao à casque rouge",
+      "title": "Les pattes d'un calao à casque rouge",
+      "description": "Un gros plan sur les pattes d'un calao à casque rouge"
+    },
+    {
+      "src": "media/Photos site/Galerie/Calaocasquerouge_3.JPG",
+      "alt": "Un calao à casque rouge",
+      "title": "Un calao à casque rouge",
+      "description": "Un calao à casque rouge de face"
+    },
+    {
+      "src": "media/Photos site/Galerie/Calaocasquerouge_4.JPG",
+      "alt": "Un calao à casque rouge",
+      "title": "Un calao à casque rouge",
+      "description": "Un calao à casque rouge qui prend son envol"
+    }
+  ],
   "date": "Août 2021"
 }

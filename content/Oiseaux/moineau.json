@@ -41,5 +41,13 @@
     "https://www.iucnredlist.org/species/103818789/155522130",
     "https://en.wikipedia.org/wiki/House_sparrow"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Moineau_1.JPG",
+      "alt": "Des moineaux domestiques",
+      "title": "Des moineaux domestiques",
+      "description": "Deux moineaux (mâle à droite et femelle à gauche) prenant un \"bain\""
+    }
+  ],
+  "date": "Août 2021"
 }

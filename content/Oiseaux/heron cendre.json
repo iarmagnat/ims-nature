@@ -41,5 +41,43 @@
     "https://fr.wikipedia.org/wiki/H%C3%A9ron_cendr%C3%A9",
     "https://en.wikipedia.org/wiki/Grey_heron"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Héroncendré_1.JPG",
+      "alt": "Un héron cendré",
+      "title": "Un héron cendré",
+      "description": "Un héron cendré dans la neige au jardin zoologique de Lyon"
+    },
+    {
+      "src": "media/Photos site/Galerie/Héroncendré_2.JPG",
+      "alt": "Un jeune héron cendré",
+      "title": "Un jeune héron cendré",
+      "description": "Un jeune héron cendré"
+    },
+    {
+      "src": "media/Photos site/Galerie/Héroncendré_3.JPG",
+      "alt": "Un jeune héron cendré",
+      "title": "Un jeune héron cendré",
+      "description": "Un jeune héron cendré à la recherche de nourriture"
+    },
+    {
+      "src": "media/Photos site/Galerie/Héroncendré_4.JPG",
+      "alt": "Un jeune héron cendré",
+      "title": "Un jeune héron cendré",
+      "description": "Un jeune héron cendré de face"
+    },
+    {
+      "src": "media/Photos site/Galerie/Héroncendré_5.JPG",
+      "alt": "Un jeune héron cendré",
+      "title": "Un jeune héron cendré",
+      "description": "Un jeune héron cendré prenant son envol"
+    },
+    {
+      "src": "media/Photos site/Galerie/Héroncendré_6.JPG",
+      "alt": "Un jeune héron cendré",
+      "title": "Un jeune héron cendré",
+      "description": "Un jeune héron cendré venant de pêcher sa nourriture"
+    }
+  ],
+  "date": "Août 2021"
 }

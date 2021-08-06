@@ -41,5 +41,19 @@
     "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_oiseaux/les_dendrocygnes_veu/",
     "https://en.wikipedia.org/wiki/White-faced_whistling_duck"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Dendrocygne_1.JPG",
+      "alt": "Un dendrocygne veuf",
+      "title": "Un dendrocygne veuf",
+      "description": "Un dendrocygne veuf au jardin zoologique de Lyon"
+    },
+    {
+      "src": "media/Photos site/Galerie/Dendrocygne_2.JPG",
+      "alt": "Deux dendrocygnes veufs",
+      "title": "Deux dendrocygnes veufs",
+      "description": "Deux dendrocygnes veufs au jardin zoologique de Lyon"
+    }
+  ],
+  "date": "Août 2021"
 }

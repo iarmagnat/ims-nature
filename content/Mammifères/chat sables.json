@@ -37,5 +37,19 @@
     "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_mammiferes/chat_sable/",
     "https://www.manimalworld.net/pages/felins/chat-des-sables.html"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Chatsables_1.JPG",
+      "alt": "Un chat des sables",
+      "title": "Un chat des sables",
+      "description": "Un chat des sables au jardin zoologique de Lyon"
+    },
+    {
+      "src": "media/Photos site/Galerie/Chatsables_2.JPG",
+      "alt": "Un chat des sables",
+      "title": "Un chat des sables",
+      "description": "Un chat des sables en train de dormir"
+    }
+  ],
+  "date": "Août 2021"
 }

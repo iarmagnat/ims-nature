@@ -41,5 +41,31 @@
     "https://www.iucnredlist.org/species/22680186/155457360",
     "https://en.wikipedia.org/wiki/Mallard"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Canard_1.JPG",
+      "alt": "Un canard colvert mâle",
+      "title": "Un canard colvert mâle",
+      "description": "Un canard colvert mâle faisant sa toilette"
+    },
+    {
+      "src": "media/Photos site/Galerie/Canard_2.JPG",
+      "alt": "Un canard colvert mâle",
+      "title": "Un canard colvert mâle",
+      "description": "Un canard colvert mâle en train de dormir"
+    },
+    {
+      "src": "media/Photos site/Galerie/Canard_3.JPG",
+      "alt": "Un canard colvert femelle",
+      "title": "Un canard colvert femelle",
+      "description": "Une femelle canard colvert"
+    },
+    {
+      "src" :"media/Photos site/Galerie/Canard_4.JPG",
+      "alt" : "Des canards colvert",
+      "title" : "Des canards colvert",
+      "description" : "Deux canards colvert mâles suivant une femelle"
+    }
+  ],
+  "date": "Août 2021"
 }

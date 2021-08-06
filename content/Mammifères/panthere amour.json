@@ -25,7 +25,7 @@
     "Reproduction": "Hiver",
     "Taille portée": "2-3"
   },
-  "description": "Son nom vient d'un fleuve chinois dont elle occupait les rives.<br/> Elle possède une fourrure plus claire que les autres panthères, ainsi que des tâches plus larges et des poils plus longs.<br/> Il s'agit d'un des félins les plus rares au monde et de la panthère la plus menacées de toutes ! Dans les années 2000 on avait estimé qu'il ne restait qu'une trentaine d'individus dans la nature. Les efforts de conservation on permis d'en recencer une centaine en 2018 mais ce nombre reste trop bas pour une stabilisation des effectifs.",
+  "description": "Son nom vernaculaire vient d'un fleuve chinois dont elle occupait les rives.<br/> Elle possède une fourrure plus claire que les autres panthères, ainsi que des taches plus larges et des poils plus longs.<br/> Il s'agit d'un des félins les plus rares au monde et de la panthère la plus menacées de toutes ! Dans les années 2000 on avait estimé qu'il ne restait qu'une trentaine d'individus dans la nature. Les efforts de conservation ont permis d'en recencer une centaine en 2018 mais ce nombre reste trop bas pour une stabilisation des effectifs.",
   "map": {
     "src": "media/Aires/Aire_mammiferes/Aire_Panthèreamour.jpg",
     "alt": "Aire de répartition de la panthère de l'Amour",
@@ -38,5 +38,19 @@
     "https://www.wwf.fr/especes-prioritaires/leopard-de-lamour",
     "https://www.chatsdumonde.com/le-chat-50/les-autres-felins-50003/le-leopard-de-l-amour-morphologie-alimentation-mode-de-vie-1288.php"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Panthèreamour_1.JPG",
+      "alt": "Une panthère de l'Amour",
+      "title": "Une panthère de l'Amour",
+      "description": "Un gros plan sur la tête d'une panthère de l'Amour"
+    },
+    {
+      "src": "media/Photos site/Galerie/Panthèreamour_2.JPG",
+      "alt": "Une panthère de l'Amour",
+      "title": "Une panthère de l'Amour",
+      "description": "Une panthère de l'Amour qui semble bien pensive"
+    }
+  ],
+  "date": "Août 2021"
 }

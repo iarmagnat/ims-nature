@@ -41,5 +41,19 @@
     "https://www.iucnredlist.org/species/22735990/87431138",
     "https://en.wikipedia.org/wiki/Great_tit"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Mésangecharbo_1.JPG",
+      "alt": "Une mésange charbonnière",
+      "title": "Une mésange charbonnière",
+      "description": "Une mésange charbonnière sur une branche d'arbre"
+    },
+    {
+      "src": "media/Photos site/Galerie/Mésangecharbo_2.JPG",
+      "alt": "Une mésange charbonnière",
+      "title": "Une mésange charbonnière",
+      "description": "Une mésange charbonnière se frottant contre une branche"
+    }
+  ],
+  "date": "Août 2021"
 }

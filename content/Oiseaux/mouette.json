@@ -25,7 +25,7 @@
     "Habitat": "Lacs, étangs, urbain",
     "Chant": "Kraaaa"
   },
-  "description": "Lors de la période de reproduction, la tête de la mouette rieuse devient noire-brune.<br/> On la condond souvent avec le goéland, mais ce dernier est plus gros et plusieurs espèces de goélands ont une tâche rouge de chaque côté du bec, ce que la mouette rieuse n'a pas.",
+  "description": "Lors de la période de reproduction, la tête de la mouette rieuse devient noire-brune.<br/> On la confond souvent avec le goéland, mais ce dernier est plus gros et plusieurs espèces de goélands ont une tâche rouge de chaque côté du bec, ce que la mouette rieuse n'a pas.",
   "sound": {
     "src": "media/Chants oiseaux/Mouette.ogg"
   },
@@ -41,5 +41,13 @@
     "https://www.iucnredlist.org/species/22694420/132548687",
     "https://en.wikipedia.org/wiki/Black-headed_gull"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Mouette_1.JPG",
+      "alt": "Une mouette rieuse",
+      "title": "Une mouette rieuse",
+      "description": "Une mouette rieuse posée sur une bouée dans l'eau"
+    }
+  ],
+  "date": "Août 2021"
 }

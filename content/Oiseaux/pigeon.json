@@ -41,5 +41,13 @@
     "https://www.iucnredlist.org/species/22690066/155493121",
     "https://www.xeno-canto.org/contributor/PJVGDPHDIM"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Pigeon_1.JPG",
+      "alt": "Un pigeon biset",
+      "title": "Un pigeon biset",
+      "description": "Un pigeon biset en train de faire une parade amoureuse"
+    }
+  ],
+  "date": "Août 2021"
 }

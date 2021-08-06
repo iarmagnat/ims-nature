@@ -41,5 +41,37 @@
     "https://fr.wikipedia.org/wiki/P%C3%A9lican_blanc",
     "https://www.xeno-canto.org/contributor/XAMHIHFTZG"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Pélican_1.JPG",
+      "alt": "Un pélican blanc",
+      "title": "Un pélican blanc",
+      "description": "Un gros plan sur la tête d'un pélican blanc"
+    },
+    {
+      "src": "media/Photos site/Galerie/Pélican_2.JPG",
+      "alt": "Un bec de pélican blanc",
+      "title": "Un bec de pélican blanc",
+      "description": "Un gros plan sur le bec d'un pélican blanc"
+    },
+    {
+      "src": "media/Photos site/Galerie/Pélican_3.JPG",
+      "alt": "Un pélican blanc",
+      "title": "Un pélican blanc",
+      "description": "Un pélican blanc venant de se poser sur l'eau"
+    },
+    {
+      "src": "media/Photos site/Galerie/Pélican_4.JPG",
+      "alt": "Un pélican blanc",
+      "title": "Un pélican blanc",
+      "description": "Un pélican blanc écartant ses ailes pendant sa toilette"
+    },
+    {
+      "src": "media/Photos site/Galerie/Pélican_5.JPG",
+      "alt": "Un pélican blanc",
+      "title": "Un pélican blanc",
+      "description": "Un pélican blanc en train de gonfler la poche sous son bec"
+    }
+  ],
+  "date": "Août 2021"
 }

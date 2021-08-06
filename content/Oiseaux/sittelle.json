@@ -42,5 +42,19 @@
     "https://www.chant-oiseaux.fr/sittelle-torchepot/",
     "https://en.wikipedia.org/wiki/Eurasian_nuthatch"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Sittelle_1.JPG",
+      "alt": "Une sittelle torchepot",
+      "title": "Une sittelle torchepot",
+      "description": "Une sittelle torchepot sur un tronc d'arbre"
+    },
+    {
+      "src": "media/Photos site/Galerie/Sittelle_2.JPG",
+      "alt": "Une sittelle torchepot",
+      "title": "Une sittelle torchepot",
+      "description": "Une sittelle torchepot"
+    }
+  ],
+  "date": "Août 2021"
 }
