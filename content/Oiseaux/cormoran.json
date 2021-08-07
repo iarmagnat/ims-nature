@@ -41,5 +41,19 @@
     "https://www.iucnredlist.org/species/22696792/155523636",
     "https://www.xeno-canto.org/contributor/AQWMZXSOED"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Cormoran_1.JPG",
+      "alt": "Une colonie de grands cormorans",
+      "title": "Une colonie de grands cormorans",
+      "description": "Une colonie de grands cormorans dans un arbre"
+    },
+    {
+      "src": "media/Photos site/Galerie/Cormoran_2.JPG",
+      "alt": "Un grand cormoran",
+      "title": "Un grand cormoran",
+      "description": "Un grand cormoran prenant son envol"
+    }
+  ],
+  "date": "Août 2021"
 }

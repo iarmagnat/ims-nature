@@ -41,5 +41,13 @@
     "https://www.iucnredlist.org/species/62120190/155506651",
     "https://en.wikipedia.org/wiki/Common_moorhen"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Pouleeau_1.JPG",
+      "alt": "Une jeune gallinule poule d'eau",
+      "title": "Une jeune gallinule poule d'eau",
+      "description": "Une jeune gallinule poule d'eau se demandant si elle veut vraiment sauter dans l'eau"
+    }
+  ],
+  "date": "Août 2021"
 }

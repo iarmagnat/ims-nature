@@ -50,6 +50,24 @@
       "alt": "Un écureuil roux",
       "title": "Un écureuil roux",
       "description": "Un écureuil roux courant dans l'herbe"
+    },
+    {
+      "src": "media/Photos site/Galerie/Ecureuil_3.JPG",
+      "alt": "Un écureuil roux",
+      "title": "Un écureuil roux",
+      "description": "Un écureuil roux mangeant dans un arbre"
+    },
+    {
+      "src": "media/Photos site/Galerie/Ecureuil_4.JPG",
+      "alt": "Un écureuil roux",
+      "title":"Un écureuil roux",
+      "description": "Un écureuil roux en train de manger"
+    },
+    {
+      "src":"media/Photos site/Galerie/Ecureuil_5.JPG",
+      "alt":"Un écureuil roux",
+      "title":"Un écureuil roux",
+      "description" : "Un écureuil roux montant à un arbre"
     }
   ],
   "date": "Août 2021"

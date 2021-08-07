@@ -42,6 +42,25 @@
     "https://auvergne-rhone-alpes.lpo.fr/Huppe-fasciee",
     "https://en.wikipedia.org/wiki/Eurasian_hoopoe"
   ],
-  "gallery": [],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Huppe_1.JPG",
+      "alt": "Une huppe fasciée",
+      "title": "Une huppe fasciée",
+      "description": "Une huppe fasciée couchée par terre"
+    },
+    {
+      "src": "media/Photos site/Galerie/Huppe_2.JPG",
+      "alt": "Une huppe fasciée",
+      "title": "Une huppe fasciée",
+      "description": "Une huppe fasciée en train de s'ébrouer"
+    },
+    {
+      "src": "media/Photos site/Galerie/Huppe_3.JPG",
+      "alt": "Une huppe fasciée",
+      "title": "Une huppe fasciée",
+      "description": "Une huppe fasciée à la recherche de nourriture"
+    }
+  ],
+  "date": "Août 2021"
 }

@@ -41,5 +41,13 @@
     "https://www.iucnredlist.org/species/22679889/131907747",
     "https://en.wikipedia.org/wiki/Greylag_goose"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Oie_1.JPG",
+      "alt": "Une jeune oie cendrée",
+      "title": "Une jeune oie cendrée",
+      "description": "Une jeune oie cendrée"
+    }
+  ],
+  "date": "Août 2021"
 }

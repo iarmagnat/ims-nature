@@ -35,5 +35,25 @@
     "https://fr.wikipedia.org/wiki/Chat",
     "https://fr.wikipedia.org/wiki/Felis_silvestris"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Chat_2.JPG",
+      "alt": "Un chat domestique femelle",
+      "title": "Un chat domestique femelle",
+      "description": "Asuna en train de dormir... en tirant la langue"
+    },
+    {
+      "src": "media/Photos site/Galerie/Chat_1.JPG",
+      "alt": "Un chat domestique",
+      "title": "Un chat domestique",
+      "description": "Un chat domestique au parc de la Tête d'Or à Lyon"
+    },
+    {
+      "src" : "media/Photos site/Galerie/Chat_3.JPG",
+      "alt" : "Un chat domestique femelle",
+      "title" : "Un chat domestique femelle",
+      "description" : "Asuna en train de faire sa toilette"
+    }
+  ],
+  "date": "Août 2021"
 }

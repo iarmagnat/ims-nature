@@ -46,7 +46,31 @@
       "src": "media/Photos site/Galerie/Moineau_1.JPG",
       "alt": "Des moineaux domestiques",
       "title": "Des moineaux domestiques",
-      "description": "Deux moineaux (mâle à droite et femelle à gauche) prenant un \"bain\""
+      "description": "Deux moineaux domestiques (mâle à droite et femelle à gauche) prenant un \"bain\""
+    },
+    {
+      "src": "media/Photos site/Galerie/Moineau_2.JPG",
+      "alt": "Un moineau domestique femelle",
+      "title": "Un moineau domestique femelle",
+      "description": "Un moineau domestique femelle posé sur une barrière"
+    },
+    {
+      "src" : "media/Photos site/Galerie/Moineau_3.JPG",
+      "alt" : "Un moineau domestique femelle",
+      "title" :"Un moineau domestique femelle",
+      "description" : "Un moineau domestique femelle avec une plume dans la bouche"
+    },
+    {
+      "src" :"media/Photos site/Galerie/Moineau_4.JPG",
+      "alt" :"Des moineaux domestiques mâles",
+      "title" :"Des moineaux domestiques mâles",
+      "description" : "Deux moineaux domestiques mâles posés sur un mur"
+    },
+    {
+      "src" :"media/Photos site/Galerie/Moineau_5.jpg",
+      "alt" :"Un moineau domestique",
+      "title" :"Un moineau domestique",
+      "description" : "Un moineau domestique en plein vol"
     }
   ],
   "date": "Août 2021"
