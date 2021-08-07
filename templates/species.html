@@ -50,7 +50,7 @@
           </h1>
         {% endif %}
         <div class="species__image-mobile">
-          {{ image.render(clickable=true, **data.image) }}
+          {{ image.render(clickable=true, mobile=true, **data.image) }}
         </div>
         <div class="species__iucn">
           {{ iucn.render(data.iucn) }}
@@ -114,7 +114,7 @@
           <ul>
             {% for source in data.sources %}
               <li>
-                <a href="{{ source }}" class="species__source-link" target="_blank">{{ source }}</a>
+                <a href="{{ source }}" class="species__source-link" target="_blank" rel="noreferrer">{{ source }}</a>
               </li>
             {% endfor %}
           </ul>

@@ -90,6 +90,7 @@
 @media (max-width: 1199px) {
   .species__description {
     margin: 10px 0 0;
+    padding: 0 5px;
   }
 }
 .species__legal {
@@ -97,9 +98,11 @@
   justify-content: space-between;
   align-items: flex-end;
   flex-wrap: wrap;
+  padding: 0 5px;
 }
 .species__sources {
   padding: 1px 0 1px 10px;
+  overflow-y: auto;
 }
 .species__sources summary {
   cursor: pointer;
@@ -126,14 +129,15 @@
 }
 .species-gallery__item {
   max-width: 650px;
+  width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  align-items: center;
   margin-bottom: 20px;
 }
 .species-gallery__item--space-fix {
   height: 0;
-  width: 100%;
   margin: 0;
 }
 .species-gallery__description {
@@ -490,6 +494,7 @@
   margin: 0;
   font-weight: normal;
   font-style: italic;
+  padding: 0 5px;
 }
 .category__cards {
   display: flex;

@@ -106,6 +106,7 @@
 
     @media (max-width: $tablet - 1) {
       margin: 10px 0 0;
+      padding: 0 5px;
     }
   }
 
@@ -114,10 +115,12 @@
     justify-content: space-between;
     align-items: flex-end;
     flex-wrap: wrap;
+    padding: 0 5px;
   }
 
   &__sources {
     padding: 1px 0 1px 10px;
+    overflow-y: auto;
 
     summary {
       cursor: pointer;
@@ -149,14 +152,15 @@
 
   &__item {
     max-width: 650px;
+    width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    align-items: center;
     margin-bottom: 20px;
 
     &--space-fix {
       height: 0;
-      width: 100%;
       margin: 0;
     }
   }
