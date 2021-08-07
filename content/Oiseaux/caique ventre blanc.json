@@ -42,5 +42,19 @@
     "https://www.oiseaux.net/oiseaux/caique.a.ventre.blanc.html",
     "https://www.xeno-canto.org/contributor/EZSMXGTXKS"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Caïqueventreblanc_1.JPG",
+      "alt": "Un caïque à ventre blanc",
+      "title": "Un caïque à ventre blanc",
+      "description": "Un caïque à ventre blanc faisant sa toilette"
+    },
+    {
+      "src": "media/Photos site/Galerie/Caïqueventreblanc_2.JPG",
+      "alt": "Deux caïques à ventre blanc",
+      "title": "Deux caïques à ventre blanc",
+      "description": "Deux caïque à ventre blanc au jardin zoologique de Lyon"
+    }
+  ],
+  "date": "Août 2021"
 }

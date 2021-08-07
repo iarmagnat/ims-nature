@@ -41,5 +41,25 @@
     "https://www.oiseaux.net/oiseaux/grue.demoiselle.html",
     "https://www.xeno-canto.org/contributor/KDTMIWOGNC"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Gruedemoiselle_1.JPG",
+      "alt": "Une grue demoiselle",
+      "title": "Une grue demoiselle",
+      "description": "Un grue demoiselle au jardin zoologique de Lyon"
+    },
+    {
+      "src": "media/Photos site/Galerie/Gruedemoiselle_2.JPG",
+      "alt": "Une grue demoiselle",
+      "title": "Une grue demoiselle",
+      "description": "Une grue demoiselle faisant sa toilette"
+    },
+    {
+      "src":"media/Photos site/Galerie/Gruedemoiselle_3.JPG",
+      "alt": "Une grue demoiselle",
+      "title": "Une grue demoiselle",
+      "description": "Une grue demoiselle"
+    }
+  ],
+  "date": "Août 2021"
 }

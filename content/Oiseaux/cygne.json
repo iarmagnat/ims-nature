@@ -41,5 +41,67 @@
     "https://auvergne-rhone-alpes.lpo.fr/Cygne-tubercule-356",
     "https://www.xeno-canto.org/contributor/PAEQEUHPFQ"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Cygne_7.JPG",
+      "alt": "Un cygne tuberculé",
+      "title": "Un cygne tuberculé",
+      "description": "Un cygne tuberculé en train de faire sa toilette"
+    },
+    {
+      "src": "media/Photos site/Galerie/Cygne_3.JPG",
+      "alt": "Un cygne tuberculé",
+      "title": "Un cygne tuberculé",
+      "description": "Un cygne tuberculé en train de couver"
+    },
+    {
+      "src": "media/Photos site/Galerie/Cygne_4.JPG",
+      "alt": "Un cygne tuberculé",
+      "title": "Un cygne tuberculé",
+      "description": "Un cygne tuberculé en train de couver sous la pluie"
+    },
+    {
+      "src": "media/Photos site/Galerie/Cygne_8.JPG",
+      "alt": "Un œuf de cygne tuberculé",
+      "title": "Un œuf de cygne tuberculé",
+      "description": "Un œuf de cygne tuberculé"
+    },
+    {
+      "src":"media/Photos site/Galerie/Cygne_5.JPG",
+      "alt": "Un jeune cygne tuberculé",
+      "title":"Un jeune cygne tuberculé",
+      "description": "Un jeune cygne tuberculé né il y a quelques jours"
+    },
+    {
+      "src":"media/Photos site/Galerie/Cygne_6.JPG",
+      "alt":"Des cygnes tuberculés",
+      "title": "Des cygnes tuberculés",
+      "description": "De jeunes cygnes tuberculés nés il y a quelques jours en train de dormir sur leur mère"
+    },
+    {
+      "src":"media/Photos site/Galerie/Cygne_9.JPG",
+      "alt": "Des jeunes cygnes tuberculés",
+      "title": "Des jeunes cygnes tuberculés",
+      "description": "Des jeunes cygnes tuberculés en train de nager"
+    },
+    {
+      "src": "media/Photos site/Galerie/Cygne_10.JPG",
+      "alt": "Une famille de cygnes tuberculés",
+      "title": "Une famille de cygnes tuberculés",
+      "description": "Une famille de cygnes tuberculés en train de nager"
+    },
+    {
+      "src": "media/Photos site/Galerie/Cygne_2.JPG",
+      "alt": "Un jeune cygne tuberculé",
+      "title": "Un jeune cygne tuberculé",
+      "description": "Un jeune cygne tuberculé âgé de 2 mois"
+    },
+    {
+      "src": "media/Photos site/Galerie/Cygne_1.JPG",
+      "alt": "Une famille de cygnes tuberculés",
+      "title":"Une famille de cygnes tuberculés",
+      "description": "Une famille de cygnes tuberculés en train de nager, il vaut encore mieux suivre papa et maman"
+    }
+  ],
+  "date": "Août 2021"
 }

@@ -37,5 +37,31 @@
     "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_mammiferes/le_vari_blanc_et_noi/",
     "https://animaldiversity.org/accounts/Varecia_variegata/"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Varinoiretblanc_1.JPG",
+      "alt": "Un vari noir et blanc",
+      "title": "Un vari noir et blanc",
+      "description": "Un vari noir et blanc au jardin zoologique de Lyon"
+    },
+    {
+      "src": "media/Photos site/Galerie/Varinoiretblanc_2.JPG",
+      "alt": "Un vari noir et blanc",
+      "title": "Un vari noir et blanc",
+      "description": "Un vari noir et blanc dans un arbre"
+    },
+    {
+      "src": "media/Photos site/Galerie/Varinoiretblanc_3.JPG",
+      "alt": "Un vari noir et blanc",
+      "title": "Un vari noir et blanc",
+      "description": "Un vari noir et blanc essayant d'attraper une branche"
+    },
+    {
+      "src": "media/Photos site/Galerie/Varinoiretblanc_4.JPG",
+      "alt": "Un vari noir et blanc",
+      "title": "Un vari noir et blanc",
+      "description": "Un vari noir et blanc en train de sentir une branche"
+    }
+  ],
+  "date": "Août 2021"
 }

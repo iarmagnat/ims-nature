@@ -48,6 +48,18 @@
       "alt": "Une grue cendrée",
       "title": "Une grue cendrée",
       "description": "Une grue cendrée au jardin zoologique de Lyon"
+    },
+    {
+      "src": "media/Photos site/Galerie/Gruecendrée_2.JPG",
+      "alt": "Une grue cendrée",
+      "title":"Une grue cendrée",
+      "description": "Une grue cendrée en train de se reposer"
+    },
+    {
+      "src":"media/Photos site/Galerie/Gruecendrée_3.JPG",
+      "alt":"Une grue cendrée",
+      "title":"Une grue cendrée",
+      "description": "Une grue cendrée en train de faire sa toilette"
     }
   ],
   "date": "Août 2021"

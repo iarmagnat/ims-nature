@@ -37,5 +37,13 @@
     "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_mammiferes/le_vari_roux/",
     "https://animaldiversity.org/accounts/Varecia_rubra/"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Variroux_1.JPG",
+      "alt": "Un vari roux",
+      "title": "Un vari roux",
+      "description": "Un vari roux descendant d'un arbre"
+    }
+  ],
+  "date": "Août 2021"
 }

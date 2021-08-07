@@ -34,7 +34,8 @@
   "sources": [
     "https://www.iucnredlist.org/species/15951/115130419",
     "https://www.safari-peaugres.com/les-animaux/lion",
-    "https://fr.wikipedia.org/wiki/Lion"
+    "https://fr.wikipedia.org/wiki/Lion",
+    "https://www.iucnredlist.org/species/15952/5327221"
   ],
   "gallery": [
     {
@@ -47,7 +48,13 @@
       "src": "media/Photos site/Galerie/Lion_2.JPG",
       "alt": "Un lion d'Asie mâle",
       "title": "Un lion d'Asie mâle",
-      "description": "Un lion d'Asie (<em>Panthera leo persica</em>) mâle au jardin zoologique de Lyon"
+      "description": "Un lion d'Asie (<em>Panthera leo persica</em>) mâle au jardin zoologique de Lyon, sous-espèce classée \"en danger\" par l'UICN"
+    },
+    {
+      "src" :"media/Photos site/Galerie/Lion_3.JPG",
+      "alt" : "Un lion d'Asie mâle",
+      "title" : "Un lion d'Asie mâle",
+      "description" : "Un lion d'Asie mâle en train de se rouler dans l'herbe"
     }
   ],
   "date": "Août 2021"

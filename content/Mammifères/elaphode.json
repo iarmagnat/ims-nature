@@ -36,5 +36,25 @@
     "https://fr.wikipedia.org/wiki/Elaphodus_cephalophus",
     "https://www.parcanimalierdauvergne.fr/animal/cerf-huppe/"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Elaphode_1.JPG",
+      "alt": "Un élaphode mâle",
+      "title": "Un élaphode mâle",
+      "description": "Un élaphode mâle au jardin zoologique de Lyon"
+    },
+    {
+      "src": "media/Photos site/Galerie/Elaphode_2.JPG",
+      "alt": "Un élaphode mâle",
+      "title": "Un élaphode mâle",
+      "description": "Un \"zoom\" sur la tête d'un élaphode mâle"
+    },
+    {
+      "src" :"media/Photos site/Galerie/Elaphode_3.JPG",
+      "alt" : "Un élaphode mâle",
+      "title" : "Un élaphode mâle",
+      "description" : "Un élaphode mâle vu de dos"
+    }
+  ],
+  "date": "Août 2021"
 }
