@@ -41,5 +41,19 @@
     "https://animaldiversity.org/accounts/Milvus_migrans/",
     "https://www.xeno-canto.org/contributor/SPMWIWZKKC"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Milannoir_1.JPG",
+      "alt": "Un milan noir",
+      "title": "Un milan noir",
+      "description": "Un milan noir en plein vol, on remarque qu'il a une proie dans ses serres"
+    },
+    {
+      "src": "media/Photos site/Galerie/Milannoir_2.JPG",
+      "alt": "Un milan noir",
+      "title": "Un milan noir",
+      "description": "Un milan noir en plein vol"
+    }
+  ],
+  "date": "Août 2021"
 }

@@ -43,5 +43,19 @@
     "https://fr.vikidia.org/wiki/Cigogne_blanche",
     "https://www.xeno-canto.org/contributor/RNMRWBXEZJ"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Cigogne_1.JPG",
+      "alt": "Une cigogne blanche",
+      "title": "Une cigogne blanche",
+      "description": "Une cigogne blanche dans un arbre"
+    },
+    {
+      "src": "media/Photos site/Galerie/Cigogne_2.JPG",
+      "alt": "Un nid de cigogne blanche",
+      "title": "Un nid de cigogne blanche",
+      "description": "Un nid de cigogne blanche en haut d'un arbre"
+    }
+  ],
+  "date": "Août 2021"
 }

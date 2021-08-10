@@ -41,5 +41,13 @@
     "https://fr.wikipedia.org/wiki/Tourterelle_turque",
     "https://en.wikipedia.org/wiki/Eurasian_collared_dove"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Tourterelle_1.jpg",
+      "alt": "Des tourterelles turques",
+      "title": "Des tourterelles turques",
+      "description": "Des tourterelles turques posées sur un câble électrique"
+    }
+  ],
+  "date": "Août 2021"
 }

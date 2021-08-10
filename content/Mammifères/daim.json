@@ -36,5 +36,31 @@
     "http://www.zoo.lyon.fr/zoo/sections/fr/les_animaux/la_liste_des_especes/les_mammiferes/les_daims/",
     "https://fr.wikipedia.org/wiki/Daim"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Daim_1.JPG",
+      "alt": "Deux daims",
+      "title": "Deux daims",
+      "description": "Deux daims se regardant"
+    },
+    {
+      "src": "media/Photos site/Galerie/Daim_2.JPG",
+      "alt": "Un groupe de daims",
+      "title": "Un groupe de daims",
+      "description": "Un groupe de daims en train de se reposer"
+    },
+    {
+      "src": "media/Photos site/Galerie/Daim_3.JPG",
+      "alt": "Un daim",
+      "title": "Un daim",
+      "description": "Un daim servant de transport pour une <a href=\"/oiseaux/pie\">pie bavarde</a>"
+    },
+    {
+      "src" : "media/Photos site/Galerie/Daim_4.JPG",
+      "alt" : "Deux daims",
+      "title" : "Deux daims",
+      "description" : "Deux daims en train de manger"
+    }
+  ],
+  "date": "Août 2021"
 }

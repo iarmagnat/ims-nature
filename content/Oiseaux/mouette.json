@@ -47,6 +47,24 @@
       "alt": "Une mouette rieuse",
       "title": "Une mouette rieuse",
       "description": "Une mouette rieuse posée sur une bouée dans l'eau"
+    },
+    {
+      "src" : "media/Photos site/Galerie/Mouette_2.JPG",
+      "alt" : "Une mouette rieuse",
+      "title" : "Une mouette rieuse",
+      "description" : "Une mouette rieuse posée sur l'eau"
+    },
+    {
+      "src" : "media/Photos site/Galerie/Mouette_3.JPG",
+      "alt" : "Un groupe de mouettes rieuses",
+      "title" : "Un groupe de mouettes rieuses",
+      "description" : "Un groupes de mouettes rieuses se disputant un bout de pain"
+    },
+    {
+      "src" : "media/Photos site/Galerie/Mouette_4.JPG",
+      "alt" : "Une mouette rieuse",
+      "title" : "Une mouette rieuse",
+      "description" : "Une mouette rieuse en plein vol"
     }
   ],
   "date": "Août 2021"
