@@ -59,6 +59,30 @@
       "alt": "Un Chihuahua mâle",
       "title": "Un Chihuahua mâle",
       "description": "Shippô, un Chihuahua mâle"
+    },
+    {
+      "src" : "media/Photos site/Galerie/Chien_5.JPG",
+      "alt" : "Un œil de chien",
+      "title" : "Un œil de chien",
+      "description" : "Un gros plan sur un œil de chien (Chihuahua)"
+    },
+    {
+      "src" : "media/Photos site/Galerie/Chien_6.JPG",
+      "alt" : "Un nez de chien",
+      "title" : "Un nez de chien",
+      "description" : "Un gros plan sur un nez de chien (Chihuahua)"
+    },
+    {
+      "src" : "media/Photos site/Galerie/Chien_8.JPG",
+      "alt" : "Un œil de chien",
+      "title" : "Un œil de chien",
+      "description" :"Un gros plan sur un œil de chien (Akita Inu)"
+    },
+    {
+      "src" :"media/Photos site/Galerie/Chien_7.JPG",
+      "alt" : "Un nez de chien",
+      "title" : "Un nez de chien",
+      "description" : "Un gros plan sur un nez de chien (Akita Inu)"
     }
   ],
   "date": "Août 2021"

@@ -41,6 +41,31 @@
     "https://www.iucnredlist.org/species/22705983/118782308",
     "https://www.lpo-idf.fr/?pg=sp&sp=136",
     "https://www.xeno-canto.org/contributor/PAEQEUHPFQ"
+  ],  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Corbeau_1.JPG",
+      "alt": "Un corbeau freux",
+      "title": "Un corbeau freux",
+      "description": "Un corbeau freux couvant dans son nid avec un ver dans le bec"
+    },
+    {
+      "src": "media/Photos site/Galerie/Corbeau_2.JPG",
+      "alt": "Un couple de corbeaux freux",
+      "title": "Un couple de corbeaux freux",
+      "description": "Un couple de corbeaux freux nourrissant leurs petits"
+    },
+    {
+      "src" : "media/Photos site/Galerie/Corbeau_3.JPG",
+      "alt" : "Un corbeau freux",
+      "title" : "Un corbeau freux",
+      "description" : "Un corbeau freux protégeant ses petits"
+    },
+    {
+      "src" : "media/Photos site/Galerie/Corbeau_4.JPG",
+      "alt" : "Un couple de corbeaux freux",
+      "title" : "Un couple de corbeaux freux",
+      "description" : "Un couple de corbeaux dans leur nid"
+    }
   ],
-  "date": "Juillet 2021"
+  "date": "Août 2021"
 }

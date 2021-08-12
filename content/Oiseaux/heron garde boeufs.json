@@ -41,5 +41,13 @@
     "https://fr.wikipedia.org/wiki/H%C3%A9ron_garde-b%C5%93ufs",
     "https://www.xeno-canto.org/contributor/PNYKOPBQBQ"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Hérongb_1.JPG",
+      "alt": "Un héron garde-bœufs",
+      "title": "Un héron garde-bœufs",
+      "description": "Un héron garde-bœufs faisant sa toilette dans un arbre"
+    }
+  ],
+  "date": "Août 2021"
 }
