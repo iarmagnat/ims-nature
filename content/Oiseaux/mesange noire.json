@@ -1,0 +1,59 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Mésange noire",
+  "name": "Periparus ater",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Mésangenoire.JPG",
+    "alt": "Une mésange noire",
+    "title": "Une mésange noire"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Passeriformes",
+    "Famille": "Paridae",
+    "Genre": "Periparus",
+    "Espèce": "Periparus ater"
+  },
+  "page_content": {
+    "Ponte": "Avril-Juin",
+    "Répartition": "Eurasie/Nord Afrique",
+    "Habitat": "Forêts résineux, conifères",
+    "Chant": "Tsi/Pitchou pitchou pitchou"
+  },
+  "description": "Il s'agit de la plus petite des mésanges.<br/> Elle peut ressembler à la <a href=\"/oiseaux/mesange-charbonniere\">mésange charbonnière</a> mais la mésange noire n'a pas les couleurs vives de la mésange charbonnière. De plus, la mésange noire possède une tache blanche à l'arrière de sa tête noire grisâtre et des dessins de la même couleur sur les joues et elle ne possède pas de trait vertical noir sur la poitrine.<br/> Le dimorphisme sexuel est absent à l'exception de la bavette, sous le bec, qui est plus terne et plus brune chez les femelles.<br/> Elle bénéficie, depuis 1981, d'une protection totale sur le territoire français.",
+  "sound": {
+    "src": "media/Chants oiseaux/Mésangenoire.mp3"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Mesangenoire.jpg",
+    "alt": "Aire de répartition de la mésange noire",
+    "title": "Aire de répartition de la mésange noire"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/M%C3%A9sange_noire",
+    "https://www.iucnredlist.org/species/22735965/118835425",
+    "https://www.oiseaux.net/oiseaux/mesange.noire.html",
+    "https://www.xeno-canto.org/639282",
+    "https://auvergne-rhone-alpes.lpo.fr/Mesange-noire"
+  ],
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Mésangenoire_1.JPG",
+      "alt": "Une mésange noire",
+      "title": "Une mésange noire",
+      "description": "Une mésange noire apparaissant entre des branches"
+    },
+    {
+      "src": "media/Photos site/Galerie/Mésangenoire_2.JPG",
+      "alt": "Une mésange noire",
+      "title": "Une mésange noire",
+      "description": "Une mésange noire de profil"
+    }
+  ],
+  "date": "Septembre 2021"
+}

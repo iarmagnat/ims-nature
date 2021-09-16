@@ -1,0 +1,45 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Faucon crécerelle",
+  "name": "Falco tinnunculus",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Fauconcrécerelle.JPG",
+    "alt": "Un faucon crécerelle",
+    "title": "Un faucon crécerelle"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Falconiformes",
+    "Famille": "Falconidae",
+    "Genre": "Falco",
+    "Espèce": "Falco tinnunculus"
+  },
+  "page_content": {
+    "Ponte": "Avril-Août",
+    "Répartition": "Eurasie/Afrique",
+    "Habitat": "Régions cultivées, landes, alpages, ouvert, villes",
+    "Chant": "Ki ki ki/Tsik"
+  },
+  "description": "Il s'agit d'un des rapaces les plus commun en France avec la buse variable et le <a href=\"/oiseaux/milan-noir\">milan noir</a>.<br/> La femelle, plus grande que le mâle, a la tête et le corps moucheté et une queue rousse avec des raies noire. Le mâle, lui, a la tête et la queue gris ardoise avec un trait de moustache noire sous les yeux.<br/> Actuellement, l'espèce est commune mais les populations subissent les effets du changement climatique et des activités humaines, on estime qu'il y a eu une baisse de 19% des effectifs entre 2001 et 2018.",
+  "sound": {
+    "src": "media/Chants oiseaux/Fauconcrécerelle.mp3"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Fauconcrécerelle.jpg",
+    "alt": "Aire de répartition du faucon crécerelle",
+    "title": "Aire de répartition du faucon crécerelle"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Faucon_cr%C3%A9cerelle",
+    "https://www.oiseaux.net/oiseaux/faucon.crecerelle.html",
+    "https://www.xeno-canto.org/674753",
+    "https://www.iucnredlist.org/species/22696362/93556429",
+    "http://observatoire-rapaces.lpo.fr/index.php?m_id=20058"
+  ],
+  "date": "Septembre 2021"
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Marmotte des Alpes",
+  "name": "Marmota marmota",
+  "image": {
+    "src": "media/Photos site/Mammifères/Marmotte.JPG",
+    "alt": "Une marmotte des Alpes",
+    "title": "Une marmotte des Alpes"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
+    "Ordre": "Rodentia",
+    "Famille": "Sciuridae",
+    "Genre": "Marmota",
+    "Espèce": "Marmota marmota"
+  },
+  "page_content": {
+    "Répartition": "Europe",
+    "Habitat": "Montagnes",
+    "Reproduction": "Avril-Mai (après hibernation)",
+    "Taille portée": "1-7"
+  },
+  "description": "Il s'agit de l'une des espèces les plus répendues du genre Marmota. C'est également le plus gros rongeur de France, après le castor.<br/> La marmotte des Alpes vit entre 800 et 3000 m d'altitude.<br/> Les marmottes des Alpes ne sont pas faciles à voir mais on les repère facilement grâce à leur aboiement proches du sifflement lorsqu'elles préviennent d'un danger.<br/> Fin Septembre, elles regagnent leur terrier, qu'elles barricadent, pour passer l'hiver; elles peuvent hiberner jusqu'à 6 mois ! A la sortie de l'hibernation, elles peuvent avoir perdu jusqu'à la moitié de leur masse corporelle.<br/> La marmotte des Alpes a été réintroduite dans les Pyrénées en 1948 ainsi que dans le massif du Vercors et le Massif central dans les années 80.",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Marmotte.jpg",
+    "alt": "Aire de répartition de la marmotte des Alpes",
+    "title": "Aire de répartition de la marmotte des Alpes"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Marmota_marmota",
+    "https://animaldiversity.org/accounts/Marmota_marmota/",
+    "https://www.iucnredlist.org/species/12835/510082",
+    "http://www.parcsnationaux.fr/fr/des-connaissances/biodiversite/faune-emblematique/les-mammiferes/la-marmotte-des-alpes"
+  ],
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Marmotte_1.JPG",
+      "alt": "Une marmotte des Alpes",
+      "title": "Une marmotte des Alpes",
+      "description": "Une marmotte des Alpes mangeant posée sur un rocher"
+    },
+    {
+      "src": "media/Photos site/Galerie/Marmotte_2.JPG",
+      "alt": "Une marmotte des Alpes",
+      "title": "Une marmotte des Alpes",
+      "description": "Une marmotte des Alpes faisant le guet sur un rocher"
+    },
+    {
+      "src": "media/Photos site/Galerie/Marmotte_3.JPG",
+      "alt": "Une marmotte des Alpes",
+      "title": "Une marmotte des Alpes",
+      "description": "Une marmotte des Alpes qui nous a repéré"
+    },
+    {
+      "src": "media/Photos site/Galerie/Marmotte_4.JPG",
+      "alt": "Une marmotte des Alpes",
+      "title":"Une marmotte des Alpes",
+      "description": "Une marmotte des Alpes tranquillement en train de marcher"
+    },
+    {
+      "src":"media/Photos site/Galerie/Marmotte_5.JPG",
+      "alt":"Des marmottes des Alpes",
+      "title":"Des marmottes des Alpes",
+      "description" : "Deux marmottes des Alpes"
+    }
+  ],
+  "date": "Septembre 2021"
+}

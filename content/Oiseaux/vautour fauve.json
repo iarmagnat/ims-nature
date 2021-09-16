@@ -1,0 +1,71 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Vautour fauve",
+  "name": "Gyps fulvus",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Vautourfauve.JPG",
+    "alt": "Un vautour fauve",
+    "title": "Un vautour fauve"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Accipitriformes",
+    "Famille": "Accipitridae",
+    "Genre": "Gyps",
+    "Espèce": "Gyps fulvus"
+  },
+  "page_content": {
+    "Ponte": "Janvier-Février",
+    "Répartition": "Eurasie/Nord Afrique/Moyen-Orient",
+    "Habitat": "Montagnes, falaises, ouvert",
+    "Chant": "Kwa crak crak crak"
+  },
+  "description": "Il est aussi appelé \"griffon\".<br/> Comme les autres oiseaux de ce genre, le vautour fauve possède un long cou et une tête qui, malgré ce qu'on pense, ne sont pas dénudés mais recouverts d'un fin duvet (ce qui facilite le nettoyage). Leurs pattes ne sont pas préhensibles, puisqu'elles ne servent pas pour la chasse, les vautours fauves étant charognards (ils ne peuvent même pas transporter une branche avec).<br/> Au XVIII<sup>e</sup> siècle, on trouvait encore des vautours fauves dans le Sud de l'Allemagne et encore plus haut les siècles précédents. Mais, victime de leur mauvaise réputation, ces vautours ont failli disparaître. Les populations ont pu remonter en effectif dans les années 1980 après l'interdiction des pratiques d'empoisonnement des nuisibles dans les années 1970 et la mise en place de programme de protection et de réintroduction dès 1976 en France.<br/> Le vautour fauve bénéficie d'une protection totale en France depuis 1972 qui est renforcée par la protection de l'ensemble des rapaces en 1976 puis par l'arrêté ministériel de 1981 relatif aux oiseaux protégés sur l'ensemble du territoire.",
+  "sound": {
+    "src": "media/Chants oiseaux/Vautourfauve.mp3"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Vautourfauve.jpg",
+    "alt": "Aire de répartition du vautour fauve",
+    "title": "Aire de répartition du vautour fauve"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Vautour_fauve",
+    "https://www.iucnredlist.org/species/22695219/118593677",
+    "http://observatoire-rapaces.lpo.fr/index.php?m_id=20066",
+    "http://rapaces.lpo.fr/vautour-fauve-pastoralisme",
+    "https://www.xeno-canto.org/585414"
+  ],
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Vautourfauve_1.JPG",
+      "alt": "Un vautour fauve",
+      "title": "Un vautour fauve",
+      "description": "Un vautour fauve en plein vol"
+    },
+    {
+      "src": "media/Photos site/Galerie/Vautourfauve_2.JPG",
+      "alt": "Un vautour fauve",
+      "title": "Un vautour fauve",
+      "description": "Un vautour fauve en train de voler"
+    },
+    {
+      "src": "media/Photos site/Galerie/Vautourfauve_3.JPG",
+      "alt": "Un vautour fauve",
+      "title": "Un vautour fauve",
+      "description": "Un vautour fauve en plein vol, on peut bien voir les motifs sur ses ailes"
+    },
+    {
+      "src": "media/Photos site/Galerie/Vautourfauve_4.JPG",
+      "alt": "Un vautour fauve",
+      "title": "Un vautour fauve",
+      "description": "Un vautour fauve pousuivant une hirondelle"
+    }
+  ],
+  "date": "Septembre 2021"
+}
