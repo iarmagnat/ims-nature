@@ -1,0 +1,79 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Bouquetin des Alpes",
+  "name": "Capra ibex",
+  "image": {
+    "src": "media/Photos site/Mammifères/Bouquetin.JPG",
+    "alt": "Un bouquetin des Alpes",
+    "title": "Un bouquetin des Alpes"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
+    "Ordre": "Artiodactyla",
+    "Famille": "Bovidae",
+    "Genre": "Capra",
+    "Espèce": "Capra ibex"
+  },
+  "page_content": {
+    "Répartition": "Alpes",
+    "Habitat": "Falaises, pics, parois escarpées",
+    "Reproduction": "Décembre-Janvier",
+    "Taille portée": "1"
+  },
+"description": "La photographie ci-dessus montre une femelle adulte.<br/> Le mâle, aussi appelé \"bouc\" ou \"éterlou\" quand il est jeune, possède des cornes impressionnantes en forme de cimeterres qui poussent tout au long de sa vie. Ces cornes peuvent atteindre entre 70 et 100 cm et peser jusqu'à 6 kg par paire ! La femelle, appelée \"étagne\" ou \"éterle\" quand elle est jeune, possède également des cornes mais beaucoup plus courtes et plus fines que celles du mâle mesurant au maximum 30 cm et ne pesant que 100 à 300 g par paire. Chez les petits, ou \"cabris\", la différenciation des sexes est impossible jusqu'à 5-6 mois et est difficile jusqu'à 1 an. Au-delà de cet âge, une différenciation est possible en regardant le diamètre des cornes : celles des mâles ont un diamètre plus important que celles des femelles.<br/> Les bouquetins des Alpes forment des hardes séparées de mâles et de femelles. Les femelles se regroupent entre jeunes femelles, mères allaitantes et jeunes de 1 an. Les jeunes mâles quitteront la harde pour rejoindre celle des mâles adultes où ils devront trouver leur place dans la hiérarchie. Mâles et femelles ne se regroupent qu'au moment du rut.<br/> Le bouquetin des Alpes a failli disparaître au XIX<sup>e</sup> siècle mais l'espèce a bénéficié de programmes de réintroductions et elle est aujourd'hui considérée comme hors de danger. Les dernières populations naturelles existaient en Italie et en France mais on en trouve désormais en Suisse, en Allemagne, en Autriche et en Slovénie. On estime qu'il y aurait, en 2015, plus de 55 000 individus dans les Alpes contre 30 000 en 1990.",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Bouquetin.jpg",
+    "alt": "Aire de répartition du bouquetin des Alpes",
+    "title": "Aire de répartition du bouquetin des Alpes"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Bouquetin_des_Alpes",
+    "https://www.iucnredlist.org/species/42397/161916377",
+    "https://animaldiversity.org/accounts/Capra_ibex/",
+    "http://www.parcsnationaux.fr/fr/des-connaissances/biodiversite/faune-emblematique/les-mammiferes/le-bouquetin-des-alpes"
+  ],
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Bouquetin_1.JPG",
+      "alt": "Des bouquetins des Alpes",
+      "title": "Des bouquetins des Alpes",
+      "description": "Deux bouquetins des Alpes femelles et leurs petits"
+    },
+    {
+      "src": "media/Photos site/Galerie/Bouquetin_2.JPG",
+      "alt": "Des bouquetins des Alpes",
+      "title": "Des bouquetins des Alpes",
+      "description": "Deux bouquetins des Alpes femelles et leurs petits, dont un s'amuse à sauter sur un rocher"
+    },
+    {
+      "src": "media/Photos site/Galerie/Bouquetin_3.JPG",
+      "alt": "Un bouquetin des Alpes femelle",
+      "title": "Un bouquetin des Alpes femelle",
+      "description": "Un bouquetin des Alpes femelle passant de rocher en rocher"
+    },
+    {
+      "src": "media/Photos site/Galerie/Bouquetin_4.JPG",
+      "alt": "Des bouquetins des Alpes",
+      "title":"Des bouquetins des Alpes",
+      "description": "Un bouquetin des Alpes femelle suivie de son petit en train de dévaler une pente avec une aisance déconcertante"
+    },
+    {
+      "src":"media/Photos site/Galerie/Bouquetin_5.JPG",
+      "alt":"Des jeunes bouquetins des Alpes",
+      "title":"Des jeunes bouquetins des Alpes",
+      "description" : "Deux jeunes bouquetins des Alpes en train de jouer"
+    },
+    {
+      "src":"media/Photos site/Galerie/Bouquetin_6.JPG",
+      "alt":"Des bouquetins des Alpes",
+      "title":"Des bouquetins des Alpes",
+      "description" : "Des bouquetins des Alpes femelles et leurs petits en train de manger"
+    }
+  ],
+  "date": "Septembre 2021"
+}

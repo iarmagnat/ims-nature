@@ -1,0 +1,61 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Ragondin",
+  "name": "Myocastor coypus",
+  "image": {
+    "src": "media/Photos site/Mammifères/Ragondin.JPG",
+    "alt": "Un ragondin",
+    "title": "Un ragondin"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
+    "Ordre": "Rodentia",
+    "Famille": "Myocastoridae",
+    "Genre": "Myocastor",
+    "Espèce": "Myocastor coypus"
+  },
+  "page_content": {
+    "Répartition": "Sud Amérique/Europe (invasive)/Nord Amérique (invasive)",
+    "Habitat": "Eaux douces",
+    "Reproduction": "Toute l'année",
+    "Taille portée": "5-7"
+  },
+  "description": "Le ragondin se reconnait facilement à ses quatre incisives rouge-orange. On peut le confondre avec le castor mais un coup d'œil rapide à sa queue arrondie et non plate enlèvera toute confusion.<br/> Il est parfois classé dans la famille des Echimyidae ou \"rats épineux\".<br/> Le ragondin est originaire d'Amérique du Sud mais s'est naturalisé en Asie, en Afrique, en Amérique du Nord et en Europe au XIX<sup>e</sup> siècle suite à son exploitation pour sa fourrure bon marché. Depuis 2016, en Europe, il est inscrit dans la liste des espèces exotiques envahissantes préoccupantes pour l'Union europeenne.",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Ragondin.jpg",
+    "alt": "Aire de répartition du ragondin",
+    "title": "Aire de répartition du ragondin"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Ragondin",
+    "https://www.iucnredlist.org/species/14085/121734257",
+    "https://animaldiversity.org/accounts/Myocastor_coypus/",
+    "https://inpn.mnhn.fr/espece/cd_nom/61667"
+  ],
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Ragondin_1.JPG",
+      "alt": "Un ragondin",
+      "title": "Un ragondin",
+      "description": "Un ragondin en train de manger"
+    },
+    {
+      "src": "media/Photos site/Galerie/Ragondin_2.JPG",
+      "alt": "Un ragondin",
+      "title": "Un ragondin",
+      "description": "Un gros plan sur la tête d'un ragondin"
+    },
+    {
+      "src": "media/Photos site/Galerie/Ragondin_3.JPG",
+      "alt": "Une patte de ragondin",
+      "title": "Une patte ragondin",
+      "description": "Un gros plan sur une patte de ragondin"
+    }
+  ],
+  "date": "Septembre 2021"
+}
