@@ -38,6 +38,13 @@
 {% block main %}
   <div class="dendrogram">
     <h1 class="dendrogram__title">Dendrogramme</h1>
+    <div class="dendrogram__description">
+      Le diagramme ci-dessous, appelé dendrogramme, représente les liens de parenté entre les espèces présentes sur le
+      site
+      <br>
+      <br>
+      <em>N’hésitez pas à faire défiler latéralement si toutes les informations ne s'affichent pas.</em>
+    </div>
     <div class="dendrogram__taxon dendrogram__taxon--label">
       {% for taxon_name in taxonomy_order %}
         <div class="dendrogram__item-name dendrogram__item-name--label">

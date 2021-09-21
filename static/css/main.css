@@ -574,6 +574,10 @@
 .dendrogram__title {
   text-align: center;
 }
+.dendrogram__description {
+  text-align: center;
+  padding: 0 5px 20px;
+}
 .dendrogram__root {
   overflow-y: auto;
   position: relative;
