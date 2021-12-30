@@ -1,0 +1,44 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Rouge-gorge familier",
+  "name": "Erithacus rubecula",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Rougegorge.JPG",
+    "alt": "Un rouge-gorge familier",
+    "title": "Un rouge-gorge familier"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Passeriformes",
+    "Famille": "Muscicapidae",
+    "Genre": "Erithacus",
+    "Espèce": "Erithacus rubecula"
+  },
+  "page_content": {
+    "Ponte": "Avril-Août",
+    "Répartition": "Eurasie/Nord Afrique",
+    "Habitat": "Forêts, parcs, haies, jardins",
+    "Chant": "Tic/Tsiih"
+  },
+  "description": "Son nom vient de la couleur orangée de sa face et de sa poitrine. Pour le reste, il possède une couronne, des ailes et le dessus de la queue de couleur brune ainsi qu'une bande grise sur le côté de la gorge et un ventre blanc.<br/> Le mâle et la femelle sont presque identiques. Identifier les jeunes est plus difficile, ils sont en effet dépourvus de cette fameuse \"gorge rouge\" et leur plumage brun tacheté ressemble beaucoup à celui du jeune du rossignol philomèle (<em>Luscinia megarhynchos</em>).",
+  "sound": {
+    "src": "media/Chants oiseaux/Rougegorge.ogg"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Rougegorge.jpg",
+    "alt": "Aire de répartition du rouge-gorge familier",
+    "title": "Aire de répartition du rouge-gorge familier"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Rouge-gorge_familier",
+    "https://www.oiseaux.net/oiseaux/rougegorge.familier.html",
+    "https://www.iucnredlist.org/species/22709675/131953953",
+    "https://www.projetpangolin.com/"
+  ],
+  "date": "Décembre 2021"
+}
