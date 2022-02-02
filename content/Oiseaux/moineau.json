@@ -25,7 +25,7 @@
     "Habitat": "Urbain, campagnes",
     "Chant": "Tchip tchip"
   },
-  "description": "La photographie ci-dessus montre un mâle adulte avec son plumage nuptial. <br/> Les femelles de cette espèce sont pâles, de couleur gris-beige alors que le mâle a des couleurs plus contrastées surtout au niveau de la tête.<br/> En période de réproduction, le mâle possède une couronne grise bordée de brun.",
+  "description": "La photographie ci-dessus montre un mâle adulte avec son plumage nuptial. <br/> Les femelles de cette espèce sont pâles, de couleur gris-beige alors que le mâle a des couleurs plus contrastées surtout au niveau de la tête.<br/> En période de réproduction, le mâle possède une couronne grise bordée de brun. <br/> Attention de ne pas confondre un mâle de cette espèce avec un <a href=\"/oiseaux/moineau-friquet\">moineau friquet</a>. La différence se fait au niveau de la calotte (marron chez le friquet et grise chez le domestique) et de la joue (tachée de noir chez le friquet).",
   "sound": {
     "src": "media/Chants oiseaux/Moineau.ogg"
   },
@@ -61,17 +61,11 @@
       "description" : "Un moineau domestique femelle avec une plume dans la bouche"
     },
     {
-      "src" :"media/Photos site/Galerie/Moineau_4.JPG",
-      "alt" :"Des moineaux domestiques mâles",
-      "title" :"Des moineaux domestiques mâles",
-      "description" : "Deux moineaux domestiques mâles posés sur un mur"
-    },
-    {
       "src" :"media/Photos site/Galerie/Moineau_5.jpg",
       "alt" :"Un moineau domestique",
       "title" :"Un moineau domestique",
       "description" : "Un moineau domestique en plein vol"
     }
   ],
-  "date": "Août 2021"
+  "date": "Février 2022"
 }

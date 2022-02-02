@@ -1,0 +1,54 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Grive draine",
+  "name": "Turdus viscivorus",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Grivedraine.JPG",
+    "alt": "Une grive draine",
+    "title": "Une grive draine"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Passeriformes",
+    "Famille": "Turdidae",
+    "Genre": "Turdus",
+    "Espèce": "Turdus viscivorus"
+  },
+  "page_content": {
+    "Ponte": "Mars-Juin",
+    "Répartition": "Eurasie/Nord Afrique",
+    "Habitat": "Bois, parcs, jardins, vergers, haies",
+    "Chant": "Trrrrt/Rec trec trec/Siii"
+  },
+  "description": "Aussi appelée \"grive viscivore\", elle tire son nom du fait qu'elle se nourrit de baies du gui d'Europe (<em>Viscum album</em>) en été.<br/>Il s'agit de la plus grosse des grives présentes en France.<br/>Les mâles et les femelles sont identiques. Les juvéniles ont une tête plus claire et ont des plumes tachées dans le dos.<br/>La grive draine ressemble beaucoup à la grive musicienne (<em>Turdus philomelos</em>) mais cette dernière est plus petite, plus fine, a le dos brun (gris pour la draine) et des taches en forme de goutte ou de coeur sur le ventre (rondes chez la draine). Attention également à ne pas confondre la grive draine avec un <a href=\"/oiseaux/merle\">merle noir</a> juvénile qui lui a une queue et des ailes brun-noir et des taches plus petites sur le ventre.<br/> Les œufs de la grive draine sont bleu clair mouchetés de sombre.",
+  "sound": {
+    "src": "media/Chants oiseaux/Grivedraine.mp3"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Grivedraine.jpg",
+    "alt": "Aire de répartition de la grive draine",
+    "title": "Aire de répartition de la grive draine"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Grive_draine",
+    "https://www.oiseaux.net/oiseaux/grive.draine.html",
+    "https://inpn.mnhn.fr/espece/cd_nom/4142/tab/fiche",
+    "https://www.iucnredlist.org/species/22708829/87878799",
+    "https://www.lpo.fr/decouvrir-la-nature/fiches-especes/fiches-especes/oiseaux/grive-draine",
+    "https://xeno-canto.org/696031"
+  ],
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Grivedraine_1.JPG",
+      "alt": "Une grive draine",
+      "title": "Une grive draine",
+      "description": "Une grive draine de dos dans un arbre"
+    }
+  ],
+  "date": "Février 2022"
+}

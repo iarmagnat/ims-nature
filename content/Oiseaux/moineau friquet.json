@@ -1,0 +1,54 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Moineau friquet",
+  "name": "Passer montanus",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Moineaufriquet.JPG",
+    "alt": "Un moineau friquet",
+    "title": "Un moineau friquet"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Passeriformes",
+    "Famille": "Passeridae",
+    "Genre": "Passer",
+    "Espèce": "Passer montanus"
+  },
+  "page_content": {
+    "Ponte": "Avril-Juillet",
+    "Répartition": "Eurasie",
+    "Habitat": "Campagnes cultivées, parcs, bois, villages",
+    "Chant": "Tett tett/Teck teck"
+  },
+  "description": "Le moineau friquet est reconnaissable à sa calotte marron et aux taches noires en forme de virgule sur les joues. Les mâles et les femelles sont identiques. Les jeunes sont semblables aux adultes mais la tache de leur joue est moins nette. <br/> Le moineau friquet ressemble beaucoup au <a href=\"/oiseaux/moineau\">moineau domestique</a> mâle mais ce dernier a la calotte grise et n'a pas de tache noire sur la joue. Le moineau friquet est moins fréquent et légèrement plus petit que le moineau domestique. <br/> Le moineau friquet est une des espèces d'oiseaux qui a connu le plus fort déclin depuis 2001 :  ses effectifs ont baissé de 60%. En France, cette espèce est classée comme \"en danger\" par l'UICN.",
+  "sound": {
+    "src": "media/Chants oiseaux/Moineaufriquet.mp3"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Moineaufriquet.jpg",
+    "alt": "Aire de répartition du moineau friquet",
+    "title": "Aire de répartition du moineau friquet"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Moineau_friquet",
+    "https://www.oiseaux.net/oiseaux/moineau.friquet.html",
+    "https://inpn.mnhn.fr/espece/cd_nom/4532",
+    "https://www.iucnredlist.org/species/22718270/119216586",
+    "https://paca.lpo.fr/protection/especes/zoom-sur-une-espece/11074-le-moineau-friquet",
+    "https://xeno-canto.org/699014"
+  ],
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Moineaufriquet_1.JPG",
+      "alt": "Des moineaux friquets",
+      "title": "Des moineaux friquets",
+      "description": "Deux moineaux friquets posés sur un mur"
+    }
+  ],
+  "date": "Février 2022"
+}
