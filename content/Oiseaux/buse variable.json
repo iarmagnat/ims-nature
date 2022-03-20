@@ -1,0 +1,60 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Buse variable",
+  "name": "Buteo buteo",
+  "image": {
+    "src": "media/Photos site/Oiseaux/Buse.JPG",
+    "alt": "Une buse variable",
+    "title": "Une buse variable"
+  },
+  "iucn": "lc",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Aves",
+    "Ordre": "Accipitriformes",
+    "Famille": "Accipitridae",
+    "Genre": "Buteo",
+    "Espèce": "Buteo buteo"
+  },
+  "page_content": {
+    "Ponte": "Avril-Mai",
+    "Répartition": "Europe/Asie/Afrique",
+    "Habitat": "Forêts, lisières, clairières, prairies",
+    "Chant": "Kiiaaah"
+  },
+  "description": "Son nom \"variable\" vient de son plumage qui varie fortement d'un individu à l'autre. Il est généralement brun foncé avec le dessous taché de blanc mais il peut aller du noir au blanc en passant par le marron.<br/> La buse variable est souvent confondue avec le <a href=\"/oiseaux/milan-noir\">milan noir</a>, elle s'en distingue notamment par sa queue arrondie alors que celle du milan noir est en forme de \"V\".<br/> Bien qu'elle soit en forte densité en France, la buse variable bénéficie d'une protection totale sur le territoire français (comme tous les rapaces). Il est donc interdit de la tuer, de la mutiler de la capturer, de l'enlever, de la perturber intentionnellement ou de la neutraliser. Il est également interdit de détruire ou d'enlever les œufs et les nids ainsi que d'altérer ou dégrader son milieu. Enfin, qu'elle soit vivante ou morte, il est interdit de la transporter, de la colporter, de l'utiliser, de la détenir, de la vendre ou de l'acheter.",
+  "sound": {
+    "src": "media/Chants oiseaux/Buse.mp3"
+  },
+  "map": {
+    "src": "media/Aires/Aire_oiseaux/Aire_Buse.jpg",
+    "alt": "Aire de répartition de la buse variable",
+    "title": "Aire de répartition de la buse variable"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Buse_variable",
+    "https://www.oiseaux.net/oiseaux/buse.variable.html",
+    "https://www.iucnredlist.org/species/61695117/206634667 ",
+    "http://observatoire-rapaces.lpo.fr/index.php?m_id=20053",
+    "https://lemagdesanimaux.ouest-france.fr/dossier-307-buse-variable.html#:~:text=La%20buse%20variable%20(Buteo%20buteo,clairs%20que%20ceux%20du%20sud.",
+    "https://xeno-canto.org/670701"
+  ],
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Buse_1.JPG",
+      "alt": "Une buse variable",
+      "title": "Une buse variable",
+      "description": "Une buse variable bien cachée entre les branches"
+    },
+    {
+      "src": "media/Photos site/Galerie/Buse_2.JPG",
+      "alt": "Des buses variables",
+      "title": "Des buses variables",
+      "description": "Trois buses variables en plein vol"
+    }
+  ],
+  "date": "Mars 2022"
+}

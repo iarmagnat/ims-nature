@@ -1,0 +1,41 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Tapir de Malaisie",
+  "name": "Tapirus indicus",
+  "image": {
+    "src": "media/Photos site/Mammifères/Tapirmalaisie.JPG",
+    "alt": "Un tapir de Malaisie",
+    "title": "Un tapir de Malaisie"
+  },
+  "iucn": "en",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
+    "Ordre": "Perissodactyla",
+    "Famille": "Tapiridae",
+    "Genre": "Tapirus",
+    "Espèce": "Tapirus indicus"
+  },
+  "page_content": {
+    "Répartition": "Sud-Est Asie",
+    "Habitat": "Forêts tropicales, marais, jungles",
+    "Reproduction": "Avril-Juin",
+    "Taille portée": "1"
+  },
+  "description": "Il est également appelé \"tapir d'Asie\" ou \"tapir à chabraque\".<br/> Il est facilement différentiable des autres tapirs par sa grande tache blanche sur le dos et les flancs (qui lui donne son nom de \"tapir à chabraque\", la chabraque étant la couverture qu'on mettait sur les chevaux de cavalerie). Le reste de son corps est noir, sauf le bout des oreilles qui est blanc. Le jeune, lui, est rayé de blanc jusqu'à 8 mois.<br/> Il s'agit de la plus grosse espèce de tapir avec un poids allant de 250 à 320 kg.<br/> Le tapir de Malaisie est peu chassé par l'Homme mais en raison de la déforestation et de la perte de son habitat naturel, il est classé \"en danger\" par l'UICN.",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Tapirmalaisie.jpg",
+    "alt": "Aire de répartition du tapir de Malaisie",
+    "title": "Aire de répartition du tapir de Malaisie"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Tapir_de_Malaisie",
+    "https://www.iucnredlist.org/species/21472/45173636",
+    "https://animaldiversity.org/accounts/Tapirus_indicus/",
+    "https://www.mnhn.fr/fr/tapir-de-malaisie"
+  ],
+  "date": "Mars 2022"
+}

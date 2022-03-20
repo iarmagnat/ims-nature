@@ -40,5 +40,19 @@
     "https://www.iucnredlist.org/species/22679106/92802856",
     "https://www.xeno-canto.org/contributor/NWTKEXMKCA"
   ],
-  "date": "Août 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Roulroulcouronné_1.JPG",
+      "alt": "Un roulroul couronné",
+      "title": "Un roulroul couronné",
+      "description": "Un roulroul couronné mâle"
+    },
+    {
+      "src": "media/Photos site/Galerie/Roulroulcouronné_2.JPG",
+      "alt": "Un roulroul couronné",
+      "title": "Un roulroul couronné",
+      "description": "Un roulroul couronné mâle grattant le sol pour trouver de la nourriture"
+    }
+  ],
+  "date": "Mars 2022"
 }

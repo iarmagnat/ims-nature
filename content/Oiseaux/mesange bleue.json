@@ -42,5 +42,19 @@
     "https://www.oiseaux.net/oiseaux/mesange.bleue.html",
     "https://en.wikipedia.org/wiki/Eurasian_blue_tit"
   ],
-  "date": "Juillet 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Mésangebleue_1.JPG",
+      "alt": "Une mésange bleue",
+      "title": "Une mésange bleue",
+      "description": "Une mésange bleue bien cachée entre les branches"
+    },
+    {
+      "src": "media/Photos site/Galerie/Mésangebleue_2.JPG",
+      "alt": "Une mésange bleue",
+      "title": "Une mésange bleue",
+      "description": "Une mésange bleue en train de chanter"
+    }
+  ],
+  "date": "Mars 2022"
 }

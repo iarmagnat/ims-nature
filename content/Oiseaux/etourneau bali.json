@@ -41,5 +41,19 @@
     "https://www.xeno-canto.org/species/Leucopsar-rothschildi",
     "https://www.xeno-canto.org/help/FAQ#restricted"
   ],
-  "date": "Août 2021"
+  "gallery": [
+    {
+      "src": "media/Photos site/Galerie/Etourneaubali_1.JPG",
+      "alt": "Un étourneau de Bali",
+      "title": "Un étourneau de Bali",
+      "description": "Un étourneau de Bali à l'espace zoologique de Lyon"
+    },
+    {
+      "src": "media/Photos site/Galerie/Etourneaubali_2.JPG",
+      "alt": "Des étourneaux de Bali",
+      "title": "Des étourneaux de Bali",
+      "description": "Deux étourneaux de Bali"
+    }
+  ],
+  "date": "Mars 2022"
 }

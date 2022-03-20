@@ -1,0 +1,41 @@
+{
+  "metadata": {},
+  "type": "species",
+  "vernacular": "Tamanoir",
+  "name": "Myrmecophaga tridactyla",
+  "image": {
+    "src": "media/Photos site/Mammifères/Tamanoir.JPG",
+    "alt": "Un tamanoir",
+    "title": "Un tamanoir"
+  },
+  "iucn": "vu",
+  "taxonomy": {
+    "Règne": "Animalia",
+    "Embranchement": "Chordata",
+    "Sous-embranchement": "Vertebrata",
+    "Classe": "Mammalia",
+    "Ordre": "Pilosa",
+    "Famille": "Myrmecophagidae",
+    "Genre": "Myrmecophaga",
+    "Espèce": "Myrmecophaga tridactyla"
+  },
+  "page_content": {
+    "Répartition": "Sud Amérique",
+    "Habitat": "Forêts tropicales, marais, prairies",
+    "Reproduction": "Toute l'année",
+    "Taille portée": "1"
+  },
+  "description": "Il est également appelé \"fourmilier géant\" ou \"grand fourmilier\".<br/> Il est facilement reconnaissable à son museau allongé, sa queue touffue, ses longues griffes et son pelage caractéristique. Il mesure entre 182 et 217 cm et pèse entre 27 et 41 kg.<br/> Contrairement aux autres fourmiliers et aux paresseux (qui appartiennent au même ordre), le tamanoir est principalement terrestre et non arboricole ou semi-arboricole.<br/> Il se nourrit de fourmis et de termites, comme l'indique son nom latin. En effet <em>Myrmecophaga</em> signifie \"mangeur de fourmis\" (et <em>tridactyla</em> \"trois doigts\", même s'il en possède 5 en réalité...).<br/> Le tamanoir utilise ses griffes de devant pour déterrer ses proies, qu'il recueille grâce à sa longue langue collante qui mesure en moyenne 60 cm. Ne produisant pas lui-même d'acide gastrique, le tamanoir utilise l'acide formique sécrété par ses proies pour les digérer.<br/> Le tamanoir est menacé par la destruction de son habitat, le feu et le braconnage (pour sa fourrure et en viande de brousse).",
+  "map": {
+    "src": "media/Aires/Aire_mammiferes/Aire_Tamanoir.jpg",
+    "alt": "Aire de répartition du tamanoir",
+    "title": "Aire de répartition du tamanoir"
+  },
+  "sources": [
+    "https://fr.wikipedia.org/wiki/Tamanoir",
+    "https://www.safari-peaugres.com/les-animaux/grand-fourmilier",
+    "https://www.iucnredlist.org/species/14224/47441961",
+    "https://animaldiversity.org/accounts/Myrmecophaga_tridactyla/"
+  ],
+  "date": "Mars 2022"
+}

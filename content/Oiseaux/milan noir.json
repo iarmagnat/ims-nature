@@ -25,7 +25,7 @@
     "Habitat": "Zones boisées, zones caillouteuses, proche lacs et fleuves",
     "Chant": "Piiuuu u u u"
   },
-  "description": "Il est reconnaissable en vol à sa queue en forme de triangle ou de \"V\". Il partage cette caractéristique avec le milan royal mais celui-ci à une queue plus échancrée (on distingue clairement un \"V\"). On le distingue de la buse variable car cette dernière a la queue arrondie.<br/> Les milans noirs d'Europe et d'Asie centrale migrent vers les tropiques en hiver alors que ceux des régions plus chaudes (Inde ou Australie par exemple) sont sédentaires.<br/> Les menaces qui semblent peser sur le milan noir sont la dégradation et la régression des zones humides. Cette espèce n'est cependant pas menacée et elle bénéficie, en France, d'une protection totale depuis 1981.",
+  "description": "Il est reconnaissable en vol à sa queue en forme de triangle ou de \"V\". Il partage cette caractéristique avec le milan royal mais celui-ci à une queue plus échancrée (on distingue clairement un \"V\"). On le distingue de la <a href=\"/oiseaux/buse-variable\">buse variable</a> car cette dernière a la queue arrondie.<br/> Les milans noirs d'Europe et d'Asie centrale migrent vers les tropiques en hiver alors que ceux des régions plus chaudes (Inde ou Australie par exemple) sont sédentaires.<br/> Les menaces qui semblent peser sur le milan noir sont la dégradation et la régression des zones humides. Cette espèce n'est cependant pas menacée et elle bénéficie, en France, d'une protection totale depuis 1981.",
   "sound": {
     "src": "media/Chants oiseaux/Milannoir.mp3"
   },
